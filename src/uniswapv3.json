@@ -1,0 +1,52 @@
+{
+  "name": "Uniswap V3",
+  "description": "Decentralized trading protocol for cryptocurrencies",
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "factory",
+          "address": "0x1F98431c8aD98523631AE4a59f267346ea31F984"
+        },
+        {
+          "name": "router",
+          "address": "0xE592427A0AEce92De3Edee1F18E0157C05861564"
+        },
+        {
+          "name": "nftPositionManager",
+          "address": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "factory",
+          "address": "0x1F98431c8aD98523631AE4a59f267346ea31F984"
+        },
+        {
+          "name": "router",
+          "address": "0xE592427A0AEce92De3Edee1F18E0157C05861564"
+        },
+        {
+          "name": "nftPositionManager",
+          "address": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://uniswap.org",
+    "github": "https://github.com/Uniswap/uniswap-v3-core",
+    "securityAudits": [
+      {
+        "auditor": "Trail of Bits",
+        "date": "2021-03-23",
+        "report": "https://github.com/Uniswap/uniswap-v3-core/blob/main/audits/tob/audit.pdf"
+      }
+    ],
+    "tags": ["DEX", "AMM", "Liquidity"]
+  }
+}
