@@ -1,0 +1,457 @@
+{
+  "name": "QuickSwap",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "V2 Pool",
+          "address": "0x6d9e8dbb2779853db00418d4dcf96f3987cfc9d2"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x604229c960e5cacf2aaeac8be68ac07ba9df81c3"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xf6b87181bf250af082272e3f448ec3238746ce3d"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x5fe84b85ba7dea0fbc8c4571491aca80d97f5e01"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x479e1b71a702a595e19b6d5932cd5c863ab57ee0"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x52d52b2592001537e2a7f973eac2a9fc640e6ccd"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xba4349397ed27d01d69d3085c26943721a36a624"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x6e7a5fafcec6bb1e78bae2a1f0b612012bf14827"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x7e00fdce3ef6d3de0650f98dff5d267cd51ca577"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xcd0f8bc9214e2f4988bcd10ceeec3303920f3165"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xab52931301078e2405c3a3ebb86e11ad0dfd2cfd"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xf6f56ad7655945319ec2c9b4a13f231b9b94a116"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xeef611894ceae652979c9d0dae1deb597790c6ee"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x6dc111d820b81c5669ba2bdb7074b8a937c923c0"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xd85a25332b57cc447a791100e7317e534d553761"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x6f9e92dd4734c168a734b873dc3db77e39552eb6"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x7926ff860c1593e2473f6e28062e5a46230a813c"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xb9b36bddc5f4c07e46d697e4b126417fd8412876"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x690a87ed8972e451e755b8f2dc1fc2b28e3c6566"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x3c986748414a812e455dcd5418246b8fded5c369"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xdbcdbd5e1cb36f2c7497b0eb55a847354debc51b"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x9eb792c780d3e3714f245c596c8c8993bf6fc605"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xb46a13fd188976f8c3cd439ebfbf155ba443efd9"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x6f09e1a2e6fb877609396082f21aaba7819fec71"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x3654e293a599953044ac5f6e1e1a45ee749d0d0f"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xf0e36ede3f68bbada2c2a5689925ae10a129594a"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x0e3eb2c75bd7dd0e12249d96b1321d9570764d77"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x187961fa50d0380d1d42fd0b5e8eda0441d27479"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xdb975b96828352880409e86d5ae93c23c924f812"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x00a6177c6455a29b8daa7144b2befc9f2147bb7e"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x44720a6f572649526ac9073cae9200755cc78e0a"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x194257104fabfd9f48bd01bd71a719637b4bbfa9"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xe43ab6540c0929ef29d216a34ab1f0eacc5c3825"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xeecb5db986c20a8c88d8332e7e252a9671565751"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x7b925e617aefd7fb3a93abe3a701135d7a1ba710"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x48bf4947c1f3b648ec4f62696d9f83eaaf23e515"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xe3703608393727c6b3761471d13e064c77c8d836"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x55caabb0d2b704fd0ef8192a7e35d8837e678207"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x096c5ccb33cfc5732bcd1f3195c13dbefc4c82f4"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x80deece4befd9f27d2df88064cf75f080d3ce1b2"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xccb9d2100037f1253e6c1682adf7dc9944498aff"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x85ba262be13329a2db5acf9aa46ac2345b5df4ff"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x536a61e4644fc1932996d2bf1bba26b6efb120d2"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xd9bdfa276b75adad4be42ff7fac6a8f560ad21ee"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x47b54c24e45e4fff621854eaa9ce38d5e761493f"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x04e2dc96afecdf72221882e1cee039cab4d443e0"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x623e52a4adc9aac19051a69cbc1c95ebe6625f45"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x35140e275bbabcfd1ca4177c0f2e82ca00e22974"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x367cb081c591bf1e9d6e74bc81e5bedf971364ab"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xef77d1e8fcf83a4818f6dffc73ef682794600c10"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x6baead5db7fee6d5c9f0ca07bb5038c4cd279f5c"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x4a35582a710e1f4b2030a3f826da20bfb6703c09"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x9aea1545fa5093b7b0ee2526eb18a521f75004b9"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x7e2eaa9514c7a56b4d556ff0d1009cb9c7f2b89d"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x499ea1956d6586d7bf28a9ec71962268a4ec4070"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xa8075cff7b602b48f28db9f85d90532b08d38e2f"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x14ef96a0f7d738db906bdd5260e46aa47b1e6e45"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x33bc9a6a200752ddd44f41dd978977e0699cc00d"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xa5cd8351cbf30b531c7b11b0d9d3ff38ea2e280f"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xd525641c26f426d35c39fe204071049f1c8e28a0"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xeb477ae74774b697b5d515ef8ca09e24fee413b5"
+        },
+        {
+          "name": "Nonfungible Position Manager",
+          "address": "0x8ef88e4c7cfbbac1c163f7eddd4b578792201de6"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xc45092e7e73951c6668f6c46acfca9f2b1c69aef"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xa54e44c7bfbcd2cf756af6fe9a112d782968fdd4"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x7090f6f42ea9b07c85e46ad796f8c4a50e0f76fa"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xd8a381a4f1c2ef1fb4042e2b21315d659c673243"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xe1655a3abb82474f8be74c324eece1603bb4f9f0"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xbb19343a40d70010abe78014669223cf3c39df9b"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x95697b1b83e0f28017158bf2a2adc6ba991088ec"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xc34f686947df1e91e9709777cb70bc8a5584ce92"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x304e57c752e854e9a233ae82fcc42f7568b81180"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xa6f7eaea224cb110c89f5ba6dafbad1e1176e85f"
+        },
+        {
+          "name": "Router",
+          "address": "0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x90bc3e68ba8393a3bf2d79309365089975341a43"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x7c76b6b3fe14831a39c0fec908da5f17180df677"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x0554059d42e26f35cc958581c71fdfd92405d02f"
+        },
+        {
+          "name": "Router",
+          "address": "0xf5b509bb0909a69b1c207e495f687a596c168e12"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x82a54e66c05fcd555adae593848a4257c9e51ad9"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xfe8bacb45a5ce5cf0746f33d3a792c98fbd358e0"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x6971182211017704923180b2490bedd73b671bfe"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x7cb3bb4c1c710036c652eb46c7db699115a77d3d"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xeffa9e5e63ba18160ee26bda56b42f3368719615"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xa5cabfc725dfa129f618d527e93702d10412f039"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xfd5e7bc5362be4c7bcd7a5a6af154210b26d1796"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xe7e0eb9f6bcccfe847fdf62a3628319a092f11a2"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x8de4e271042cee5ce6b16a2cabb0d9a73b444d92"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x76d9553f9910c5cf1f5dbbb210dc95bc5a63ee68"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x7d196c0c447fde421c72f88a1900bf3322f20e0a"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xae81fac689a1b4b1e06e7ef4a2ab4cd8ac0a087d"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xf6a637525402643b0654a54bead2cb9a83c8b498"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x99a13bde3788ef6ca13df6ff754d5898a73ff1a7"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xadbf1854e5883eb8aa7baf50705338739e558e5b"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x29293a0429296efe87d7ba39c662029407e38f46"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x9b1751da19984e691034a5affd85449cbcf6ad29"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xe206a8cf617e64882667c29f1541617235e6050d"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x39eb29474016f7dc40eb47c1cd18ff29e6ae636e"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x4183db4a5a1a3612b17459ba4e072aa59f302e89"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x853ee4b2a13f8a742d64c8f088be7ba2131f670d"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xbc8f3da0bd42e1f2509cd8671ce7c7e5f7fd39c8"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x8b0df64a4b2a1542741b1204b827c7a61816505d"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xfc2fc983a411c4b1e238f7eb949308cf0218c750"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x6669b4706cc152f359e947bca68e263a87c52634"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xc892586e6cceecad6ab6107de807e9f6779b2459"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x1b4a72f4ee5bd142938bd79b6d39fae677b879ef"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x5a70ecedcb737b49a9b26560d0d77394924fef0d"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x1ea7163567885f76fabf11a8e5b2292db48d3e95"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xc98c9434dfb18300be98907a6c627468dbd69604"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x17b509b2b65b0d07b9e46bfc2ffe6c9c09a8e821"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xac4494e30a85369e332bdb5230d6d694d4259dbc"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x7d33de209e031ed97f857bf2412d7e2a7f4544e1"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://quickswap.exchange/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

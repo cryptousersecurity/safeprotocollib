@@ -1,0 +1,49 @@
+{
+  "name": "Nile Exchange",
+  "description": null,
+  "chains": [
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "ClPool (Proxy)",
+          "address": "0x27ed78122b8ef363f4ef5b3afe197e0c4a2fa514"
+        },
+        {
+          "name": "ClPool (Proxy)",
+          "address": "0x5eeb3f21646b32f634bb7c4eecdb493954d5a5f3"
+        },
+        {
+          "name": "ClPool (Proxy)",
+          "address": "0x64bccad8e7302e81b09894f56f6bba85ae82cd03"
+        },
+        {
+          "name": "ClPool (Proxy)",
+          "address": "0xefd5ec2cc043e3bd3c840f7998cc42ee712700ba"
+        },
+        {
+          "name": "ClPool (Proxy)",
+          "address": "0x183903bdf66ef1ddbca0be2e48fc66c4d317e739"
+        },
+        {
+          "name": "ClPool (Proxy)",
+          "address": "0xce6f03c4f2d1f23ed1996c85b6ff047fb049b61f"
+        },
+        {
+          "name": "ClPool (Proxy)",
+          "address": "0xe39769448436fe3091498fd3dd5e3cb8c20ed6f1"
+        },
+        {
+          "name": "ClPool (Proxy)",
+          "address": "0x154b64d6d2a0130cd37b7047a5f23a294dc4c9f7"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.thenile.exchange",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

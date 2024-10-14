@@ -1,0 +1,34 @@
+{
+  "name": "Radiant Capital",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Radiant (RDNT)",
+          "address": "0x3082cc23568ea640225c2467653db90e9250aaa0"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Weth Gateway",
+          "address": "0x8a226b70dceb9656eb75545424400128fcef9d9e"
+        },
+        {
+          "name": "Rdnt Token",
+          "address": "0xf7de7e8a6bd59ed41a4b5fe50278b3b7f31384df"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.radiant.capital",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

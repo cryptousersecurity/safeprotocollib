@@ -1,0 +1,178 @@
+{
+  "name": "Crypto.com",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x72a53cdbbcc1b9efa39c834a540550e23463aacb"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xb428523cdda53640a62e9f26c2d8613a9159b282"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x625b02b687ec38f3085af5b108dda410775fa76a"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x0ecc16d3fa38e1a59c10e44cda4e2e9d9941275a"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x2c2301fdb0bfa06eaabaa0122cbceb2265337c25"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xfa0b641678f5115ad8a8de5752016bd1359681b9"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xd3d877fc323de661ff9e1a38147a1ac679ce7c64"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x20fa1822a87d4e7a3ccf20f86e716ef3772ecff1"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x1714400ff23db4af24f9fd64e7039e6597f18c2b"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0xae45a8240147e6179ec7c9f92c5a18f9a97b3fca"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xd7a827fbaf38c98e8336c5658e4bcbcd20a4fd2d"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xcffad3200574698b78f32232aa9d63eabd290703"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0xae45a8240147e6179ec7c9f92c5a18f9a97b3fca"
+        },
+        {
+          "name": "CRO Defi Swap (CRO-SWAP)",
+          "address": "0x87ea2b2037046a9af3284d6a7f5a137931dbba16"
+        },
+        {
+          "name": "CRO-USDC",
+          "address": "0x35e8777ec43cb99e935588dcd0305268f06c1274"
+        },
+        {
+          "name": "CRO-WETH",
+          "address": "0x9ef7e917fb41cc02f78a5c99b42f497ed8979350"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xf3b0073e3a7f747c7a38b36b805247b222c302a3"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x46340b20830761efd32832a74d7169b29feb9758"
+        },
+        {
+          "name": "CRO Defi Swap (CRO-SWAP)",
+          "address": "0x46fff8a2f03eeb26eb8c2cf175d006eda0195e14"
+        },
+        {
+          "name": "WBTC-USDC",
+          "address": "0xcf2ea8f81e30d5150f9556f81cc6cd134d7ff8b1"
+        },
+        {
+          "name": "USDC-WETH",
+          "address": "0x3aa370aacf4cb08c7e1e7aa8e8ff9418d73c7e0f"
+        },
+        {
+          "name": "CRO Defi Swap (CRO-SWAP)",
+          "address": "0x27ba8d02ea3c66ab4ecdb6bb1b00aba134e39131"
+        },
+        {
+          "name": "LINK-WETH",
+          "address": "0x8b59be2fc6fccc2256cc4841843a13ce29da16bd"
+        },
+        {
+          "name": "WETH-USDT",
+          "address": "0x74c99f3f5331676f6aec2756e1f39b4fc029a83e"
+        },
+        {
+          "name": "WBTC-WETH",
+          "address": "0xf02553b9f908ab61f4c1fc0af9a488c76f8ecc85"
+        },
+        {
+          "name": "DAI-WETH",
+          "address": "0x60a26d69263ef43e9a68964ba141263f19d71d51"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x9fb538820d4fde2fcc509dc01ae73a192f36cfcc"
+        },
+        {
+          "name": "CRO Defi Swap (CRO-SWAP)",
+          "address": "0xb71153e1629ec113ac43d4c92f63bc8f84d0cfa3"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x8a161a996617f130d0f37478483afc8c1914db6d"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7c0046b931716952409367fdd57692458734a948"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x92bd687953da50855aee2df0cff282cc2d5f226b"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xc2de4f542c2e2349ee050541f5ad25aa4be1a00f"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x187b2d576ba7ec2141c180a96edd0f202492f36b"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7aad7840f119f3876ee3569e488c7c4135f695fa"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://crypto.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

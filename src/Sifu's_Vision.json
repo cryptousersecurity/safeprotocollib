@@ -1,0 +1,21 @@
+{
+  "name": "Sifu's Vision",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "sifuvision.eth",
+          "address": "0x31d3243cfb54b34fc9c73e1cb1137124bd6b13e1"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://sifu.vision/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

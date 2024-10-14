@@ -1,0 +1,21 @@
+{
+  "name": "Chrono.tech",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "TimeLocker",
+          "address": "0x3b198e26e473b8fab2085b37978e36c9de5d7f68"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://chrono.tech",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

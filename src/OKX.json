@@ -1,0 +1,312 @@
+{
+  "name": "OKX",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Aggregation Router",
+          "address": "0x9333c74bdd1e118634fe5664aca7a9710b108bab"
+        },
+        {
+          "name": "OKX DEX",
+          "address": "0x0b5f474ad0e3f7ef629bd10dbf9e4a8fd60d9a48"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x3b5a23f6207d87b423c6789d2625ea620423b32d"
+        },
+        {
+          "name": "OKX DEX",
+          "address": "0xae7fcef300495de4afda82c1a369fa312b0ed9b8"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7c0629bbbaf7d68ffaa393e3fedc9b633679fa5f"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0xb9656d0393015f92ba642c3a344061e8e2478599"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x575b54cbe458fb924c050e92584675fc052d1884"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xf3be85868c59b136c72eef96490291a17074ce2c"
+        },
+        {
+          "name": "OKX DEX",
+          "address": "0x92470640a2904467adc88a0b026dbc876a2160a4"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x6cc5f688a315f3dc28a7781717a9a798a59fda7b"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xbf94f0ac752c739f623c463b5210a7fb2cbb420b"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0xc5a93444cc4da6efb9e6fc6e5d3cb55a53b52396"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x3d55ccb2a943d88d39dd2e62daf767c69fd0179f"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x5041ed759dd4afc3a72b8192c143f72f4724081a"
+        },
+        {
+          "name": "OKX DEX",
+          "address": "0x43c9361709be9ce6b1e33ac31426b08dbc09e58a"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xf7858da8a6617f7c6d0ff2bcafdb6d2eedf64840"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xd30b438df65f4f788563b2b3611bd6059bff4ad9"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x68841a1806ff291314946eebd0cda8b348e73d6d"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xa7efae728d2936e78bda97dc267687568dd593f3"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x53f07e235034a869eec8265e0cb120c55cc558d4"
+        },
+        {
+          "name": "OKX DEX",
+          "address": "0x03f911aedc25c770e701b8f563e8102cfacd62c0"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x20a3a4ae2aacb8bbcfd89dc71280dd18cd9a0cb4"
+        },
+        {
+          "name": "Aggregation Router",
+          "address": "0x3b3ae790df4f312e745d270119c6052904fb6790"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7eb6c83ab7d8d9b8618c0ed973cbef71d1921ef2"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x9e4e147d103def9e98462884e7ce06385f8ac540"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xd7efcbb86efdd9e8de014dafa5944aae36e817e4"
+        },
+        {
+          "name": "OKX DEX",
+          "address": "0xade1e3b40b58e51df923cfbffcfb3502a5b07d1a"
+        },
+        {
+          "name": "Internal",
+          "address": "0x2ce910fbba65b454bbaf6a18c952a70f3bcd8299"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x62383739d68dd0f844103db8dfb05a7eded5bbe6"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x0938c63109801ee4243a487ab84dffa2bba4589e"
+        },
+        {
+          "name": "TransparentUpgradeableProxy",
+          "address": "0xf332761c673b59b21ff6dfa8ada44d78c12def09"
+        },
+        {
+          "name": "OKX DEX",
+          "address": "0x2fa31d2ac017869998f9574bac76094a8110cf7c"
+        },
+        {
+          "name": "OKX DEX",
+          "address": "0xd99cae3fac551f6b6ba7b9f19bdd316951eeee98"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0xb8351b61fa1eb007a9f80144c489d513e6a76b14"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x728d92a8023bfbe0d4f3fdd549ed3b4996a0eba9"
+        },
+        {
+          "name": "OKX DEX",
+          "address": "0x1c8875b6a9df43256b244a7ba4790f6a7185d8c9"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x24f2ba8dba81265ecf053cbac410184ab38b2a92"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "OKX DEX",
+          "address": "0x67f1e92ef101a78aa1229b24bc302d2ddaabd26b"
+        },
+        {
+          "name": "Router",
+          "address": "0xa748d6573aca135af68f2635be60cb80278bd855"
+        },
+        {
+          "name": "OKX DEX",
+          "address": "0xf332761c673b59b21ff6dfa8ada44d78c12def09"
+        },
+        {
+          "name": "OKX DEX",
+          "address": "0x7a8f557916d99945eaf2f8763935a70bdc81f650"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x06959153b974d0d5fdfd87d561db6d8d4fa0bb0b"
+        },
+        {
+          "name": "OKX DEX",
+          "address": "0x6acb9be65cabbccaf5a16722f0aa75b2cc6ad138"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x131f4fe17d44d236593e9f800f0a1f906a19e7ad"
+        },
+        {
+          "name": "OKX DEX",
+          "address": "0xf956d032564530adb94a3ff9e60aac87e7f3eb8d"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "DEX",
+          "address": "0x6b2c0c7be2048daa9b5527982c29f48062b34d58"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xfd92f4e91d54b9ef91cc3f97c011a6af0c2a7eda"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x7e4aa755550152a522d9578621ea22edab204308"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xa16f524a804beaed0d791de0aa0b5836295a2a84"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0x9cc548536d8ec1d6c89e6ddd3b0ceea350fe73dc"
+        },
+        {
+          "name": "OKX DEX",
+          "address": "0x1dac23e41fc8ce857e86fd8c1ae5b6121c67d96d"
+        },
+        {
+          "name": "OKX DEX",
+          "address": "0x3b86917369b83a6892f553609f3c2f439c184e31"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xbedb3afda063057e04ec047468256b332aa58a27"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xd3d7dbe73bbdd5a5c7a49ca322763c4d400fc240"
+        },
+        {
+          "name": "DEX",
+          "address": "0x6b2c0c7be2048daa9b5527982c29f48062b34d58"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x73b2909e545ef439730427d057877134139de555"
+        },
+        {
+          "name": "Internal",
+          "address": "0x2ce910fbba65b454bbaf6a18c952a70f3bcd8299"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xebe80f029b1c02862b9e8a70a7e5317c06f62cae"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x2d2cc0eb095e43204e0c087e07dbf95909650939"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0xcba6a2397b322cf1389f6d1adc05f75f36b20116"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xd1e859c8fbb8acdcc8e815c70d33b6aca58fde8a"
+        },
+        {
+          "name": "OKX DEX",
+          "address": "0xf332761c673b59b21ff6dfa8ada44d78c12def09"
+        },
+        {
+          "name": "OKX DEX",
+          "address": "0x443ef018e182d409bcf7f794d409bcea4c73c2c7"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xc13f9011e2cea63e4c9f0d8177dfb17e9ec7daff"
+        },
+        {
+          "name": "OKX DEX",
+          "address": "0x40aa958dd87fc8305b97f2ba922cddca374bcd7f"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://okx.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

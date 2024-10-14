@@ -1,0 +1,110 @@
+{
+  "name": "ChangeNOW",
+  "description": null,
+  "chains": [
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xbe6439b25e2c6560590407731bb9fe2908f30c94"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x0a1ce4496471867fac0ad71b785e5258993c9b33"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Gas Supplier",
+          "address": "0x4657f866a0d9b46f288893fff466e8d87c556b1a"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xd5b73fc035d4d679234323e0d891cab4a4f5a1ab"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xafbe66947a21960b4d8a2c8f4534983c5dcbc56f"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x2cab3defed9cc52827ecf37536a131c7da6cd5aa"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x3a0d24d59af3a3444dc6ef12cdb0c6e38c985288"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gas Supplier",
+          "address": "0xa4e5961b58dbe487639929643dcb1dc3848daf5e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x48c04ed5691981c42154c6167398f95e8f38a7ff"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x077d360f11d220e4d5d831430c81c26c9be7c4a4"
+        },
+        {
+          "name": "Huobi Deposit",
+          "address": "0x6ba7fe01eec4c6a4308c8e2b35970e0488ce9a86"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x975d9bd9928f398c7e01f6ba236816fa558cd94b"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xa96be652a08d9905f15b7fbe2255708709becd09"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0x6cb399d73ca29859d795c68a68f0dbf6a74f55d4"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Gas Supplier",
+          "address": "0x637c86b5f2c8399716964c702bcaeabc69b900df"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xc275119660fefe4519083ea6e57cbd1b672bc020"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7a3bea333246efcd74ebf5835987a5398eac10fe"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://changenow.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "name": "Gate.io",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe"
+        },
+        {
+          "name": "Internal",
+          "address": "0x85faa6c1f2450b9caea300838981c2e6e120c35c"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0x6596da8b65995d5feacff8c2936f0b7a2051b0d0"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x1c4b70a3968436b9a0a9cf5205c787eb81bb558c"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe"
+        },
+        {
+          "name": "Internal",
+          "address": "0x85faa6c1f2450b9caea300838981c2e6e120c35c"
+        },
+        {
+          "name": "Gate.io 5",
+          "address": "0xc882b111a75c0c657fc507c04fbfcd2cc984f071"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0x6596da8b65995d5feacff8c2936f0b7a2051b0d0"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x0d0707963952f2fba59dd06f2b425ace40b492fe"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://gate.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

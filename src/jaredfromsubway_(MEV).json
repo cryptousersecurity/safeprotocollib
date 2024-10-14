@@ -1,0 +1,25 @@
+{
+  "name": "jaredfromsubway (MEV)",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "MEV Bot",
+          "address": "0x6b75d8af000000e20b7a7ddf000ba900b4009a80"
+        },
+        {
+          "name": "MEV Bot",
+          "address": "0x1f2f10d1c40777ae1da742455c65828ff36df387"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": null,
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

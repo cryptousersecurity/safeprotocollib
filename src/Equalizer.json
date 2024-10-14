@@ -1,0 +1,33 @@
+{
+  "name": "Equalizer",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Stable2 Pool",
+          "address": "0xf3f1f5760a614b8146eec5d1c94658720c2425b9"
+        },
+        {
+          "name": "UniswapV3Pool",
+          "address": "0xb78daa6d74fe0e23e5c95446cfadbadc63205cfc"
+        },
+        {
+          "name": "Stable2 Pool",
+          "address": "0x5f55b7d9c07815736eb901bc2fa1963a47ac1ce0"
+        },
+        {
+          "name": "Stable2 Pool",
+          "address": "0x48498571df1b94d08c0c100f068938a7b1b525ee"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://equalizer.exchange",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

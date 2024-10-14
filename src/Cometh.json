@@ -1,0 +1,21 @@
+{
+  "name": "Cometh",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0x1edb2d8f791d2a51d56979bf3a25673d6e783232"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.cometh.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "Orbiter Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "Bridge",
+          "address": "0xe4edb277e41dc89ab076a1f049f4a3efa700bce8"
+        },
+        {
+          "name": "Bridge",
+          "address": "0x80c67432656d59144ceff962e8faf8926599bcf8"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "OrbiterXRouter",
+          "address": "0x13e46b2a3f8512ed4682a8fb8b560589fe3c2172"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Bridge",
+          "address": "0x80c67432656d59144ceff962e8faf8926599bcf8"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Bridge",
+          "address": "0x41d3d33156ae7c62c094aae2995003ae63f587b3"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.orbiter.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Gravity Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0xeefe518d89a49328580480fa3d90073bda074d32"
+        },
+        {
+          "name": "Pool",
+          "address": "0x73a7b621090b8d7584cc40d1b1f016fb831949a3"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://gravityfinance.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

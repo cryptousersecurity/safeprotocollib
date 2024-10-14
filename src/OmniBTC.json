@@ -1,0 +1,66 @@
+{
+  "name": "OmniBTC",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "SoDiamond",
+          "address": "0x2967e7bb9daa5711ac332caf874bd47ef99b3820"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "SoDiamond",
+          "address": "0xfda613cb7366b1812f2d33fc95d1d4dd3896aeb8"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "SoDiamond",
+          "address": "0x2967e7bb9daa5711ac332caf874bd47ef99b3820"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "SoDiamond",
+          "address": "0x2967e7bb9daa5711ac332caf874bd47ef99b3820"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "SoDiamond",
+          "address": "0x2967e7bb9daa5711ac332caf874bd47ef99b3820"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "SoDiamond",
+          "address": "0x2967e7bb9daa5711ac332caf874bd47ef99b3820"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.omnibtc.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Toros Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "dHEDGE Stablecoin Yield (dUSD)",
+          "address": "0xbae28251b2a4e621aa7e20538c06dee010bc06de"
+        },
+        {
+          "name": "Bitcoin Bear 2X (BTCBEAR2X)",
+          "address": "0x3dbce2c8303609c17aa23b69ebe83c2f5c510ada"
+        },
+        {
+          "name": "Bitcoin Bull 3X (BTCBULL3X)",
+          "address": "0xdb88ab5b485b38edbeef866314f9e49d095bce39"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://toros.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

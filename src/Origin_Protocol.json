@@ -1,0 +1,29 @@
+{
+  "name": "Origin Protocol",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "WOETHCCIPZapper",
+          "address": "0x438731b5ee8fecc02a28532713e237b93260c3f8"
+        },
+        {
+          "name": "OETHHarvester Proxy",
+          "address": "0x0d017afa83eace9f10a8ec5b6e13941664a6785c"
+        },
+        {
+          "name": "MultiSig",
+          "address": "0xbe2ab3d3d8f6a32b96414ebbd865dbd276d3d899"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://originprotocol.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

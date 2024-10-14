@@ -1,0 +1,21 @@
+{
+  "name": "Paxos",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "PAXG Fees",
+          "address": "0x38699d04656ff537ef8671b6b595402ebdbdf6f4"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://paxos.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

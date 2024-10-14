@@ -1,0 +1,84 @@
+{
+  "name": "Socket",
+  "description": null,
+  "chains": [
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "SocketGateway",
+          "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Socket Gateway",
+          "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "SocketGateway",
+          "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Socket Gateway",
+          "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Socket Gateway",
+          "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Socket Gateway",
+          "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Socket Gateway",
+          "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Socket Gateway",
+          "address": "0x3a23f943181408eac424116af7b7790c94cb97a5"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://socket.tech",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

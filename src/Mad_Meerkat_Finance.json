@@ -1,0 +1,29 @@
+{
+  "name": "Mad Meerkat Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0xa789324e64268c5385ea7678435fa83532705b0f"
+        },
+        {
+          "name": "Router",
+          "address": "0x7e5e5957de93d00c352df75159fbc37d5935f8bf"
+        },
+        {
+          "name": "Pool",
+          "address": "0xb965c131f1c48d89b1760860b782d2acdf87273b"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://cronosmm.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

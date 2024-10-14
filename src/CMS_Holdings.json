@@ -1,0 +1,21 @@
+{
+  "name": "CMS Holdings",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "OpenSea User",
+          "address": "0xc02ad7b9a9121fc849196e844dc869d2250df3a6"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://cmsholdings.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

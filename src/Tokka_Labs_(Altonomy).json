@@ -1,0 +1,48 @@
+{
+  "name": "Tokka Labs (Altonomy)",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Market Maker",
+          "address": "0xff8ba4d1fc3762f6154cc942ccf30049a2a0cec6"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Market Maker",
+          "address": "0xff8ba4d1fc3762f6154cc942ccf30049a2a0cec6"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Market Maker",
+          "address": "0xff8ba4d1fc3762f6154cc942ccf30049a2a0cec6"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Market Maker",
+          "address": "0xff8ba4d1fc3762f6154cc942ccf30049a2a0cec6"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.tokkalabs.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

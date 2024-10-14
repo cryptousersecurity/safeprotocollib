@@ -1,0 +1,25 @@
+{
+  "name": "SmarDex.io",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "SmarDex LP-Token (SDEX-LP)",
+          "address": "0xe51764370b4b95fdb3c3b4701c04cdf5e85ee494"
+        },
+        {
+          "name": "SmarDex LP-Token (SDEX-LP)",
+          "address": "0xbdfb5b8bc97bb9dcd8aff8d1b51fcee4c5041186"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://smardex.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

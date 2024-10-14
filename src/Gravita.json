@@ -1,0 +1,30 @@
+{
+  "name": "Gravita",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Gravita Debt Token (GRAI)",
+          "address": "0x894134a25a5fac1c2c26f1d8fbf05111a3cb9487"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "Gravita Debt Token (GRAI)",
+          "address": "0x894134a25a5fac1c2c26f1d8fbf05111a3cb9487"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.gravitaprotocol.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

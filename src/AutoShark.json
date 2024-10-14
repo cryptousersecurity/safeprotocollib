@@ -1,0 +1,21 @@
+{
+  "name": "AutoShark",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Fins LPs (FINS-LP)",
+          "address": "0x3ce41b541553aafb795dfc27c4c9271772515aff"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://autoshark.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

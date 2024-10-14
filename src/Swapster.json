@@ -1,0 +1,21 @@
+{
+  "name": "Swapster",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x0a072619e5e5ebfc7d432db3f57bb63a0fc27bfd"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://swapster.fi/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

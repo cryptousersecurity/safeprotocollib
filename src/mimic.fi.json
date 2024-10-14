@@ -1,0 +1,52 @@
+{
+  "name": "mimic.fi",
+  "description": null,
+  "chains": [
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "SmartVault",
+          "address": "0xa7ca2c8673bcfa5a26d8ceec2887f2cc2b0db22a"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "SmartVault",
+          "address": "0xeb4af8a64070ef0dea6260e0bf2310748f014d88"
+        },
+        {
+          "name": "SmartVault",
+          "address": "0xa7ca2c8673bcfa5a26d8ceec2887f2cc2b0db22a"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "SmartVault",
+          "address": "0xa7ca2c8673bcfa5a26d8ceec2887f2cc2b0db22a"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "SmartVault",
+          "address": "0xa7ca2c8673bcfa5a26d8ceec2887f2cc2b0db22a"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.mimic.fi/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

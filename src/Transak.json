@@ -1,0 +1,21 @@
+{
+  "name": "Transak",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x27899fface558bde9f284ba5c8c91ec79ee60fd6"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://transak.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Harvest.Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Community",
+          "address": "0xf49440c1f012d041802b25a73e5b0b9166a75c02"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://harvest.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Symbolic Capital Partners",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "MEV Bot",
+          "address": "0xa69babef1ca67a37ffaf7a485dfff3382056e78c"
+        },
+        {
+          "name": "MEV Bot",
+          "address": "0x5050e08626c499411b5d0e0b5af0e83d3fd82edf"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://symbolic.partners",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

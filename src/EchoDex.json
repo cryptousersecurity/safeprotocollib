@@ -1,0 +1,25 @@
+{
+  "name": "EchoDex",
+  "description": null,
+  "chains": [
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "V3 Pool",
+          "address": "0x92912a1dfbabd89219f79b961b34053260add7c2"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x433f9c64fafb532c3b71b32ffaf6a5796e58db5d"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.echodex.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

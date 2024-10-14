@@ -1,0 +1,81 @@
+{
+  "name": "OKX Web3",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "DEX",
+          "address": "0x6b2c0c7be2048daa9b5527982c29f48062b34d58"
+        },
+        {
+          "name": "TransparentUpgradeableProxy",
+          "address": "0x5965851f21dae82ea7c62f87fb7c57172e9f2add"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Aggregation Router",
+          "address": "0x9333c74bdd1e118634fe5664aca7a9710b108bab"
+        },
+        {
+          "name": "TransparentUpgradeableProxy",
+          "address": "0xfc99f58a8974a4bc36e60e2d490bb8d72899ee9f"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Aggregation Router",
+          "address": "0x3b3ae790df4f312e745d270119c6052904fb6790"
+        },
+        {
+          "name": "DEX Router",
+          "address": "0xf3de3c0d654fda23dad170f0f320a92172509127"
+        },
+        {
+          "name": "TransparentUpgradeableProxy",
+          "address": "0xfc99f58a8974a4bc36e60e2d490bb8d72899ee9f"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "TransparentUpgradeableProxy",
+          "address": "0xf332761c673b59b21ff6dfa8ada44d78c12def09"
+        },
+        {
+          "name": "TransparentUpgradeableProxy",
+          "address": "0xfc99f58a8974a4bc36e60e2d490bb8d72899ee9f"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Router",
+          "address": "0xa748d6573aca135af68f2635be60cb80278bd855"
+        },
+        {
+          "name": "TransparentUpgradeableProxy",
+          "address": "0x89f423567c2648bb828c3997f60c47b54f57fa6e"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.okx.com/web3",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

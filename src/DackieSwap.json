@@ -1,0 +1,34 @@
+{
+  "name": "DackieSwap",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Dackie LPs (Dackie-LP)",
+          "address": "0x7db1c9f51f2cb456f0c5d7e2f939fa7f6b360142"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xfcd3960075c00af339a4e26afc76b949e5ff06ec"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "PancakeV3Pool",
+          "address": "0x56839affdf658af80c7909e18bd2b67386da78d9"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.dackieswap.xyz",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

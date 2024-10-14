@@ -1,0 +1,21 @@
+{
+  "name": "Big Brain Holdings",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "OpenSea User",
+          "address": "0xd1abe5db14d073883f2084c2af105652102bdefc"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.bigbrain.holdings/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

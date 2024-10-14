@@ -1,0 +1,25 @@
+{
+  "name": "Gains Network",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "gDAI",
+          "address": "0xd85e038593d7a098614721eae955ec2022b9b91b"
+        },
+        {
+          "name": "ERC20 Bridge",
+          "address": "0x01caaaa682ceba8cd6c02f93bb1393fb415fa5e2"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://gainsnetwork.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

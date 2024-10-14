@@ -1,0 +1,30 @@
+{
+  "name": "ACryptoS",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0xb3f0c9ea1f05e312093fdb031e789a756659b0ac"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "ACryptoS Vaulted USDC/USDT-100 (UniswapV3) (acs(USDC/USDT-100))",
+          "address": "0x61a34758576d651643a90838f3ecf86e8680874d"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://app-core.acryptos.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

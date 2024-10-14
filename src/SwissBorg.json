@@ -1,0 +1,122 @@
+{
+  "name": "SwissBorg",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x5770815b0c2a09a43c9e5aecb7e2f3886075b605"
+        },
+        {
+          "name": "ChsbToBorgMigrator (Proxy)",
+          "address": "0xaa854688caab725fe17b7d21b46fda5af365985a"
+        },
+        {
+          "name": "Withdrawal Hot Wallet",
+          "address": "0x87cbc48075d7aa1760ac71c41e8bc289b6a31f56"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0x43fda7708c97c4c40d5402c6392f0457f23c0b8e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x94596096320a6b4eab43556ad1ed8c4c3d51c9aa"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Withdrawal Hot Wallet",
+          "address": "0x87cbc48075d7aa1760ac71c41e8bc289b6a31f56"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x5770815b0c2a09a43c9e5aecb7e2f3886075b605"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Withdrawal Hot Wallet",
+          "address": "0x87cbc48075d7aa1760ac71c41e8bc289b6a31f56"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x94596096320a6b4eab43556ad1ed8c4c3d51c9aa"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x5770815b0c2a09a43c9e5aecb7e2f3886075b605"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Gas Supplier",
+          "address": "0x43fda7708c97c4c40d5402c6392f0457f23c0b8e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x5770815b0c2a09a43c9e5aecb7e2f3886075b605"
+        },
+        {
+          "name": "Withdrawal Hot Wallet",
+          "address": "0x87cbc48075d7aa1760ac71c41e8bc289b6a31f56"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x94596096320a6b4eab43556ad1ed8c4c3d51c9aa"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x94596096320a6b4eab43556ad1ed8c4c3d51c9aa"
+        },
+        {
+          "name": "Withdrawal Hot Wallet",
+          "address": "0x87cbc48075d7aa1760ac71c41e8bc289b6a31f56"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x5770815b0c2a09a43c9e5aecb7e2f3886075b605"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Withdrawal Hot Wallet",
+          "address": "0x87cbc48075d7aa1760ac71c41e8bc289b6a31f56"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x5770815b0c2a09a43c9e5aecb7e2f3886075b605"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x94596096320a6b4eab43556ad1ed8c4c3d51c9aa"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://swissborg.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

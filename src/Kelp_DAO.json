@@ -1,0 +1,43 @@
+{
+  "name": "Kelp DAO",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "RSETH_OFTAdapter",
+          "address": "0x85d456b2dff1fd8245387c0bfb64dfb700e98ef3"
+        },
+        {
+          "name": "NodeDelegator (Proxy)",
+          "address": "0x395884d1974a839702bcfcba176ac7871c788946"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "KelpDao Restaked ETH (rsETH)",
+          "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "KelpDao Restaked ETH (rsETH)",
+          "address": "0x4186bfc76e2e237523cbc30fd220fe055156b41f"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://kelpdao.xyz/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

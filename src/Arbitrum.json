@@ -1,0 +1,82 @@
+{
+  "name": "Arbitrum",
+  "description": "Arbitrum presents an optimal solution for constructing secure Ethereum Dapps, offering a cost-effective layer 2 framework.",
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "L2 WETH Gateway",
+          "address": "0x6c411ad3e74de3e7bd422b94a27770f5b86c623b"
+        },
+        {
+          "name": "Bridge Executor",
+          "address": "0xea3123e9d9911199a6711321d1277285e6d4f3ec"
+        },
+        {
+          "name": "DAO Treasury",
+          "address": "0xf3fc178157fb3c87548baa86f9d24ba38e649b58"
+        },
+        {
+          "name": "ArbSys",
+          "address": "0x0000000000000000000000000000000000000064"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Bridge",
+          "address": "0x8315177ab297ba92a06054ce80a67ed4dbd7ed3a"
+        },
+        {
+          "name": "Arbitrum Nova Bridge",
+          "address": "0xc1ebd02f738644983b6c4b2d440b8e77dde276bd"
+        },
+        {
+          "name": "Delayed Inbox",
+          "address": "0xc4448b71118c9071bcb9734a0eac55d18a153949"
+        },
+        {
+          "name": "L1 Gateway Router",
+          "address": "0x72ce9c846789fdb6fc1f34ac4ad25dd9ef7031ef"
+        },
+        {
+          "name": "Inbox",
+          "address": "0x4dbd4fc535ac27206064b68ffcf827b0a60bab3f"
+        },
+        {
+          "name": "L1 Custom Gateway",
+          "address": "0xcee284f754e854890e311e3280b767f80797180d"
+        },
+        {
+          "name": "GasRefunder",
+          "address": "0xe64a54e2533fd126c2e452c5fab544d80e2e4eb5"
+        },
+        {
+          "name": "L1 ERC20 Gateway",
+          "address": "0xa3a7b6f88361f48403514059f1f16c8e78d60eec"
+        },
+        {
+          "name": "DAI L1 Escrow",
+          "address": "0xa10c7ce4b876998858b1a9e12b10092229539400"
+        },
+        {
+          "name": "Wrapped Ether Gateway",
+          "address": "0xd92023e9d9911199a6711321d1277285e6d4e2db"
+        },
+        {
+          "name": "Batch Submitter",
+          "address": "0xc1b634853cb333d3ad8663715b08f41a3aec47cc"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://arbitrum.foundation/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

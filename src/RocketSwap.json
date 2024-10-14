@@ -1,0 +1,21 @@
+{
+  "name": "RocketSwap",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "V2 Pool",
+          "address": "0xa64bdcc7db5e592f646aad5dfaf7a655235bf1de"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://rocketswap.cc",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

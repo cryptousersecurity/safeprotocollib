@@ -1,0 +1,30 @@
+{
+  "name": "Overnight",
+  "description": null,
+  "chains": [
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "StrategyAave (Proxy)",
+          "address": "0x1a8bf92abe1de4bdbf5fb8af223ec5fedceffb76"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "StrategyCompoundUsdbc (Proxy)",
+          "address": "0xbac3100beee79ca34b18fbcd0437bd382ee5611b"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://overnight.fi/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

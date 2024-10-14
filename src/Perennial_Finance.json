@@ -1,0 +1,21 @@
+{
+  "name": "Perennial Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0xcc2a6ef429b402f7d8d72d6aecd6dfd0d787acff"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://perennial.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

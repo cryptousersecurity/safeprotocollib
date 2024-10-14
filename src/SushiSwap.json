@@ -1,0 +1,1031 @@
+{
+  "name": "SushiSwap",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "V2 Pool",
+          "address": "0x7d88d931504d04bfbee6f9745297a93063cab24c"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x5786b267d35f9d011c4750e0b0ba584e1fdbead1"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x74d23f21f780ca26b47db16b0504f2e3832b9321"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x1ceda73c034218255f50ef8a2c282e6b4c301d60"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x94ef48350da166dd897e9d97035d29c7a0c10ad0"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x41d9de53ebf26f766229e42aa02904eb2495e397"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xe66f274542fb624f5489ebb9f6e953e91a9908d1"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xb2d0d5c86d933b0acefe9b95bec160d514d152e1"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xdb995f975f1bfc3b2157495c47e4efb31196b2ca"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xdb0101be2132408e65b30246aa662e4d6f49599c"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xb9c656e3e913284657891c2eedc7394f9c7bb029"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xffc654a0d0f740748d9d4d0061c96c284c3cdf88"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x014ac2a53aa6fba4dcd93fde6d3c787b79a1a6e6"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x59e1a651bb30f280295ac087be5daeb595da8465"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xabee7668a96c49d27886d1a8914a54a5f9805041"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x396e655c309676caf0acf4607a868e0cded876db"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xcd353f79d9fade311fc3119b841e1f456b54e858"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x8531c4e29491fe6e5e87af6054fc20fccf0b4290"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xf69e93771f11aecd8e554aa165c3fe7fd811530c"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x21988c9cfd08db3b5793c2c6782271dc94749251"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x8cfaab34f5159abf9c35587ac40d09a05dc94765"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x6777dbf38f67b448174412baaf21f38e058b1f4b"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x55bc7d9e44b730c4a42b52c818c805476156d9c9"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x1274de0de2e9d9b1d0e06313c0e5edd01cc335ef"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x333923ec5bb34bf25468d77c641771e86ee7bfcf"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x81e3dd9a4d58ec92ad575342967636ae1a24cf2b"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x9b137d154b76ee1cb857743cfdd53d99a570dafd"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x4097073e82edac2d758ecfd594139a891340d59d"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x2813d43463c374a680f235c428fb1d7f08de0b69"
+        },
+        {
+          "name": "Bento Box V1",
+          "address": "0x0319000133d3ada02600f0875d2cf03d442c3367"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xf1a12338d39fc085d8631e1a745b5116bc9b2a32"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xbef8cb3576180642a34153821dc520fa31c157cb"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xe62ec2e799305e0d367b0cc3ee2cda135bf89816"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x4646e8a5e1d14e2da01577822d6346c7883c6890"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x91670a2a69554c61d814cd7f406d7793387e68ef"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x1b0585fc8195fc04a46a365e670024dfb63a960c"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xc48ae82ca34c63887b975f20aba91a38f2a900b8"
+        },
+        {
+          "name": "Router",
+          "address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xbecf47e5cac07ad7f893172c07562493c78fa83c"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xc2755915a85c6f6c1c0f3a86ac8c058f11caa9c9"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x3e9a0586088caeb2adff32b0c06cfa44151c7a5b"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xfcf92152659ccaaa68699a21c6c98053d0fa51e1"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x54b149c3349aadfd283711aa4f05e102345c773d"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x55ff76bffc3cdd9d5fdbbc2ece4528ecce45047e"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x34965ba0ac2451a34a0471f04cca3f990b8dea27"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xbf61e1d82bd440cb9da11d325c046f029a663890"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x9353a943146f08ac065850047bd5b1e76fcb7c73"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x562a0460fe6cfc2e610ae5596c5b4ace94d97c56"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x50a7e903627acbcaf018b198b2ec738bfab848bf"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xc2c88da3bc73d927293e4c516c446f87884b84c6"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x4d8b09555a5c362269c217ccff1a91e720d72912"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x00604dcc4463d6c39d957bc25c7b6683ddd2ba90"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x42df39d9e7b2222273c1a4dfc430be1987b11055"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x8929d3fea77398f64448c85015633c2d6472fb29"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xc284a7549048245a941f425a4fe9746b174b0770"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x585aeb2f893b9d16f179dbc8c55ce682da339e3f"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x8b5047e823a3081b29bdca5de0cd56cf4aab8e06"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x0b73a8646bf98d090073e40ccc991f8f3001d82a"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xa34ec05da1e4287fa351c74469189345990a3f0c"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x374552804f7ca26c307c8d31f4cc0d9215c87f46"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x5ff4e0ab9eaf1c4b9df31bd08a1b83536294721d"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xb5846453b67d0b4b4ce655930cf6e4129f4416d7"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xa769c6786c3717945438d4c4feb8494a1a6ca443"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x320a12caa9e4879d2082aad714c78c5f4507ac59"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xb556fed3b348634a9a010374c406824ae93f0cf8"
+        },
+        {
+          "name": "Nonfungible Position Manager",
+          "address": "0xb7402ee99f0a008e461098ac3a27f4957df89a40"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x597a9bc3b24c2a578ccb3aa2c2c62c39427c6a49"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x6ff62bfb8c12109e8000935a6de54dad83a4f39f"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xa28e41c791338f46dd6f1714204df5e6c6661af2"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x129ff8de02ed70aac5a25de8d9acd3a5c1018acc"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xe15e9d2a5af5c1d3524bbc594ddc4a7d80ad27cd"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xc4e595acdd7d12fec385e5da5d43160e8a0bac0e"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x498d5cdcc5667b21210b49442bf2d8792527194d"
+        },
+        {
+          "name": "RouteProcessor4",
+          "address": "0x46b3fdf7b5cde91ac049936bf0bdb12c5d22202e"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xcccc583ad4fbeda6e999c66ce066d4f2e16b5cf5"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x2385b2be5b0005df8e23cf695a83b400b10e717e"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xb8f54cc0106bdf662591d7e8b01a9b6a01ca74c8"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x4b1f1e2435a9c96f7330faea190ef6a7c8d70001"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xc957a20b3d9580ead5a08df1dc25802122027ef1"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x1e67124681b402064cd0abe8ed1b5c79d2e02f64"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "V2 Pool",
+          "address": "0xfe83058f06869da5d70a1355dca64c873480ab1d"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xee218fdfbd6b8661009b9fea1013e8dfdcb1a47b"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x404e927b203375779a6abd52a2049ce0adf6609b"
+        },
+        {
+          "name": "RouteProcessor4",
+          "address": "0x0389879e0156033202c44bf784ac18fc02edee4f"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xc6138085c20df331dfb5184320206b44f51de0bc"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x65488ed876fa62489569abc73b6005a0a3f64150"
+        },
+        {
+          "name": "StargateAdapter",
+          "address": "0xd408a20f1213286fb3158a2bfbf5bffaca8bf269"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x22ca6d83ab887a535ae1c6011cc36ea9d1255c31"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x77bc7bfb2a37a3bc583117e05fab2ae4526e7102"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xbfc74e1de81e81b0a807469502f6662cc238795e"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x482fe995c4a52bc79271ab29a53591363ee30a89"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x3bd740dc10864f35001aab7771c56a85c48c901b"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x7fe382b1c10fc4bcb5b018701eb6ccc09edbf83c"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xbe09692245268b607c3029469d14be06191a0566"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xcaeedd8f1acf55f2df259afc090d519069f72a2b"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x6ece85052db0e29baf309361db2abfa65ea258bf"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x6a0586810898b07d22bd4f8be59a36aa09de26a3"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x26d74924de08d8c7aee69fd0b88335087decd6b8"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x5636c6f5ade81b63da945ba4c9f504c7eaa9ea61"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xa8051c45c7beed4f9044194385db3b620856a8fa"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x7aa3bc844710220272d9e14cb4b4bb067953d8ac"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xd3f749ada01af29a713545fb6b8e782b49a75a20"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x57713f7716e0b0f65ec116912f834e49805480d2"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x253b356899022514a712c0dcbca38c2767a5ba7c"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xe0f616eed4eeed4738594a17f4efdda20e8d66bd"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "V2 Pool",
+          "address": "0x6db0fe375ccb8ac3c2a0984d678bcd99981ddcb6"
+        },
+        {
+          "name": "USDT",
+          "address": "0x06da0fd433c1a5d7a4faa01111c044910a184553"
+        },
+        {
+          "name": "SPELL",
+          "address": "0xb5de0c3753b6e1b4dba616db82767f17513e6d4e"
+        },
+        {
+          "name": "HONEYD",
+          "address": "0x9a352103a69ec25d8ff4527bca3b804bf67e18cc"
+        },
+        {
+          "name": "BGAN",
+          "address": "0xc6045a0d921f9d52d58f2a330e455919231ff1d0"
+        },
+        {
+          "name": "OCEAN",
+          "address": "0xee35e548c7457fcdd51ae95ed09108be660ea374"
+        },
+        {
+          "name": "USDC",
+          "address": "0x397ff1542f962076d0bfe58ea045ffa2d347aca0"
+        },
+        {
+          "name": "WBTC",
+          "address": "0xceff51756c56ceffca006cd410b03ffc46dd3a58"
+        },
+        {
+          "name": "BAL",
+          "address": "0x9bffa3ce3e56d0d26447a45771fec76bd4173022"
+        },
+        {
+          "name": "GET",
+          "address": "0xbb19141e045b133169d7c7160c5e54a54cc821b2"
+        },
+        {
+          "name": "agEUR-ANGLE",
+          "address": "0x1f4c763bde1d4832b3ea0640e66da00b98831355"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xfa6e8e97ececdc36302eca534f63439b1e79487b"
+        },
+        {
+          "name": "CIV",
+          "address": "0x4632ac4a94b57573f6b0297229fc8d54046f9be4"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x208d2b856bba35fb5fa3a65731b9495927652f50"
+        },
+        {
+          "name": "POND",
+          "address": "0xccb42aaab2ea1f8012c30418ee3fce550954d827"
+        },
+        {
+          "name": "sUSD",
+          "address": "0xf1f85b2c54a2bd284b1cf4141d64fd171bd85539"
+        },
+        {
+          "name": "CVP",
+          "address": "0x1c580cc549d03171b13b55074dc1658f60641c73"
+        },
+        {
+          "name": "TRU 2",
+          "address": "0xafa43241cf1a1d12268e75f1e7258b805e708da5"
+        },
+        {
+          "name": "IOTX-USDT",
+          "address": "0x868d966d6d3d94b115e8b003c443c7a7b04a3359"
+        },
+        {
+          "name": "LDO",
+          "address": "0xc558f600b34a5f69dd2f0d06cb8a88d829b7420a"
+        },
+        {
+          "name": "IMX",
+          "address": "0x18cd890f4e23422dc4aa8c2d6e0bd3f3bd8873d8"
+        },
+        {
+          "name": "TRU",
+          "address": "0xfceaaf9792139bf714a694f868a215493461446d"
+        },
+        {
+          "name": "THOR 2",
+          "address": "0x3d3f13f2529ec3c84b2940155effbf9b39a8f3ec"
+        },
+        {
+          "name": "STRP-USDC",
+          "address": "0xfca032a9a68c5cbfaf8377775173eca59b837073"
+        },
+        {
+          "name": "StargateAdapter",
+          "address": "0xd408a20f1213286fb3158a2bfbf5bffaca8bf269"
+        },
+        {
+          "name": "FOLD",
+          "address": "0xa914a9b9e03b6af84f9c6bd2e0e8d27d405695db"
+        },
+        {
+          "name": "OHM-DAI 3",
+          "address": "0x055475920a8c93cffb64d039a8205f7acc7722d3"
+        },
+        {
+          "name": "TOKE",
+          "address": "0xd4e7a6e2d03e4e48dfc27dd3f46df1c176647e38"
+        },
+        {
+          "name": "COMP",
+          "address": "0x31503dcb60119a812fee820bb7042752019f2355"
+        },
+        {
+          "name": "MKR",
+          "address": "0xba13afecda9beb75de5c56bbaf696b880a5a50dd"
+        },
+        {
+          "name": "DRGN",
+          "address": "0xe0a0de6a56a79f45669f15b467dbeb4649ae67e2"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xf4ed7b619ac2accad5933961b05e668b42703178"
+        },
+        {
+          "name": "NFD 2",
+          "address": "0xeefa3b448768dd561af4f743c9e925987a1f8d09"
+        },
+        {
+          "name": "BAND",
+          "address": "0xa75f7c2f025f470355515482bde9efa8153536a8"
+        },
+        {
+          "name": "YFI",
+          "address": "0x088ee5007c98a9677165d78dd2109ae4a3d04d0c"
+        },
+        {
+          "name": "INJ",
+          "address": "0xfb3cd0b8a5371fe93ef92e3988d30df7931e2820"
+        },
+        {
+          "name": "RouteProcessor4",
+          "address": "0xe43ca1dee3f0fc1e2df73a0745674545f11a59f5"
+        },
+        {
+          "name": "SPS",
+          "address": "0x1b803af96f37ae51fa753e13e1d2e372dfa17791"
+        },
+        {
+          "name": "SNX",
+          "address": "0xa1d7b2d891e3a1f9ef4bbc5be20630c2feb1c470"
+        },
+        {
+          "name": "SUSHI",
+          "address": "0x795065dcc9f64b5614c407a6efdc400da6221fb0"
+        },
+        {
+          "name": "ILV",
+          "address": "0x6a091a3406e0073c3cd6340122143009adac0eda"
+        },
+        {
+          "name": "SYN",
+          "address": "0x4a86c01d67965f8cb3d0aaa2c655705e64097c31"
+        },
+        {
+          "name": "MATIC",
+          "address": "0x7f8f7dd53d1f3ac1052565e3ff451d7fe666a311"
+        },
+        {
+          "name": "UNI",
+          "address": "0xdafd66636e2561b0284edde37e42d192f2844d40"
+        },
+        {
+          "name": "UMA",
+          "address": "0x001b6450083e531a5a7bf310bd2c1af4247e23d4"
+        },
+        {
+          "name": "INSUR",
+          "address": "0x9ebc2a125b1daf3b8a56cb52fa81f89a199e2b38"
+        },
+        {
+          "name": "PERC",
+          "address": "0x45b6ffb13e5206dafe2cc8780e4ddc0e32496265"
+        },
+        {
+          "name": "AAVE",
+          "address": "0xd75ea151a61d06868e31f8988d28dfe5e9df57b4"
+        },
+        {
+          "name": "OHM",
+          "address": "0xfffae4a0f4ac251f4705717cd24cadccc9f33e06"
+        },
+        {
+          "name": "Metis",
+          "address": "0xdab6d56915d36060c8d6cf29a7a84910da614603"
+        },
+        {
+          "name": "DAI-USDC",
+          "address": "0xaaf5110db6e744ff70fb339de037b990a20bdace"
+        },
+        {
+          "name": "CRO",
+          "address": "0x0be88ac4b5c81700acf3a606a52a31c261a24a35"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x0c6f06b32e6ae0c110861b8607e67da594781961"
+        },
+        {
+          "name": "CRV",
+          "address": "0x58dc5a51fe44589beb22e8ce67720b5bc5378009"
+        },
+        {
+          "name": "DEGEN",
+          "address": "0xe8eb0f7b866a85da49401d04fffcfc1abbf24dfd"
+        },
+        {
+          "name": "BUSD",
+          "address": "0x715134a16acb73c86e81df5542e1cf759eeb6fc7"
+        },
+        {
+          "name": "Router",
+          "address": "0xd9e1ce17f2641f24ae83637ab66a2cca9c378b9f"
+        },
+        {
+          "name": "SHX",
+          "address": "0xea59a3da9cad8ece406a353ddede0e7d17604d28"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x6655207e37154f81e67b4285ce7036a67af823cc"
+        },
+        {
+          "name": "GALA",
+          "address": "0xfa405a40d3fe345e3d5e460c8d9da39ac0fb13bd"
+        },
+        {
+          "name": "CVX",
+          "address": "0x05767d9ef41dc40689678ffca0608878fb3de906"
+        },
+        {
+          "name": "FVT",
+          "address": "0x96335e7cdbcd91fb33c26991b00cc13a87a811b9"
+        },
+        {
+          "name": "Bento Box V1",
+          "address": "0xf5bce5077908a1b7370b9ae04adc565ebd643966"
+        },
+        {
+          "name": "INV",
+          "address": "0x328dfd0139e26cb0fef7b0742b49b0fe4325f821"
+        },
+        {
+          "name": "FTX Token",
+          "address": "0x7825de5586e4d2fd04459091bbe783fa243e1bf3"
+        },
+        {
+          "name": "OHM 2",
+          "address": "0x69b81152c5a8d35a67b32a4d3772795d96cae4da"
+        },
+        {
+          "name": "FTM",
+          "address": "0x0e26a21013f2f8c0362cfae608b4e69a249d5efc"
+        },
+        {
+          "name": "ALPHA",
+          "address": "0xf55c33d94150d93c2cfb833bcca30be388b14964"
+        },
+        {
+          "name": "DOG 3",
+          "address": "0xc96f20099d96b37d7ede66ff9e4de59b9b1065b1"
+        },
+        {
+          "name": "ENS",
+          "address": "0xa1181481beb2dc5de0daf2c85392d81c704bf75d"
+        },
+        {
+          "name": "ALCX",
+          "address": "0xc3f279090a47e80990fe3a9c30d24cb117ef91a8"
+        },
+        {
+          "name": "ZRX",
+          "address": "0x0bc5ae46c32d99c434b7383183aca16dd6e9bdc8"
+        },
+        {
+          "name": "GRT",
+          "address": "0x7b504a15ef05f4eed1c07208c5815c49022a0c19"
+        },
+        {
+          "name": "REN",
+          "address": "0x611cde65dea90918c0078ac0400a72b0d25b9bb1"
+        },
+        {
+          "name": "YGG",
+          "address": "0x99b42f2b49c395d2a77d973f6009abb5d67da343"
+        },
+        {
+          "name": "NEAR",
+          "address": "0x6469b34a2a4723163c4902dbbdea728d20693c12"
+        },
+        {
+          "name": "INDEX",
+          "address": "0xa73df646512c82550c2b3c0324c4eedee53b400c"
+        },
+        {
+          "name": "NST",
+          "address": "0x75507bab932fc47531bf1654f243c088a3fa1f69"
+        },
+        {
+          "name": "RLC",
+          "address": "0x75382c52b6f90b3f8014bfcadac2386513f1e3bc"
+        },
+        {
+          "name": "SLP 39",
+          "address": "0x8597fa0773888107e2867d36dd87fe5bafeab328"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "V2 Pool",
+          "address": "0xc73d2191a1dd0a99b377272899a5569ed83f8cd8"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xbc7074733d1dbaedfb31f031aeb3bfd2fdfd98ac"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xb6dd51d5425861c808fd60827ab6cfbffe604959"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x692a0b300366d1042679397e40f3d2cb4b8f7d30"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x68d13e4ae3191991f6c1ff50f888c13fd720ea2b"
+        },
+        {
+          "name": "RouteProcessor4",
+          "address": "0x544ba588efd839d2692fc31ea991cd39993c135f"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xf3eb87c1f6020982173c908e7eb31aa66c1f0296"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xd1e1ac29b31b35646eabd77163e212b76fe3b6a2"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xbf6cbb1f40a542af50839cad01b0dc1747f11e18"
+        },
+        {
+          "name": "WETH-MAGIC",
+          "address": "0xb7e50106a5bd3cf21af210a755f9c8740890a8c9"
+        },
+        {
+          "name": "SushiXSwapV2",
+          "address": "0x804b526e5bf4349819fe2db65349d0825870f8ee"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xcb0e5bfa72bbb4d16ab5aa0c60601c438f04b4ad"
+        },
+        {
+          "name": "Deployer",
+          "address": "0x9c51ad79e99086c7af3983e8626ca22617bb7f46"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x047e339b0220445a9884ed70030e5b317f8e5bc6"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x8f93eaae544e8f5eb077a1e09c1554067d9e2ca8"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x57b85fef094e10b5eecdf350af688299e9553378"
+        },
+        {
+          "name": "StargateAdapter",
+          "address": "0xff51a7c624eb866917102707f3da8bfb99db8692"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x96ada81328abce21939a51d971a63077e16db26e"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x15e444da5b343c5a0931f5d3e85d158d1efc3d40"
+        },
+        {
+          "name": "WETH-USDC",
+          "address": "0x905dfcd5649217c42684f23958568e533c711aa3"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x9a1e2f4df9f13855af30a6b132c1332e6f731c9c"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x4edaa03fc13f8f13c3290c3728f587760b12e381"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xcda3b7bec56dbb562453231f142f63d3b00f8eb3"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x3221022e37029923ace4235d812273c5a42c322d"
+        },
+        {
+          "name": "Router",
+          "address": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x72632b80b9993399d3729180cdf56bc729d95300"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xebfc40b1ac6907673b33ddc370f868dc21cd5b2b"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x5dcf474814515b58ca0ca5e80bbb00d18c5b5cf8"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x3d2d453b56f4c09950804fd5e42f12a4a237c5e6"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x7a1c260b2b98262b8014d3a676357ca02e107fc9"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x0a4f9962e24893a4a7567e52c1ce37d5482365de"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x47888c34e9aa879363e94e5302681e763b18d39e"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x515e252b2b5c22b4b2b6df66c2ebeea871aa4d69"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x1797538dd80c041cc2f0c5901d5700868186a9a8"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xbfc41d69e3e828718b39ddc448b1050a82f84105"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xd9e96f78b3c68ba79fd4dfad4ddf4f27bd1e2ecf"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x4d1576158518dd61924218446c1057cf03138d57"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xc221597efd286d3c9f234e47e9c2668bc2097834"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xb3942c9ffa04efbc1fa746e146be7565c76e3dc1"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xfa1cc0cae7779b214b1112322a2d1cf0b511c3bc"
+        },
+        {
+          "name": "Nonfungible Position Manager",
+          "address": "0xf0cbce1942a68beb3d1b73f0dd86c8dcc363ef49"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "V3 Pool",
+          "address": "0xc58374aed86793f9cb0cf861ad1fc860128a9901"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xa507e4f1a984a996d5169ffbe623f6a8c0ae3382"
+        },
+        {
+          "name": "RouteProcessor4",
+          "address": "0x46b3fdf7b5cde91ac049936bf0bdb12c5d22202e"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x84ea5316bfe6cfa5eed19084e4f57583b4bb1c80"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x7077f0cff76077d0ebb335b607db574400510557"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x416e3b622867aa4af98fcf0e0b871a47a80a7d7e"
+        },
+        {
+          "name": "NonfungiblePositionManager",
+          "address": "0x80c7dd17b01855a6d2347444a0fcc36136a314de"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "RouteProcessor4",
+          "address": "0xcdbcd51a5e8728e0af4895ce5771b7d17ff71959"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xbf12ca918c7e8cb260f480e74fdb99f5e0de5e8b"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xcbb424fd93cdec0ef330d8a8c985e8b147f62339"
+        },
+        {
+          "name": "StargateAdapter",
+          "address": "0xff51a7c624eb866917102707f3da8bfb99db8692"
+        },
+        {
+          "name": "SushiXSwapV2",
+          "address": "0x804b526e5bf4349819fe2db65349d0825870f8ee"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x4ed65dab34d5fd4b1eb384432027ce47e90e1185"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x6539bf462f73ff9497054ba261c195da8639ed61"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "StargateAdapter",
+          "address": "0xff51a7c624eb866917102707f3da8bfb99db8692"
+        },
+        {
+          "name": "RouteProcessor4",
+          "address": "0x33d91116e0370970444b0281ab117e161febfcdd"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x6da1ffd9d24e1753d2f46ca53146116c7210b3c5"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x1a126f39d78f43a4c1a2efafe63826dc0111825b"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xc7632b7b2d768bbb30a404e13e1de48d1439ec21"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x2905817b020fd35d9d09672946362b62766f0d69"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://sushi.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

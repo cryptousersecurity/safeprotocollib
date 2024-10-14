@@ -1,0 +1,21 @@
+{
+  "name": "Novadax",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x61ed4b62e03798305818607c7160b2abff15cfed"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://novadax.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "name": "BaseSwap",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0xe80b4f755417fb4baf4dbd23c029db3f62786523"
+        },
+        {
+          "name": "Baseswap staking position NFT (spNFT)",
+          "address": "0x9cad405909cfc74e6acda494d6fc8914798d8481"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x68163919a8a996e9fed4466ee98c7da785d5fe34"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x0e3a32b3b84dab844b16ecf9795122ce3c4462f8"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0xaf1823bacd8edda3b815180a61f8741fa4abc6dd"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x9cdf0bb48609eab72fda87036b98a8b6a41c428b"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x30dcc8444f8361d5ce119fc25e16af0b583e88fd"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x9ceb7088753cb9b91d26987ea92c4674e8c0f32b"
+        },
+        {
+          "name": "MasterChef",
+          "address": "0x6fc0f134a1f20976377b259687b1c15a5d422b47"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x78b9a3e9b16391df3a379ea0c5b9c1aef4b55ab7"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x1227ca4f2777c2ad68f5bd8c3baa9e25531e9eba"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x2990c823decca4ef32aadedcb62761e15acd47d9"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xf9a72fd5c30112af583b86b190b2d776b6c3c056"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x0feb1490f80b6978002c3e501753562f2f2853b2"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xef3c164b0fee8eb073513e88ecea280a58cc9945"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x29b3a7869e3662d00aabd89a8ee74b2f703a6a66"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0xa05db5ebed9902a1a14a4787c7f60549d5336488"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x93dcfbe3174e5efe65687ba5331626f44dc5e4dd"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xe2fbb92c87abc7909e3dc5ee8cc884f28bc2d93b"
+        },
+        {
+          "name": "Baseswap escrowed token (xBSX)",
+          "address": "0xe4750593d1fc8e74b31549212899a72162f315fa"
+        },
+        {
+          "name": "Router",
+          "address": "0x327df1e6de05895d2ab08513aadd9313fe505d86"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x7d43356ccfc948dbc6c108e822282c406e6708bd"
+        },
+        {
+          "name": "SmartChefInitializable",
+          "address": "0x86dbd5baae91ac576e8e5197eb2497603d0056ea"
+        },
+        {
+          "name": "Baseswap staking position NFT (spNFT)",
+          "address": "0xd239824786d69627bc048ee258943f2096cf2ab7"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0xaa6a81a7df94dab346e2d677225cad47220540c5"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x569d81c17b5b4ac08929dc1769b8e39668d3ae29"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x317d373e590795e2c09d73fad7498fc98c0a692b"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xcdd367446122ba5afbc0eacc675ce9f5030f94a1"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x07cfa5df24fb17486af0cbf6c910f24253a674d3"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x74cb6260be6f31965c239df6d6ef2ac2b5d4f020"
+        },
+        {
+          "name": "BaseX (BSX)",
+          "address": "0xd5046b976188eb40f6de40fb527f89c05b323385"
+        },
+        {
+          "name": "MasterChefV2",
+          "address": "0x2b0a43dccbd7d42c18f6a83f86d1a19fa58d541a"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x014c22804487f3fc639b8334da10aee33dabb8e9"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x6d3c5a4a7ac4b1428368310e4ec3bb1350d01455"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0xa79e45668972e13cdb6c9ed1debfc5b0d04cb0bd"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x3a65f421ea694d411cdef877c0297f14a17ae25f"
+        },
+        {
+          "name": "SmartChefInitializable",
+          "address": "0x26fd5de668f091222791cc0ea45ac072d7bfe0cd"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x75a50f51d49045d7f00e660d0ad7244ccfe4d372"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xc3ece832e008720bc2d42061df0758e9bbca9a91"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x19f5828aa11e12eed05bfb435857115bd098823a"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x7fea0384f38ef6ae79bb12295a9e10c464204f52"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x88492051e18a65fe00241a93699a6082ae95c828"
+        },
+        {
+          "name": "Baseswap staking position NFT (spNFT)",
+          "address": "0xaa93c2efd8fcc07c723e19a6e78ef5d2644bf391"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x806eab3b2f63343da07fe3c462a0b38a8bec5fd9"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x768011ad53b36fcfa44e6920c731005090ae0e4b"
+        },
+        {
+          "name": "Baseswap staking position NFT (spNFT)",
+          "address": "0x9e0772677c0e170e73bf5655fba417672a8865cf"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x5b83bdbfa201d8f2437cadb64793cc852a5d97a7"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0xcefb04d884c9414140286b01754126b61df6b247"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0xed9682343e70ba0f399897fc059d920239626319"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x2135780d04c96e14bc205d2c8b8ed4e716d09a2b"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x41d160033c222e6f3722ec97379867324567d883"
+        },
+        {
+          "name": "Baseswap staking position NFT (spNFT)",
+          "address": "0x179a0348decf6cbf2cf7b0527e3d6260e2068552"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0xab067c01c7f5734da168c699ae9d23a4512c9fdb"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x1e4a2fa367b545f1299811dcd314d37700568636"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x5c389c08e89b0c62a1413e9201ca3a5753fdd9f8"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x152375ed731bd67717fe3a12f62a9a2a27f46400"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0xf654a6e07332c0a50e068868ab0ade3296b42629"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x44006a9288963b4551e93199a3b6d275a8bb086e"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0x9a0b05f3cf748a114a4f8351802b3bffe07100d4"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0xcd7d206b61452a43e728e7bb2965ac2cbfafe074"
+        },
+        {
+          "name": "BaseSwap LPs (BSWAP-LP)",
+          "address": "0xc52328d5af54a12da68459ffc6d0845e91a8395f"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x4a1d46436d91b270f7e7fbeb1517a39181295fee"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x883e4ae0a817f2901500971b353b5dd89aa52184"
+        },
+        {
+          "name": "Baseswap staking position NFT (spNFT)",
+          "address": "0x7c04bf2bb7d27982810e432b188fa0c7729e651d"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0x273fdfe6018230f188741d7f93d4ab589bd26197"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://baseswap.fi",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

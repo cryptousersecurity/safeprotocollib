@@ -1,0 +1,21 @@
+{
+  "name": "Element Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "element yvDAI (yvUSDC)",
+          "address": "0xdea04ffc66ecd7bf35782c70255852b34102c3b0"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.element.fi/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

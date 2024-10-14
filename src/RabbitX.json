@@ -1,0 +1,21 @@
+{
+  "name": "RabbitX",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Treasury",
+          "address": "0x5aa4e90dc2452195a5e5654f549df0f2bc5d9996"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://rabbitx.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

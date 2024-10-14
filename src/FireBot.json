@@ -1,0 +1,21 @@
+{
+  "name": "FireBot",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "fireFBX Token",
+          "address": "0x960d43be128585ca45365cd74a7773b9d814dfbe"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://firebot.gg/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

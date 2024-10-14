@@ -1,0 +1,21 @@
+{
+  "name": "TopBidder",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Foundation Liquidity Reserve",
+          "address": "0x06412d7ebfbf66c25607e2ed24c1d207043be327"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bidder.top",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

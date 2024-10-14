@@ -1,0 +1,21 @@
+{
+  "name": "Proof.xyz",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0xc5ee3c8d11a702c8dc00247eadd9cff2abf40298"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.proof.xyz/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

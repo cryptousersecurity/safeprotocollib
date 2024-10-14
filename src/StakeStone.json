@@ -1,0 +1,21 @@
+{
+  "name": "StakeStone",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Stone",
+          "address": "0x7122985656e38bdc0302db86685bb972b145bd3c"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://stakestone.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

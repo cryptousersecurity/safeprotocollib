@@ -1,0 +1,21 @@
+{
+  "name": "Beanstalk",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Community MultiSig",
+          "address": "0xa9ba2c40b263843c04d344727b954a545c81d043"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bean.money/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Smyrna Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Binance Deposit",
+          "address": "0x1f68053cd925d467852cfecf78bd836f33f0e4a1"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://smyrna.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

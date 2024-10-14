@@ -1,0 +1,84 @@
+{
+  "name": "OpenSea",
+  "description": "OpenSea is the world's largest marketplace for buying, selling, and trading non-fungible tokens (NFTs). It supports a wide variety of digital assets, including art, collectibles, game items, and domain names.",
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Fees",
+          "address": "0x0000a26b00c1f0df003000390027140000faa719"
+        },
+        {
+          "name": "SeaDrop",
+          "address": "0x00005ea00ac477b1030ce78506496e8c2de24bf5"
+        },
+        {
+          "name": "Seaport",
+          "address": "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
+        },
+        {
+          "name": "Seaport",
+          "address": "0x0000000000000068f116a894984e2db1123eb395"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Seaport",
+          "address": "0x0000000000000068f116a894984e2db1123eb395"
+        },
+        {
+          "name": "SeaDrop",
+          "address": "0x00005ea00ac477b1030ce78506496e8c2de24bf5"
+        },
+        {
+          "name": "Seaport 1.5",
+          "address": "0x00000000000000adc04c56bf30ac9d3c0aaf14dc"
+        },
+        {
+          "name": "Fees",
+          "address": "0x0000a26b00c1f0df003000390027140000faa719"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Fees",
+          "address": "0x0000a26b00c1f0df003000390027140000faa719"
+        },
+        {
+          "name": "Seaport",
+          "address": "0x0000000000000068f116a894984e2db1123eb395"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "PayableProxy",
+          "address": "0x0000a26b00c1f0df003000390027140000faa719"
+        },
+        {
+          "name": "Seaport",
+          "address": "0x0000000000000068f116a894984e2db1123eb395"
+        },
+        {
+          "name": "SeaDrop",
+          "address": "0x00005ea00ac477b1030ce78506496e8c2de24bf5"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://opensea.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

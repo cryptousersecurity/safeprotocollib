@@ -1,0 +1,21 @@
+{
+  "name": "Dingo",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "OpenSea User",
+          "address": "0x63b6cec45c8a920e187428629abffbcbf9cda263"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://dingotoken.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

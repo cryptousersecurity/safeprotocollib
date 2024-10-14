@@ -1,0 +1,21 @@
+{
+  "name": "SHRAPNEL",
+  "description": null,
+  "chains": [
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "SHRAPToken (SHRAP)",
+          "address": "0xd402298a793948698b9a63311404fbbee944eafd"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": null,
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

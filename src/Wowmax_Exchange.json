@@ -1,0 +1,30 @@
+{
+  "name": "Wowmax Exchange",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "WowmaxRouter",
+          "address": "0x7adbbbe2da9ee040e6b41081c4b0d91a9db81c08"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "WowmaxRouter",
+          "address": "0xb95f8f9b102bec1e8ccd7f811ebb2c447f80ec59"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://wowmax.exchange/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

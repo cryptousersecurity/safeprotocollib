@@ -1,0 +1,21 @@
+{
+  "name": "Realio",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Reserve Wallet",
+          "address": "0xdf6764f41eb550f060aea6c852b822a49b53c6e2"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.realio.fund/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

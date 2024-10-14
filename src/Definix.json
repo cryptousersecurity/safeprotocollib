@@ -1,0 +1,21 @@
+{
+  "name": "Definix",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0xb8ac66679938d7354dfea4aca56b3e1e0487924d"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bsc.definix.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

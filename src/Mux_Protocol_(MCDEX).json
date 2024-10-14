@@ -1,0 +1,21 @@
+{
+  "name": "Mux Protocol (MCDEX)",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Mlp Fee Reward Tracker Proxy",
+          "address": "0x290450cdea757c68e4fe6032ff3886d204292914"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://mux.network/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

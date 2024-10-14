@@ -1,0 +1,21 @@
+{
+  "name": "Meshswap",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Router",
+          "address": "0x10f4a785f458bc144e3706575924889954946639"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://meshswap.fi/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

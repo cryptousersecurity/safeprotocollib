@@ -1,0 +1,21 @@
+{
+  "name": "Secta Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "SectaDexPool",
+          "address": "0xe331a3a42fd83a7f44daedc7ba212bdeb90ecf7b"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.secta.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

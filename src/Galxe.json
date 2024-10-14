@@ -1,0 +1,21 @@
+{
+  "name": "Galxe",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x783c330a7a4968a08ce100a16ac27ff2ccfaebdf"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://galxe.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

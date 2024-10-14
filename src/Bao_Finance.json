@@ -1,0 +1,21 @@
+{
+  "name": "Bao Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Treasury",
+          "address": "0x3dfc49e5112005179da613bde5973229082dac35"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.bao.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

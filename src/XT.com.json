@@ -1,0 +1,30 @@
+{
+  "name": "XT.com",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xe0a616c3659be29567e08819772e6905307adf21"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xe0a616c3659be29567e08819772e6905307adf21"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://xt.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

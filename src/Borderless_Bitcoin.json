@@ -1,0 +1,57 @@
+{
+  "name": "Borderless Bitcoin",
+  "description": null,
+  "chains": [
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "BTCbOFT",
+          "address": "0x2297aebd383787a160dd0d9f71508148769342e3"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "BTCbOFT",
+          "address": "0x2297aebd383787a160dd0d9f71508148769342e3"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "BTCbOFT",
+          "address": "0x2297aebd383787a160dd0d9f71508148769342e3"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "BTCbOFT",
+          "address": "0x2297aebd383787a160dd0d9f71508148769342e3"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "BTCbProxyOFT",
+          "address": "0x2297aebd383787a160dd0d9f71508148769342e3"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bitcoinbridge.network/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

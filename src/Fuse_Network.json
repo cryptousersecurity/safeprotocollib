@@ -1,0 +1,34 @@
+{
+  "name": "Fuse Network",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "OriginalTokenBridgeUpgradable (Proxy)",
+          "address": "0x95f51f18212c6bcffb819fdb2035e5757954b7b9"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "WrappedTokenBridgeUpgradable (Proxy)",
+          "address": "0x6041d22c7458a974cb6e752d75d03d74dccff522"
+        },
+        {
+          "name": "OriginalTokenBridgeUpgradable (Proxy)",
+          "address": "0xe453d6649643f1f460c371dc3d1da98f7922fe51"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://fuse.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

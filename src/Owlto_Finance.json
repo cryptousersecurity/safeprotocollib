@@ -1,0 +1,48 @@
+{
+  "name": "Owlto Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "Bridge",
+          "address": "0x5e809a85aa182a9921edd10a4163745bb3e36284"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Bridge",
+          "address": "0x5e809a85aa182a9921edd10a4163745bb3e36284"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Bridge",
+          "address": "0x5e809a85aa182a9921edd10a4163745bb3e36284"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Bridge",
+          "address": "0x5e809a85aa182a9921edd10a4163745bb3e36284"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://owlto.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Pandaswap.xyz",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "V2 Pool",
+          "address": "0xc345ec2878b2b96c0dda6ea77218fd4db7572b70"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x4524e2b380e590da205eb923f69865f5f7d54e48"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x640e2c0eccd822f79951b6e63a44786c475e75b4"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.pandaswap.xyz/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

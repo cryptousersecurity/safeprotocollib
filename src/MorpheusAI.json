@@ -1,0 +1,21 @@
+{
+  "name": "MorpheusAI",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "L1Sender (Proxy)",
+          "address": "0x2efd4430489e1a05a89c2f51811ac661b7e5ff84"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://mor.org/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

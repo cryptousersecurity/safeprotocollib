@@ -1,0 +1,50 @@
+{
+  "name": "The Graph",
+  "description": "The Graph revolutionizes data querying and indexing from blockchains through its decentralized protocol.",
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Staking",
+          "address": "0x00669a4cf01450b64e8a2a20e9b1fcb71e61ef03"
+        },
+        {
+          "name": "Curation Share Factory (Proxy)",
+          "address": "0x22d78fb4bc72e191c765807f8891b5e1785c8014"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "L1GraphTokenGateway (Proxy)",
+          "address": "0x01cdc91b0a9ba741903aa3699bf4ce31d6c5cc06"
+        },
+        {
+          "name": "BillingConnector",
+          "address": "0x8017b9af3f199cc6b08a48da3859410f20bbea72"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x6fc78dcc8a949d1530035bd577dcb21e9787100e"
+        },
+        {
+          "name": "BridgeEscrow (Proxy)",
+          "address": "0x36aff7001294dae4c2ed4fdefc478a00de77f090"
+        },
+        {
+          "name": "Staking",
+          "address": "0xf55041e37e12cd407ad00ce2910b8269b01263b9"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://thegraph.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

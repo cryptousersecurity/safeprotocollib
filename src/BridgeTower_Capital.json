@@ -1,0 +1,21 @@
+{
+  "name": "BridgeTower Capital",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Lido Node Operator",
+          "address": "0x40c20da8d0214a7ef33a84e287992858db744e6d"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.bridgetowercapital.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

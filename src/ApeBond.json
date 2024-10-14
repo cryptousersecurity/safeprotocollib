@@ -1,0 +1,98 @@
+{
+  "name": "ApeBond",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0xf2d7590cb86bea32193293d1bc9dffaf379c3642"
+        },
+        {
+          "name": "Pool",
+          "address": "0x83c5b5b309ee8e232fe9db217d394e262a71bcc0"
+        },
+        {
+          "name": "Pool",
+          "address": "0x1c4a479ce71f41a68d4c2de26854fc99f310918d"
+        },
+        {
+          "name": "Pool",
+          "address": "0x51e6d27fa57373d8d4c256231241053a70cb1d93"
+        },
+        {
+          "name": "Pool",
+          "address": "0xe6ff591f818664865ecab584b1fe679dbb4904db"
+        },
+        {
+          "name": "Pool",
+          "address": "0xe5459c34e13797372f6c95c0aac81a5faf60223e"
+        },
+        {
+          "name": "Pool",
+          "address": "0xfd1ef328a17a8e8eeaf7e4ea1ed8a108e1f2d096"
+        },
+        {
+          "name": "Pool",
+          "address": "0x29a4a3d77c010ce100a45831bf7e798f0f0b325d"
+        },
+        {
+          "name": "Pool",
+          "address": "0xe2ab715823f6431714e971e2209e377f2a833f05"
+        },
+        {
+          "name": "Pool",
+          "address": "0x3b9aa711d1d90a4f8639f66c227881729a3317f2"
+        },
+        {
+          "name": "Pool",
+          "address": "0x6f0f18f5fcc1466ec41c8106689e10befe68d1c0"
+        },
+        {
+          "name": "Pool",
+          "address": "0x47a0b7ba18bb80e4888ca2576c2d34be290772a6"
+        },
+        {
+          "name": "Pool",
+          "address": "0x2919128aacc9e608a9e629aab6b0189bf7932947"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Ape Router V2",
+          "address": "0xc0788a3ad43d79aa53b09c2eacc313a787d1d607"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x7433afe84df37d0954ff87d7f5788f124f8597f8"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x65d43b64e3b31965cd5ea367d4c2b94c03084797"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x019011032a7ac3a87ee885b6c08467ac46ad11cd"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x5b13b583d4317ab15186ed660a1e4c65c10da659"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x0359001070cf696d5993e0697335157a6f7db289"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://ape.bond/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

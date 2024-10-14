@@ -1,0 +1,30 @@
+{
+  "name": "Akuna Capital",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "OKX Deposit",
+          "address": "0x0e0dd4a9f1ae43300d537ba7d62220774c9c8312"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "OKX Deposit",
+          "address": "0x0e0dd4a9f1ae43300d537ba7d62220774c9c8312"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://akunacapital.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

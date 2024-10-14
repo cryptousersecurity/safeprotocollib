@@ -1,0 +1,42 @@
+{
+  "name": "Fluid (Instadapp)",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "EmptyImplementation (Proxy)",
+          "address": "0x52aa899454998be5b000ad077a46bbe360f4e497"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "FluidLiquidityProxy",
+          "address": "0x52aa899454998be5b000ad077a46bbe360f4e497"
+        },
+        {
+          "name": "FluidLendingStakingRewards",
+          "address": "0x2fa6c95b69c10f9f52b8990b6c03171f13c46225"
+        },
+        {
+          "name": "FluidStETHQueueProxy",
+          "address": "0x1f6b2bfdd5d1e6ade7b17027ff5300419a56ad6b"
+        },
+        {
+          "name": "EmptyImplementationUUPS (Proxy)",
+          "address": "0x264786ef916af64a1db19f513f24a3681734ce92"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": null,
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Dystopia.exchange",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0x53227c83a98ba1035fed912da6ce26a0c11c7c66"
+        },
+        {
+          "name": "Pool",
+          "address": "0x421a018cc5839c4c0300afb21c725776dc389b1a"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.dystopia.exchange/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

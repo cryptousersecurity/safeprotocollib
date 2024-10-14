@@ -1,0 +1,21 @@
+{
+  "name": "Coinhako",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xd4bddf5e3d0435d7a6214a0b949c7bb58621f37c"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://coinhako.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

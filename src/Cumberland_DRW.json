@@ -1,0 +1,33 @@
+{
+  "name": "Cumberland DRW",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Forwarder",
+          "address": "0x5d03b4a664b7f471bac945254d011b63e6c2eeb0"
+        },
+        {
+          "name": "Forwarder",
+          "address": "0xdb59ab25e55cdfb6a76bfc969a706b5cc9439b07"
+        },
+        {
+          "name": "Forwarder",
+          "address": "0x77c413d2610511c69251eff5124aa4a5cd32440c"
+        },
+        {
+          "name": "Forwarder",
+          "address": "0x400c7f21176ddbf0c06106821f2cda1bcd0ebeb0"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://cumberland.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

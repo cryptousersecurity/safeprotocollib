@@ -1,0 +1,21 @@
+{
+  "name": "Audius",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Multisig",
+          "address": "0xeabccd75da6c021c7553db4a74cacc958812432a"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://audius.co",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

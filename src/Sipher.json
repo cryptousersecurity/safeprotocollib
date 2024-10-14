@@ -1,0 +1,21 @@
+{
+  "name": "Sipher",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x11986f428b22c011082820825ca29b21a3c11295"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://sipher.xyz/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

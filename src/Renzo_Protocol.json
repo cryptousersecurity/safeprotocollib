@@ -1,0 +1,50 @@
+{
+  "name": "Renzo Protocol",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "OperatorDelegator (Proxy)",
+          "address": "0xbaf5f3a05bd7af6f3a0bba207803bf77e2657c8f"
+        },
+        {
+          "name": "EigenPod",
+          "address": "0x093f6c270ac22ec240f0c6fd7414ea774ca8d3e5"
+        },
+        {
+          "name": "OperatorDelegator (Proxy)",
+          "address": "0x0b1981a9fcc24a445de15141390d3e46da0e425c"
+        },
+        {
+          "name": "OperatorDelegator (Proxy)",
+          "address": "0x38cdb1a8207264c1a07c42c43a4c3ed4bfab7cea"
+        },
+        {
+          "name": "xRenzoBridge (Proxy)",
+          "address": "0xc1036d6bba2fe24c65823110b348ee80d3386acd"
+        },
+        {
+          "name": "EigenPod",
+          "address": "0x2641c2ded63a0c640629f5edf1189e0f53c06561"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "xRenzoDeposit (Proxy)",
+          "address": "0xf25484650484de3d554fb0b7125e7696efa4ab99"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.renzoprotocol.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

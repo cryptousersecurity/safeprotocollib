@@ -1,0 +1,21 @@
+{
+  "name": "ArbidexFi",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0x48d7e1a9d652ba5f5d80a8dc396df37993659f35"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://arbidex.fi/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

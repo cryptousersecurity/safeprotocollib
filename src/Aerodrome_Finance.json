@@ -1,0 +1,213 @@
+{
+  "name": "Aerodrome Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Volatile AMM - WETH/NORMILIO (vAMM-WETH/NORMILIO)",
+          "address": "0x7d68c4e183e31971deb223e6f8a064751d0599d0"
+        },
+        {
+          "name": "BribeVotingReward",
+          "address": "0x792dd56c98ce73cd5f9df3586b682a32b453b5f4"
+        },
+        {
+          "name": "Stable AMM - USD+/USDbC (sAMM-USD+/USDbC)",
+          "address": "0x4a3636608d7bc5776cb19eb72caa36ebb9ea683b"
+        },
+        {
+          "name": "Stable AMM - USDC/USD+ (sAMM-USDC/USD+)",
+          "address": "0x418457ca08fa5ec77f811b105f2c585cd051ac10"
+        },
+        {
+          "name": "Volatile AMM - USDC/USDC+ (vAMM-USDC/USDC+)",
+          "address": "0x75c39823152e28a0b4d783c5e8d2957dd5a44e76"
+        },
+        {
+          "name": "Volatile AMM - EXTRA/WETH (vAMM-EXTRA/WETH)",
+          "address": "0x84ff3b6e2046579fb2f2b891ce18ee10b5fbdbf2"
+        },
+        {
+          "name": "FeesVotingReward",
+          "address": "0x1d9848c5064197f04074b366d1dc8e8085d54e30"
+        },
+        {
+          "name": "CLPool",
+          "address": "0x4ef1e503c4f1e5664ac98294d0e42ddc9c0ff961"
+        },
+        {
+          "name": "Volatile AMM - WETH/SEED (vAMM-WETH/SEED)",
+          "address": "0x9725d57ee12c54fc98508babe9e8e0b5773ecad0"
+        },
+        {
+          "name": "Volatile AMM - WETH/PEPE (vAMM-WETH/PEPE)",
+          "address": "0xb69c83feb63819d2bd34e90911475afe6edcda8b"
+        },
+        {
+          "name": "Stable AMM - WETH/AERO (sAMM-WETH/AERO)",
+          "address": "0x80abe24a3ef1fc593ac5da960f232ca23b2069d0"
+        },
+        {
+          "name": "Volatile AMM - WETH/TIMI (vAMM-WETH/TIMI)",
+          "address": "0xacb7907c232907934b2578315dfcfa1ba60e87af"
+        },
+        {
+          "name": "Volatile AMM - WETH/MASA (vAMM-WETH/MASA)",
+          "address": "0x33c3782446df290be025a24a0ac94562e9a995d6"
+        },
+        {
+          "name": "Stable AMM - AERO/TOSHI (sAMM-AERO/TOSHI)",
+          "address": "0x7219f4b3759475e8cdfa8005539fc08dacba9217"
+        },
+        {
+          "name": "Volatile AMM - USDC/BROGE (vAMM-USDC/BROGE)",
+          "address": "0x7c35391bbe6d82f32743b6721f9850482f324dbc"
+        },
+        {
+          "name": "Volatile AMM - TYBG/WETH (vAMM-TYBG/WETH)",
+          "address": "0x20000fbfedfd172821821c9c59284129b04ffb2e"
+        },
+        {
+          "name": "Volatile AMM - tBTC/USDC (vAMM-tBTC/USDC)",
+          "address": "0x323121cd6f6274c9aeb9f87e0664c8fda5d343a5"
+        },
+        {
+          "name": "Volatile AMM - GB/AERO (vAMM-GB/AERO)",
+          "address": "0x0d744e25d608c1108d391ffd74d2b1cea318eff6"
+        },
+        {
+          "name": "Volatile AMM - AERO/USDbC (vAMM-AERO/USDbC)",
+          "address": "0x2223f9fe624f69da4d8256a7bcc9104fba7f8f75"
+        },
+        {
+          "name": "Volatile AMM - DOG/USD+ (vAMM-DOG/USD+)",
+          "address": "0xab6bca0c78594db0647036216dff15b268fd102f"
+        },
+        {
+          "name": "CLPool",
+          "address": "0xcf88b8bf7ccce2d836878e538197eb20fc673bce"
+        },
+        {
+          "name": "Volatile AMM - WETH/USD+ (vAMM-WETH/USD+)",
+          "address": "0x08b935148ab10d3699cb8d944519e8213abe6f1d"
+        },
+        {
+          "name": "Volatile AMM - VIRTUAL/WETH (vAMM-VIRTUAL/WETH)",
+          "address": "0x21594b992f68495dd28d605834b58889d0a727c7"
+        },
+        {
+          "name": "Volatile AMM - OVN/USD+ (vAMM-OVN/USD+)",
+          "address": "0x61366a4e6b1db1b85dd701f2f4bfa275ef271197"
+        },
+        {
+          "name": "Volatile AMM - USDC/W (vAMM-USDC/W)",
+          "address": "0xf8f0c4e9df216123d54e8f2194e5941f1b9764d5"
+        },
+        {
+          "name": "Volatile AMM - WETH/BTCBR (vAMM-WETH/BTCBR)",
+          "address": "0xab1a3b6471ab692e4f71083d05436fffde93d1db"
+        },
+        {
+          "name": "Volatile AMM - AERO/BENJI (vAMM-AERO/BENJI)",
+          "address": "0x0f3027d68fe4e2a56860d7b18b3d80cae8d716d1"
+        },
+        {
+          "name": "Volatile AMM - BRETT/AERO (vAMM-BRETT/AERO)",
+          "address": "0x43bbb129b56a998732767725a183b7a566843dba"
+        },
+        {
+          "name": "Volatile AMM - WETH/SEXY (vAMM-WETH/SEXY)",
+          "address": "0x862a9d8443bbf74cf86bc05afc8e05c63319dc1e"
+        },
+        {
+          "name": "Stable AMM - WETH/USDbC (sAMM-WETH/USDbC)",
+          "address": "0x44d7dd237001aef7fc7d8cb13ab4452f65ce5e40"
+        },
+        {
+          "name": "Volatile AMM - WETH/OX (vAMM-WETH/OX)",
+          "address": "0xe140c5930889c4064a3d11b17bb04fe7224a5cdc"
+        },
+        {
+          "name": "Stable AMM - WETH/USDC (sAMM-WETH/USDC)",
+          "address": "0x3548029694fbb241d45fb24ba0cd9c9d4e745f16"
+        },
+        {
+          "name": "CLPool",
+          "address": "0x98c7a2338336d2d354663246f64676009c7bda97"
+        },
+        {
+          "name": "Volatile AMM - WETH/TOSHI (vAMM-WETH/TOSHI)",
+          "address": "0x081e4455d91726212d1fa9affee80637d1f7be8e"
+        },
+        {
+          "name": "CLPool",
+          "address": "0xde5ff829fef54d1bdec957d9538a306f0ead1368"
+        },
+        {
+          "name": "Volatile AMM - WETH/SKOP (vAMM-WETH/SKOP)",
+          "address": "0x18c55864d9bc0d7c3f6dc18e3a1d20e50f551891"
+        },
+        {
+          "name": "Volatile AMM - WETH/MOCHI (vAMM-WETH/MOCHI)",
+          "address": "0xf8c6644e3641e23072bfce62aa15d9feefd0824c"
+        },
+        {
+          "name": "Volatile AMM - GB/WETH (vAMM-GB/WETH)",
+          "address": "0x284ddada0b71f2d0d4e395b69b1013dbf6f3e6c1"
+        },
+        {
+          "name": "Volatile AMM - WETH/USDbC (vAMM-WETH/USDbC)",
+          "address": "0xb4885bc63399bf5518b994c1d0c153334ee579d0"
+        },
+        {
+          "name": "Volatile AMM - WETH/CHAD (vAMM-WETH/CHAD)",
+          "address": "0x17cf4abb54a9d18c90fa0e36b8669ab0f4936f2e"
+        },
+        {
+          "name": "CLPool",
+          "address": "0xe846373c1a92b167b4e9cd5d8e4d6b1db9e90ec7"
+        },
+        {
+          "name": "Volatile AMM - WETH/WELS (vAMM-WETH/WELS)",
+          "address": "0xcaedc2561356b6a01a94e3c0438011459e91fbb9"
+        },
+        {
+          "name": "Router",
+          "address": "0xcf77a3ba9a5ca399b7c97c74d54e5b1beb874e43"
+        },
+        {
+          "name": "CLPool",
+          "address": "0x4d69971ccd4a636c403a3c1b00c85e99bb9b5606"
+        },
+        {
+          "name": "Volatile AMM - WETH/USDC (vAMM-WETH/USDC)",
+          "address": "0xcdac0d6c6c59727a65f871236188350531885c43"
+        },
+        {
+          "name": "Volatile AMM - WETH/DEGEN (vAMM-WETH/DEGEN)",
+          "address": "0x2c4909355b0c036840819484c3a882a95659abf3"
+        },
+        {
+          "name": "Volatile AMM - USDC/AERO (vAMM-USDC/AERO)",
+          "address": "0x6cdcb1c4a4d1c3c6d054b27ac5b77e89eafb971d"
+        },
+        {
+          "name": "Volatile AMM - WETH/WELL (vAMM-WETH/WELL)",
+          "address": "0xffa3f8737c39e36dec4300b162c2153c67c8352f"
+        },
+        {
+          "name": "CLPool",
+          "address": "0x4e829f8a5213c42535ab84aa40bd4adcce9cba02"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://aerodrome.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

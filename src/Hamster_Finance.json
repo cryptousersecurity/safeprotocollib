@@ -1,0 +1,21 @@
+{
+  "name": "Hamster Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "HAM Dividend Tracker",
+          "address": "0x5313d889e8ed53e0e734361b0f0aa737dd4df650"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.hamsterfinance.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

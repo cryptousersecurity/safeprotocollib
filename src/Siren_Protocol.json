@@ -1,0 +1,21 @@
+{
+  "name": "Siren Protocol",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x70ffd58e2183b1d94fb6c747b9ed87ecfb162008"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://siren.xyz/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

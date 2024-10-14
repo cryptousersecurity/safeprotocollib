@@ -1,0 +1,199 @@
+{
+  "name": "Instadapp",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "InstaVault",
+          "address": "0x40a9d39aa50871df092538c5999b107f34409061"
+        },
+        {
+          "name": "Deployer",
+          "address": "0x7284a8451d9a0e7dc62b3a71c0593ea2ec5c5638"
+        },
+        {
+          "name": "InstaFlashAggregatorV2 (Proxy)",
+          "address": "0x8d8b52e9354e2595425d00644178e2ba2257f42a"
+        },
+        {
+          "name": "iETH Vault (InstaAccountV2)",
+          "address": "0x94269a09c5fcbd5e88f9df13741997bc11735a9c"
+        },
+        {
+          "name": "EthVaultWrapper",
+          "address": "0xa13cea5fe07253075deae089d167854e8a7cf91d"
+        },
+        {
+          "name": "Team MultiSig (Avocado)",
+          "address": "0x4f6f977acdd1177dcd81ab83074855ecb9c2d49e"
+        },
+        {
+          "name": "Deployer",
+          "address": "0x910e413dbf3f6276fe8213ff656726bdc142e08e"
+        },
+        {
+          "name": "Lite Vault DSA (InstaAccountV2)",
+          "address": "0x9600a48ed0f931d0c422d574e3275a90d8b22745"
+        },
+        {
+          "name": "Instadapp ETH v2 (iETHv2)",
+          "address": "0xa0d3707c569ff8c87fa923d3823ec5d81c98be78"
+        },
+        {
+          "name": "StakingRewards",
+          "address": "0xf3f1a1d89c0a2a990fc9d17193365306f69f93c0"
+        },
+        {
+          "name": "InstaMerkleDistributorLM",
+          "address": "0x3b9ae61b9feacba6c2f58d73aa484d671900bfb4"
+        },
+        {
+          "name": "InstaFlashAggregator",
+          "address": "0x619ad2d02dbee6eba3cdbda3f98430410e892882"
+        },
+        {
+          "name": "Avocado",
+          "address": "0xd96ce9b4eeaf236c0ab8b08f8ce9bc8c1eb88880"
+        },
+        {
+          "name": "Treasury",
+          "address": "0x28849d2b63fa8d361e5fc15cb8abb13019884d09"
+        },
+        {
+          "name": "StakingRewards",
+          "address": "0xb75984ec0d81a163b2925ae3ec6797a85bc45553"
+        },
+        {
+          "name": "Deployer",
+          "address": "0xa7615cd307f323172331865181dc8b80a2834324"
+        },
+        {
+          "name": "Instadapp ETH (iETH)",
+          "address": "0xc383a3833a87009fd9597f8184979af5edfad019"
+        },
+        {
+          "name": "StakingRewards",
+          "address": "0x6c49fc10198f03f8edff13173d655e96bb0607d4"
+        },
+        {
+          "name": "Instadapp USDC Token (IUSDC)",
+          "address": "0xc8871267e07408b89aa5aecc58adca5e574557f8"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "InstaFlashAggregatorV2Arbitrum (Proxy)",
+          "address": "0x8d8b52e9354e2595425d00644178e2ba2257f42a"
+        },
+        {
+          "name": "OpenSea User",
+          "address": "0x910e413dbf3f6276fe8213ff656726bdc142e08e"
+        },
+        {
+          "name": "Avocado",
+          "address": "0x4f6f977acdd1177dcd81ab83074855ecb9c2d49e"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Avocado",
+          "address": "0xd96ce9b4eeaf236c0ab8b08f8ce9bc8c1eb88880"
+        },
+        {
+          "name": "OpenSea User",
+          "address": "0x910e413dbf3f6276fe8213ff656726bdc142e08e"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Deployer",
+          "address": "0x85b40eb65e49eb61de78a3a989752249f8837fc5"
+        },
+        {
+          "name": "OpenSea User",
+          "address": "0x26ed8119c45e3871df446a13f7fdc9e2c527dacd"
+        },
+        {
+          "name": "OpenSea User",
+          "address": "0x910e413dbf3f6276fe8213ff656726bdc142e08e"
+        },
+        {
+          "name": "Insta Flash Aggregator Proxy",
+          "address": "0x84e6b05a089d5677a702cf61dc14335b4be5b282"
+        },
+        {
+          "name": "InstaFlashAggregatorV2Optimism (Proxy)",
+          "address": "0x8d8b52e9354e2595425d00644178e2ba2257f42a"
+        },
+        {
+          "name": "Avocado",
+          "address": "0xd96ce9b4eeaf236c0ab8b08f8ce9bc8c1eb88880"
+        },
+        {
+          "name": "InstaWETHWithdraw",
+          "address": "0xa5044f8ffa8fbddd0781cede502f1c493bb6978a"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Avocado",
+          "address": "0xd96ce9b4eeaf236c0ab8b08f8ce9bc8c1eb88880"
+        },
+        {
+          "name": "InstaFlashAggregatorV2Polygon (Proxy)",
+          "address": "0x8d8b52e9354e2595425d00644178e2ba2257f42a"
+        },
+        {
+          "name": "OpenSea User",
+          "address": "0x910e413dbf3f6276fe8213ff656726bdc142e08e"
+        },
+        {
+          "name": "Instadapp Account",
+          "address": "0xe6e5cf231be6236b4f616be21f5cd16d48a361b6"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "Deployer",
+          "address": "0xa7615cd307f323172331865181dc8b80a2834324"
+        },
+        {
+          "name": "OpenSea User",
+          "address": "0x910e413dbf3f6276fe8213ff656726bdc142e08e"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "InstaFlashAggregatorV2Avalanche (Proxy)",
+          "address": "0x8d8b52e9354e2595425d00644178e2ba2257f42a"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://instadapp.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

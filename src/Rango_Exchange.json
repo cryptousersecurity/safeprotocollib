@@ -1,0 +1,52 @@
+{
+  "name": "Rango Exchange",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "RangoDiamond",
+          "address": "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "RangoStargateMiddleware",
+          "address": "0xea05150d6e257736b8035ce3416f6a3cdfdee936"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "RangoStargateMiddleware",
+          "address": "0xea05150d6e257736b8035ce3416f6a3cdfdee936"
+        },
+        {
+          "name": "RangoDiamond",
+          "address": "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "RangoDiamond",
+          "address": "0x69460570c93f9de5e2edbc3052bf10125f0ca22d"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://rango.exchange/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

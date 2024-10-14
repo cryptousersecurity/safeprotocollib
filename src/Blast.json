@@ -1,0 +1,45 @@
+{
+  "name": "Blast",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Bridge Deposit (Proxy)",
+          "address": "0x5f6ae08b8aeb7078cf2f96afb089d7c9f51da47d"
+        },
+        {
+          "name": "L1 Bridge (Proxy)",
+          "address": "0x3a05e5d33d7ab3864d53aaec93c8301c1fa49115"
+        },
+        {
+          "name": "USD Yield Manager (Proxy)",
+          "address": "0xa230285d5683c74935ad14c446e137c8c8828438"
+        },
+        {
+          "name": "Proxy",
+          "address": "0x0ec68c5b10f21effb74f2a5c61dfe6b08c0db6cb"
+        },
+        {
+          "name": "ETH Yield Manager (Proxy)",
+          "address": "0x98078db053902644191f93988341e31289e1c8fe"
+        },
+        {
+          "name": "L1 Cross Domain Messenger (Proxy)",
+          "address": "0x5d4472f31bd9385709ec61305afc749f0fa8e9d0"
+        },
+        {
+          "name": "L1 Standard Bridge (Proxy)",
+          "address": "0x697402166fbf2f22e970df8a6486ef171dbfc524"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://blast.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

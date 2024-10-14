@@ -1,0 +1,138 @@
+{
+  "name": "Nexo",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xb60c61dbb7456f024f9338c739b02be68e3f545c"
+        },
+        {
+          "name": "Corporate Treasury",
+          "address": "0x9bdb521a97e95177bf252c253e256a60c3e14447"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x6a17173aa3965502b7f2edc53cee5a30fd37d6bc"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7ab6c736baf1dac266aab43884d82974a9adcccf"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gas Supplier",
+          "address": "0x354e9fa5c6ee7e6092158a8c1b203ccac932d66d"
+        },
+        {
+          "name": "Withdrawal Hot Wallet",
+          "address": "0x4d7f1790644af787933c9ff0e2cff9a9b4299abb"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7344e478574acbe6dac9de1077430139e17eec3d"
+        },
+        {
+          "name": "Corporate Treasury",
+          "address": "0x9bdb521a97e95177bf252c253e256a60c3e14447"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xb60c61dbb7456f024f9338c739b02be68e3f545c"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x463e5b673d1029989c9b059d36393c539bef9094"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7ab6c736baf1dac266aab43884d82974a9adcccf"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x31e9b3373f2ad5d964cad0fd01332d6550cbbde6"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Corporate Treasury",
+          "address": "0x9bdb521a97e95177bf252c253e256a60c3e14447"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7893b8b1a474933ef654596e138298eba2000237"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7ab6c736baf1dac266aab43884d82974a9adcccf"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Corporate Treasury",
+          "address": "0x9bdb521a97e95177bf252c253e256a60c3e14447"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7ab6c736baf1dac266aab43884d82974a9adcccf"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xb60c61dbb7456f024f9338c739b02be68e3f545c"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Corporate Treasury",
+          "address": "0x9bdb521a97e95177bf252c253e256a60c3e14447"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7ab6c736baf1dac266aab43884d82974a9adcccf"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xb60c61dbb7456f024f9338c739b02be68e3f545c"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x7ab6c736baf1dac266aab43884d82974a9adcccf"
+        },
+        {
+          "name": "Corporate Treasury",
+          "address": "0x9bdb521a97e95177bf252c253e256a60c3e14447"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xb60c61dbb7456f024f9338c739b02be68e3f545c"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://nexo.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

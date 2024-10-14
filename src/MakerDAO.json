@@ -1,0 +1,37 @@
+{
+  "name": "MakerDAO",
+  "description": "Introducing the groundbreaking project that pioneers the creation of DAI, an impartial and prominent decentralized stablecoin, revolutionizing the concept of currency.",
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "DSR Manager",
+          "address": "0x373238337bfe1146fb49989fc222523f83081ddb"
+        },
+        {
+          "name": "Permanent Team Multisig",
+          "address": "0xb5eb779ce300024edb3df9b6c007e312584f6f4f"
+        },
+        {
+          "name": "PSM-USDC-A",
+          "address": "0x0a59649758aa4d66e25f08dd01271e891fe52199"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x87acdd9208f73bfc9207e1f6f0fde906bca95cc6"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x7800c137a645c07132886539217ce192b9f0528e"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://makerdao.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

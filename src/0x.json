@@ -1,0 +1,119 @@
+{
+  "name": "0x",
+  "description": "0x empowers the creation of decentralized exchanges and trading protocols through its versatile smart contract infrastructure.",
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Fees",
+          "address": "0x38f5e5b4da37531a6e85161e337e0238bb27aa90"
+        },
+        {
+          "name": "ZeroEx",
+          "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Exchange Proxy",
+          "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+        },
+        {
+          "name": "Coinbase Wallet Proxy",
+          "address": "0xe66b31678d6c16e9ebf358268a790b763c133750"
+        },
+        {
+          "name": "",
+          "address": "0x38f5e5b4da37531a6e85161e337e0238bb27aa90"
+        },
+        {
+          "name": "Exchange Proxy Flash Wallet",
+          "address": "0x22f9dcf4647084d6c31b2765f6910cd85c178c18"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Fees",
+          "address": "0x38f5e5b4da37531a6e85161e337e0238bb27aa90"
+        },
+        {
+          "name": "Exchange Proxy Flash Wallet",
+          "address": "0xdb6f1920a889355780af7570773609bd8cb1f498"
+        },
+        {
+          "name": "Exchange Proxy",
+          "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Exchange Proxy Flash Wallet",
+          "address": "0xa3128d9b7cca7d5af29780a56abeec12b05a6740"
+        },
+        {
+          "name": "Exchange Proxy",
+          "address": "0xdef1abe32c034e558cdd535791643c58a13acc10"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Exchange Proxy Flash Wallet",
+          "address": "0xdb6f1920a889355780af7570773609bd8cb1f498"
+        },
+        {
+          "name": "Exchange Proxy",
+          "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+        },
+        {
+          "name": "Fees",
+          "address": "0x38f5e5b4da37531a6e85161e337e0238bb27aa90"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Exchange Proxy",
+          "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+        },
+        {
+          "name": "Exchange Proxy Flash Wallet",
+          "address": "0xdb6f1920a889355780af7570773609bd8cb1f498"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Exchange Proxy",
+          "address": "0xdef1c0ded9bec7f1a1670819833240f027b25eff"
+        },
+        {
+          "name": "Exchange Proxy Flash Wallet",
+          "address": "0xdb6f1920a889355780af7570773609bd8cb1f498"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://0x.org",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

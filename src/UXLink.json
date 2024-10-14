@@ -1,0 +1,21 @@
+{
+  "name": "UXLink",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Fundraise",
+          "address": "0x4457d81a97ab6074468da95f4c0c452924267da5"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.uxlink.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "CafeSwap Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0xff7b0c1e748d301a394d922df11afcca107fc299"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://cafeswap.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

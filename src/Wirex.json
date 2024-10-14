@@ -1,0 +1,107 @@
+{
+  "name": "Wirex",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xb57deccd4b0aa811fe1ec947c66ee65c08617a76"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x935f64b44b5c48a1539c4ada5161d27ace4205b5"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x2f13d388b85e0ecd32e7c3d7f36d1053354ef104"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x2f13d388b85e0ecd32e7c3d7f36d1053354ef104"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x935f64b44b5c48a1539c4ada5161d27ace4205b5"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xb57deccd4b0aa811fe1ec947c66ee65c08617a76"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x2f13d388b85e0ecd32e7c3d7f36d1053354ef104"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x2f13d388b85e0ecd32e7c3d7f36d1053354ef104"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x935f64b44b5c48a1539c4ada5161d27ace4205b5"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xb57deccd4b0aa811fe1ec947c66ee65c08617a76"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x935f64b44b5c48a1539c4ada5161d27ace4205b5"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x2f13d388b85e0ecd32e7c3d7f36d1053354ef104"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x2f13d388b85e0ecd32e7c3d7f36d1053354ef104"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x935f64b44b5c48a1539c4ada5161d27ace4205b5"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x2f13d388b85e0ecd32e7c3d7f36d1053354ef104"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://wirexapp.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

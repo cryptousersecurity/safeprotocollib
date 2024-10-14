@@ -1,0 +1,21 @@
+{
+  "name": "Zircuit",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Restaking Pool",
+          "address": "0xf047ab4c75cebf0eb9ed34ae2c186f3611aeafa6"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.zircuit.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

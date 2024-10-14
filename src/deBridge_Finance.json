@@ -1,0 +1,39 @@
+{
+  "name": "deBridge Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "DeBridgeGate (Proxy)",
+          "address": "0x43de2d77bf8027e25dbd179b491e8d64f38398aa"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "DeBridgeGate (Proxy)",
+          "address": "0x43de2d77bf8027e25dbd179b491e8d64f38398aa"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "DeBridgeGate (Proxy)",
+          "address": "0x43de2d77bf8027e25dbd179b491e8d64f38398aa"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://debridge.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

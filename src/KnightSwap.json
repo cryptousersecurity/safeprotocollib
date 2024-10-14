@@ -1,0 +1,21 @@
+{
+  "name": "KnightSwap",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0x495ea7f561450d367f55a273b5f31ba5daf8c3b2"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.knightswap.financial/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Stake DAO",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Governance MultiSig",
+          "address": "0xf930ebbd05ef8b25b1797b9b2109ddc9b0d43063"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://stakedao.org/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Bright Moments",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "brightmoments.eth",
+          "address": "0xb96e81f80b3aeef65cb6d0e280b15fd5dbe71937"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.brightmoments.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

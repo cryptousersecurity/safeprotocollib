@@ -1,0 +1,21 @@
+{
+  "name": "Oreoswap",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0x9a8d82568cbe5ccabbfd7c6a44d00231aa547898"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://oreoswap.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

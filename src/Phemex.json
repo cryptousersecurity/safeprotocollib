@@ -1,0 +1,91 @@
+{
+  "name": "Phemex",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Gas Supplier",
+          "address": "0x2710eb8b7f29def9fc856c87aeb64d05d068da3a"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x50be13b54f3eebbe415d20250598d81280e56772"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x50be13b54f3eebbe415d20250598d81280e56772"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x50be13b54f3eebbe415d20250598d81280e56772"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0x2710eb8b7f29def9fc856c87aeb64d05d068da3a"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x50be13b54f3eebbe415d20250598d81280e56772"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x50be13b54f3eebbe415d20250598d81280e56772"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Phemex Token (PT)",
+          "address": "0x45cf7ba3ce12d4990c4455e3940523ccd81abe83"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x50be13b54f3eebbe415d20250598d81280e56772"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x799cd52e85dd8f1534dc9aad88e5b532233b462b"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x50be13b54f3eebbe415d20250598d81280e56772"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://phemex.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

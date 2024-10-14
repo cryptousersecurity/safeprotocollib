@@ -1,0 +1,161 @@
+{
+  "name": "Tornado.Cash",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Proxy",
+          "address": "0x0d5550d52428e7e3175bfc9550207e4ad3859b17"
+        },
+        {
+          "name": "0.1 ETH",
+          "address": "0x84443cfd09a48af6ef360c6976c5392ac5023a1f"
+        },
+        {
+          "name": "10 ETH",
+          "address": "0x330bdfade01ee9bf63c209ee33102dd334618e0a"
+        },
+        {
+          "name": "1 ETH",
+          "address": "0xd47438c816c9e7f2e2888e060936a499af9582b3"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Router",
+          "address": "0xd90e2f925da726b50c4ed8d0fb90ad053324f31b"
+        },
+        {
+          "name": "L1 Helper",
+          "address": "0xca0840578f57fe71599d29375e16783424023357"
+        },
+        {
+          "name": "10 ETH",
+          "address": "0x910cbd523d972eb0a6f4cae4618ad62622b39dbf"
+        },
+        {
+          "name": "1,000 DAI",
+          "address": "0xfd8610d20aa15b7b2e3be39b396a1bc3516c7144"
+        },
+        {
+          "name": "0.1 ETH",
+          "address": "0x12d66f87a04a9e220743712ce6d9bb1b5616b8fc"
+        },
+        {
+          "name": "Governance Contract",
+          "address": "0x5efda50f22d34f262c29268506c5fa42cb56a1ce"
+        },
+        {
+          "name": "L1 Unwrapper",
+          "address": "0x3f615ba21bc6cc5d4a6d798c5950cc5c42937fbd"
+        },
+        {
+          "name": "1 ETH",
+          "address": "0x47ce0c6ed5b0ce3d3a51fdb1c52dc66a7c3c2936"
+        },
+        {
+          "name": "100,000 DAI",
+          "address": "0x23773e65ed146a459791799d01336db287f25334"
+        },
+        {
+          "name": "100 DAI",
+          "address": "0xd4b88df4d29f5cedd6857912842cff3b20c8cfa3"
+        },
+        {
+          "name": "Deployer",
+          "address": "0x21c30d17d9e61ce139dfd2a3d167c5752246b938"
+        },
+        {
+          "name": "100 ETH",
+          "address": "0xa160cdab225685da1d56aa342ad8841c3b53f291"
+        },
+        {
+          "name": "tornado-dev.eth",
+          "address": "0x9ff3c1bea9ffb56a78824fe29f457f066257dd58"
+        },
+        {
+          "name": "Gas Compensation Vault",
+          "address": "0xfa4c1f3f7d5dd7c12a9adb82cd7dda542e3d59ef"
+        },
+        {
+          "name": "Tornado Staking Rewards Proxy",
+          "address": "0x5b3f656c80e8ddb9ec01dd9018815576e9238c29"
+        },
+        {
+          "name": "Governance Vault",
+          "address": "0x2f50508a8a3d323b91336fa3ea6ae50e55f32185"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "0.1 ETH",
+          "address": "0x84443cfd09a48af6ef360c6976c5392ac5023a1f"
+        },
+        {
+          "name": "Proxy",
+          "address": "0x0d5550d52428e7e3175bfc9550207e4ad3859b17"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Proxy",
+          "address": "0x0d5550d52428e7e3175bfc9550207e4ad3859b17"
+        },
+        {
+          "name": "100 BNB",
+          "address": "0x1e34a77868e19a6647b1f2f47b51ed72dede95dd"
+        },
+        {
+          "name": "0.1 BNB",
+          "address": "0x84443cfd09a48af6ef360c6976c5392ac5023a1f"
+        },
+        {
+          "name": "tornado-dev.eth",
+          "address": "0x9ff3c1bea9ffb56a78824fe29f457f066257dd58"
+        },
+        {
+          "name": "10 BNB",
+          "address": "0x330bdfade01ee9bf63c209ee33102dd334618e0a"
+        },
+        {
+          "name": "1 BNB",
+          "address": "0xd47438c816c9e7f2e2888e060936a499af9582b3"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "100 Matic",
+          "address": "0x1e34a77868e19a6647b1f2f47b51ed72dede95dd"
+        },
+        {
+          "name": "TornadoProxyLight",
+          "address": "0x0d5550d52428e7e3175bfc9550207e4ad3859b17"
+        },
+        {
+          "name": "1,000 MATIC",
+          "address": "0xdf231d99ff8b6c6cbf4e9b9a945cbacef9339178"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://tornado.cash",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

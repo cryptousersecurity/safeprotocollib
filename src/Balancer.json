@@ -1,0 +1,100 @@
+{
+  "name": "Balancer",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "OptimismRootGauge",
+          "address": "0x3db8e1ffe58ea99939efaef084ca23cc0195b531"
+        },
+        {
+          "name": "OptimismRootGauge",
+          "address": "0x6a2c2d4502335638d2c2f40f0171253fb2c2db88"
+        },
+        {
+          "name": "OptimismRootGauge",
+          "address": "0x20d03f9d0304744891881e6ac1d45b996e7f39b5"
+        },
+        {
+          "name": "OptimismRootGauge",
+          "address": "0x7e1726d24b1cd3dfcd713f67a83cceaa6108d069"
+        },
+        {
+          "name": "BPool",
+          "address": "0xc697051d1c6296c24ae3bcef39aca743861d9a81"
+        },
+        {
+          "name": "OptimismRootGauge",
+          "address": "0xb17f2f3de17d5013e7cc8ceb4ec2be02c6cc1501"
+        },
+        {
+          "name": "OptimismRootGauge",
+          "address": "0x2e6cd45581002c894cac692dce4a30632125ef99"
+        },
+        {
+          "name": "OptimismRootGauge",
+          "address": "0xdacd99029b4b94cd04fe364aac370829621c1c64"
+        },
+        {
+          "name": "OptimismRootGauge",
+          "address": "0x730a168cf6f501cf302b803ffc57ff3040f378bf"
+        },
+        {
+          "name": "OptimismRootGauge",
+          "address": "0x65a5c255cfddb99caccacee6f0fa63f3ab886e79"
+        },
+        {
+          "name": "Vault",
+          "address": "0xba12222222228d8ba445958a75a0704d566bf2c8"
+        },
+        {
+          "name": "OptimismRootGauge",
+          "address": "0x5622821a3b993f062ff691478bbb7d551c167321"
+        },
+        {
+          "name": "OptimismRootGauge",
+          "address": "0x8e486dbacb74c00dd31e489da93d99bbebe36cd5"
+        },
+        {
+          "name": "OptimismRootGauge",
+          "address": "0x8c596e8d1b3be04a6caa1b1152b51c495f799a16"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Vault",
+          "address": "0xba12222222228d8ba445958a75a0704d566bf2c8"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Vault",
+          "address": "0xba12222222228d8ba445958a75a0704d566bf2c8"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Vault",
+          "address": "0xba12222222228d8ba445958a75a0704d566bf2c8"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://balancer.fi",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

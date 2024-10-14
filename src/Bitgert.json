@@ -1,0 +1,21 @@
+{
+  "name": "Bitgert",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "BRISE Token",
+          "address": "0x8fff93e810a2edaafc326edee51071da9d398e83"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bitgert.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

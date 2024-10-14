@@ -1,0 +1,21 @@
+{
+  "name": "Caladan (Alphalab Capital)",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Market Maker",
+          "address": "0xbb289bc97591f70d8216462df40ed713011b968a"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://caladan.xyz/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "name": "Compound",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Bulker",
+          "address": "0xbde8f31d2ddda895264e27dd990fab3dc87b372d"
+        },
+        {
+          "name": "Compound USDC (cUSDCv3)",
+          "address": "0x9c4ec768c28520b50860ea7a15bd7213a9ff58bf"
+        },
+        {
+          "name": "Rewards",
+          "address": "0x88730d254a2f7e6ac8388c3198afd694ba9f7fae"
+        },
+        {
+          "name": "Compound USDC (cUSDCv3)",
+          "address": "0xa5edbdd9646f8dff606d7448e414884c7d905dca"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Bulker",
+          "address": "0x59e242d352ae13166b4987ae5c990c232f7f7cd6"
+        },
+        {
+          "name": "Compound USDC (cUSDCv3)",
+          "address": "0xf25212e676d1f7f89cd72ffee66158f541246445"
+        },
+        {
+          "name": "Rewards",
+          "address": "0x45939657d1ca34a8fa39a924b71d28fe8431e581"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "cLink Token",
+          "address": "0xface851a4921ce59e912d19329929ce6da6eb0c7"
+        },
+        {
+          "name": "Compound USDC (cUSDCv3)",
+          "address": "0xc3d688b66703497daa19211eedff47f25384cdc3"
+        },
+        {
+          "name": "cUNI Token (CUNI)",
+          "address": "0x35a18000230da775cac24873d00ff85bccded550"
+        },
+        {
+          "name": "cUSDT Token (CUSDT)",
+          "address": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9"
+        },
+        {
+          "name": "cSUSHI Token (CSUSHI)",
+          "address": "0x4b0181102a0112a2ef11abee5563bb4a3176c9d7"
+        },
+        {
+          "name": "cBAT Token (CBAT)",
+          "address": "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e"
+        },
+        {
+          "name": "cMKR Token (CMKR)",
+          "address": "0x95b4ef2869ebd94beb4eee400a99824bf5dc325b"
+        },
+        {
+          "name": "Bulker",
+          "address": "0xa397a8c2086c554b531c02e29f3291c9704b00c7"
+        },
+        {
+          "name": "Comptroller",
+          "address": "0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b"
+        },
+        {
+          "name": "cWBTC Token",
+          "address": "0xc11b1268c1a384e55c48c2391d8d480264a3a7f4"
+        },
+        {
+          "name": "Compound Ether (cETH)",
+          "address": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5"
+        },
+        {
+          "name": "Rewards",
+          "address": "0x1b0e765f6224c21223aea2af16c1c46e38885a40"
+        },
+        {
+          "name": "cWBTC Token (CWBTC)",
+          "address": "0xccf4429db6322d5c611ee964527d42e5d685dd6a"
+        },
+        {
+          "name": "cTUSD Token",
+          "address": "0x12392f67bdf24fae0af363c24ac620a2f67dad86"
+        },
+        {
+          "name": "cCOMP Token",
+          "address": "0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4"
+        },
+        {
+          "name": "Compound WETH (cWETHv3)",
+          "address": "0xa17581a9e3356d9a858b789d68b4d866e593ae94"
+        },
+        {
+          "name": "cUSDC Token (CUSDC)",
+          "address": "0x39aa39c021dfbae8fac545936693ac917d5e7563"
+        },
+        {
+          "name": "Compound Dai (cDAI)",
+          "address": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Compound WETH (cWETHv3)",
+          "address": "0x46e6b214b524310239732d51387075e0e70970bf"
+        },
+        {
+          "name": "Compound USDbC (cUSDbCv3)",
+          "address": "0x9c4ec768c28520b50860ea7a15bd7213a9ff58bf"
+        },
+        {
+          "name": "BaseBulker",
+          "address": "0x78d0677032a35c63d142a48a2037048871212a8c"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://compound.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

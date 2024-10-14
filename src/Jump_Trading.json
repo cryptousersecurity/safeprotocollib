@@ -1,0 +1,30 @@
+{
+  "name": "Jump Trading",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "OKX Deposit",
+          "address": "0xc68c17e6eec0fde3605c595c9b98de5c1a4cc3e4"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "OKX Deposit",
+          "address": "0xc68c17e6eec0fde3605c595c9b98de5c1a4cc3e4"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://jumptrading.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

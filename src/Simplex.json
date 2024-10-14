@@ -1,0 +1,21 @@
+{
+  "name": "Simplex",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x77300c71071eca35cb673a0b7571b2907deb77c7"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.simplex.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

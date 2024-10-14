@@ -1,0 +1,21 @@
+{
+  "name": "Solid Lizard Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0xe20f93279ff3538b1ad70d11ba160755625e3400"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://solidlizard.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

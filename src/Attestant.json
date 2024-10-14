@@ -1,0 +1,21 @@
+{
+  "name": "Attestant",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0xcd51df5142156bd92e7a9494dd2b9362f5078d64"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.attestant.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

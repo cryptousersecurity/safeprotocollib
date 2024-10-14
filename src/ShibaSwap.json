@@ -1,0 +1,33 @@
+{
+  "name": "ShibaSwap",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "SHIB-USDC",
+          "address": "0x9379f5e035cf6148c6bbee1d6415795cc773b0a4"
+        },
+        {
+          "name": "Pool",
+          "address": "0x0dba3dfee43d9b6450c716c58fdae8d3be37fdc9"
+        },
+        {
+          "name": "WETH-USDT",
+          "address": "0x703b120f15ab77b986a24c6f9262364d02f9432f"
+        },
+        {
+          "name": "BONE-WETH",
+          "address": "0xefb47fcfcad4f96c83d4ca676842fb03ef20a477"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://shibaswap.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

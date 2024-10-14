@@ -1,0 +1,29 @@
+{
+  "name": "Tranchess",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "ChessScheduleRelayer",
+          "address": "0xdd2cf276d19f67dead53311eeebf3e9ab08122eb"
+        },
+        {
+          "name": "ProxyOFTPool",
+          "address": "0x38f51be38c01126fd671586ec9d35c58a1672d59"
+        },
+        {
+          "name": "ChessScheduleRelayer",
+          "address": "0xb400d19454efd87ec4199a1f19dbbbaa2352cd10"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://tranchess.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

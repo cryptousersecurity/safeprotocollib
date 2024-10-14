@@ -1,0 +1,30 @@
+{
+  "name": "BtcTurk",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Bitfinex Deposit",
+          "address": "0x84aed266d875a5d7da4a6242de8589d736f1024f"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Cold",
+          "address": "0x46f80018211d5cbbc988e853a8683501fca4ee9b"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.btcturk.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

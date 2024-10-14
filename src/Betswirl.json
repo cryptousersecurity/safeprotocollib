@@ -1,0 +1,21 @@
+{
+  "name": "Betswirl",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Deployer",
+          "address": "0x2c305888a456e7004663bc12a74395e637eabcbc"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.betswirl.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

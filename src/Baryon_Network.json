@@ -1,0 +1,21 @@
+{
+  "name": "Baryon Network",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0xd02488851649825f0e4b4eb6729da4da3d02b601"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.baryon.network/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

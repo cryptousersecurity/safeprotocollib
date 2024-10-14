@@ -1,0 +1,21 @@
+{
+  "name": "PrimeDAO",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Treasury",
+          "address": "0x567d220b0169836cbf351df70a9c517096ec9de7"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.prime.xyz/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

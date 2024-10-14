@@ -1,0 +1,41 @@
+{
+  "name": "bitFlyer",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xa9264494a92ced04747ac84fc9ca5a0b9549b491"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x94c642fe0a4a6b0a993e4024ab8fd634a6f06de4"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x53c3584fb8867ed931917891d037f88af0218cc2"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x111cff45948819988857bbf1966a0399e0d1141e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xb01cb49fe0d6d6e47edf3a072d15dfe73155331c"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xde04b56bb4d775ed648946276cccf2470e75be0a"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bitflyer.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

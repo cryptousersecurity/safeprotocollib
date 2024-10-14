@@ -1,0 +1,37 @@
+{
+  "name": "Fidelity",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "FETH Inflows (Fidelity Custody Deposit)",
+          "address": "0xef54c7bf79f089f868150d3c0684213237c184d7"
+        },
+        {
+          "name": "FETH Inflows (Fidelity Custody Deposit)",
+          "address": "0x8afa3d0a70b2f3a92f5b8d63affafd31d3d46eb7"
+        },
+        {
+          "name": "FETH Inflows (Fidelity Custody Deposit)",
+          "address": "0x9371be03662333331d1c5d7d9ee2e1c25a574743"
+        },
+        {
+          "name": "FETH Inflows (Fidelity Custody Deposit)",
+          "address": "0xb3e392bedd6956187f590d50c5aa071c08dcfd6e"
+        },
+        {
+          "name": "FETH Inflows (Fidelity Custody Deposit)",
+          "address": "0xcb4460c60f9ea6fb64f758f7e8decfa847f7f71a"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.fidelity.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Ondo Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Redemptions MultiSig",
+          "address": "0x72be8c14b7564f7a61ba2f6b7e50d18dc1d4b63d"
+        },
+        {
+          "name": "OUSGInstantManager",
+          "address": "0x1189bacb100676db9a495eec04a730a53a8ad97c"
+        },
+        {
+          "name": "Coinbase Prime Deposit",
+          "address": "0xf67416a2c49f6a46fee1c47681c5a3832cf8856c"
+        },
+        {
+          "name": "OUSGInstantManager",
+          "address": "0x2826989983e3a66f0622132d019c2ae173eb6a43"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://ondo.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

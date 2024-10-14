@@ -1,0 +1,39 @@
+{
+  "name": "Celer Network",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "USDC CCTP (Circle Bridge Proxy)",
+          "address": "0x6065a982f04f759b7d2d042d2864e569fad84214"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "USDC CCTP (Circle Bridge Proxy)",
+          "address": "0x9744ae566c64b6b6f7f9a4dd50f7496df6fef990"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "USDC CCTP (Circle Bridge Proxy)",
+          "address": "0x054b95b60bfface948fa4548da8ee2e212fb7c0a"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://celer.network",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

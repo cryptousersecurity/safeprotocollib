@@ -1,0 +1,70 @@
+{
+  "name": "Bake.io (Cake DeFi)",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Deployer",
+          "address": "0x7a3cdc2e82c354e1a3bc51626726f20de661620b"
+        },
+        {
+          "name": "MultiSig (BitGo)",
+          "address": "0x883c4599c455fc337ca43bf9d63eba45f995a769"
+        },
+        {
+          "name": "MultiSig (BitGo)",
+          "address": "0xb5e2d774c4672aa4297272f62d61e8a041175cb5"
+        },
+        {
+          "name": "MultiSig (BitGo)",
+          "address": "0xfaf45c45a9a59525f9687529f03331b58a22c867"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x3ec49e613ae70beb0631d7666f46d4ff2813932e"
+        },
+        {
+          "name": "WalletSimple (BitGo)",
+          "address": "0xc889faf456439fb932b9ce3d4f43d8078177fd29"
+        },
+        {
+          "name": "WalletSimple (BitGo)",
+          "address": "0x4ec492ef8c0ec2fd13e9683bb710c8ea82233883"
+        },
+        {
+          "name": "WalletSimple (BitGo)",
+          "address": "0x9381a44b29867baa6038c6c8c0e66906ebaff5c6"
+        },
+        {
+          "name": "WalletSimple (BitGo)",
+          "address": "0xc4c5e2d9b74f2471e355fcc1a168c7d55ed97b01"
+        },
+        {
+          "name": "MultiSig (BitGo)",
+          "address": "0xc5a0a17eabbb0e64dcd567b5670c8c5d5c34128c"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "PolygonWalletSimple",
+          "address": "0xaa6c7eaf827e04185d7a6a6a6156195ab5bdbe4c"
+        },
+        {
+          "name": "PolygonWalletSimple",
+          "address": "0xc4c5e2d9b74f2471e355fcc1a168c7d55ed97b01"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.bake.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

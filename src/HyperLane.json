@@ -1,0 +1,21 @@
+{
+  "name": "HyperLane",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Deployer",
+          "address": "0xa7eccdb9be08178f896c26b7bbd8c3d4e844d9ba"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.hyperlane.xyz",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

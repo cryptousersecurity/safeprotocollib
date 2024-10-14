@@ -1,0 +1,39 @@
+{
+  "name": "Bebop",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "JamSettlement",
+          "address": "0xbebebeb035351f58602e0c1c8b59ecbff5d5f47b"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "JamSettlement",
+          "address": "0xbebebeb035351f58602e0c1c8b59ecbff5d5f47b"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "JamSettlement",
+          "address": "0xbebebeb035351f58602e0c1c8b59ecbff5d5f47b"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bebop.xyz",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "CoW Protocol",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Settlement",
+          "address": "0x9008d19f58aabd9ed0d60971565aa8510560ab41"
+        },
+        {
+          "name": "Swap Executor",
+          "address": "0xb2f72662ed42067ccce278f8462a0215b6adcabb"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0xa03be496e67ec29bc62f01a428683d7f9c204930"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "GPv2Settlement",
+          "address": "0x9008d19f58aabd9ed0d60971565aa8510560ab41"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://cow.fi",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

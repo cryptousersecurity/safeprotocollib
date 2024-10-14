@@ -1,0 +1,21 @@
+{
+  "name": "Mayan Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "MayanCircle",
+          "address": "0xf18f923480dc144326e6c65d4f3d47aa459bb41c"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://mayan.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

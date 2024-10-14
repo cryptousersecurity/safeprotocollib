@@ -1,0 +1,63 @@
+{
+  "name": "Aura Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "AuraDistributor",
+          "address": "0x96d15d08538a17a03b0210fd1626d5f42bdba9a4"
+        },
+        {
+          "name": "AuraProxyOFT",
+          "address": "0xb401f0cff9f05d10699c0e2c88a81dd923c1ffff"
+        },
+        {
+          "name": "BridgeDelegateReceiver",
+          "address": "0x60421ffaa36f3a8e69c25887e575689f52b055f7"
+        },
+        {
+          "name": "L1Coordinator",
+          "address": "0xaa54f3b282805822419265208e669d12372a3811"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "KeeperMulticall3",
+          "address": "0x37aa9ad9744d0686df1c7053225e700ce13e31dd"
+        },
+        {
+          "name": "L2Coordinator",
+          "address": "0x8b2970c237656d3895588b99a8bfe977d5618201"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "L2Coordinator",
+          "address": "0xec1c780a275438916e7ceb174d80878f29580606"
+        },
+        {
+          "name": "Aura (AURA)",
+          "address": "0x1509706a6c66ca549ff0cb464de88231ddbe213b"
+        },
+        {
+          "name": "KeeperMulticall3",
+          "address": "0x37aa9ad9744d0686df1c7053225e700ce13e31dd"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://aura.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

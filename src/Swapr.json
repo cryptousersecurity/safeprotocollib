@@ -1,0 +1,21 @@
+{
+  "name": "Swapr",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "DXswap (DXS)",
+          "address": "0x9a17d97fb5f76f44604270448ac77d55ac40c15c"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://swapr.eth.link/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

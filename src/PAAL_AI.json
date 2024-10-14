@@ -1,0 +1,21 @@
+{
+  "name": "PAAL AI",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "PAAL AI ($PAAL)",
+          "address": "0x14fee680690900ba0cccfc76ad70fd1b95d10e16"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.paal.ai/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "VitaDAO",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Treasury",
+          "address": "0xf5307a74d1550739ef81c6488dc5c7a6a53e5ac2"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.vitadao.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

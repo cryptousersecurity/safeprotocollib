@@ -1,0 +1,21 @@
+{
+  "name": "BlackRock, Inc",
+  "description": "BlackRock, Inc. is an American multinational investment company. Founded in 1988, initially as an enterprise risk management and fixed income institutional asset manager, BlackRock is the world's largest asset manager, with over US$10 trillion in assets under management.",
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "BlackRock",
+          "address": "0x13e003a57432062e4eda204f687be80139ad622f"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.blackrock.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

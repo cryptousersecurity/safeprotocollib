@@ -1,0 +1,21 @@
+{
+  "name": "DeltaPrime",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "DeltaPrime (PRIME)",
+          "address": "0x3de81ce90f5a27c5e6a5adb04b54aba488a6d14e"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://deltaprime.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

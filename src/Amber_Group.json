@@ -1,0 +1,21 @@
+{
+  "name": "Amber Group",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x94b27b52e0a188c3d5c4be7e39d04094cbf1a5bf"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://ambergroup.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

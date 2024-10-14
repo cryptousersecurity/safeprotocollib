@@ -1,0 +1,67 @@
+{
+  "name": "PoolTogether",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x5be7bbafc73ef2a0928a793169771663a5815d48"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0xda63d70332139e6a8eca7513f4b6e2e0dc93b693"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x77383badb05049806d53e9def0c8128de0d56d90"
+        },
+        {
+          "name": "USDC Prize Pool",
+          "address": "0xde9ec95d7708b8319ccca4b8bc92c0a3b70bf416"
+        },
+        {
+          "name": "UNI Prize Pool",
+          "address": "0x0650d780292142835f6ac58dd8e2a336e87b4393"
+        },
+        {
+          "name": "COMP Prize Pool",
+          "address": "0xbc82221e131c082336cf698f0ca3ebd18afd4ce7"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x029aa20dcc15c022b1b61d420aacf7f179a9c73f"
+        },
+        {
+          "name": "DAI Prize Pool",
+          "address": "0xebfb47a7ad0fd6e57323c8a42b2e5a6a4f68fc1a"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Aave V3 Yield Source",
+          "address": "0x4ecb5300d9ec6bca09d66bfd8dcb532e3192dda1"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "AToken Yield Source",
+          "address": "0xd4f6d570133401079d213ecf4a14fa0b4bfb5b9c"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://pooltogether.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

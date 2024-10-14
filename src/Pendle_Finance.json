@@ -1,0 +1,612 @@
+{
+  "name": "Pendle Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x99184849e35d91dd85f50993bbb03a42fc0a6fe7"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xbae2df4dfcd0c613018d6056a40077f2d1eff28a"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x3b621df9b429ed1ad64428ea7d8d142374c45121"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x1729981345aa5cacdc19ea9eeffea90cf1c6e28b"
+        },
+        {
+          "name": "PendleZtakeWeETHSY (Proxy)",
+          "address": "0xd7df7e085214743530aff339afc420c7c720bfa7"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x6c269dfc142259c52773430b3c78503cc994a93e"
+        },
+        {
+          "name": "Deployer",
+          "address": "0x1fccc097db89a86bfc474a1028f93958295b1fb7"
+        },
+        {
+          "name": "PendleZtakeEzETHSY (Proxy)",
+          "address": "0x7a493be5c2ce014cd049bf178a1ac0db1b434744"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xb8fbf5cc2826c1c9909f59dd11633b494f46fbfe"
+        },
+        {
+          "name": "SY swETH-BbAWeth_BalancerLP Aura (SY-swETH-BbAWeth_BalancerLP Aura)",
+          "address": "0xcb611d0bd02a74c491b75d51d6ea5558f1887da3"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xe1f19cbda26b6418b0c8e1ee978a533184496066"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xcaa8abb72a75c623bece1f4d5c218f425d47a0d0"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xa9355a5d306c67027c54de0e5a72df76befa5694"
+        },
+        {
+          "name": "SY Ethena sUSDE (SY-sUSDE)",
+          "address": "0x215a61dead7e1303b8571bb429491aeac5f2061e"
+        },
+        {
+          "name": "SY Ethena USDe (SY-USDe)",
+          "address": "0x248d83f7ac03cebcc06d5c1a52c9b5d0ebb9936e"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x4f43c77872db6ba177c270986cd30c3381af37ee"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x0eb3f11ed8ca69813744868d02d83d4fbf72841e"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xd8072f2084f5876d6ec25c423ea71edc0469cce5"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x386f90eb964a477498b528a39d9405e73ed4032b"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x90c98ab215498b72abfec04c651e2e496ba364c0"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xf148a0b15712f5bfeefadb4e6ef9739239f88b07"
+        },
+        {
+          "name": "SY Kelp rsETH (SY-rsETH)",
+          "address": "0x730a5e2acebccaa5e9095723b3cb862739da793c"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x0e1c5509b503358ea1dac119c1d413e28cc4b303"
+        },
+        {
+          "name": "PendleZtakeUSDESY (Proxy)",
+          "address": "0x293c6937d8d82e05b01335f7b33fba0c8e256e30"
+        },
+        {
+          "name": "SY ENA (SY-ENA)",
+          "address": "0x66c68a7bcc4cbcab43a2947a529765d86d4ef14f"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xc9becdbc62efb867cb52222b34c187fb170379c6"
+        },
+        {
+          "name": "SY Ethena USDe (SY-USDe)",
+          "address": "0x42862f48eade25661558afe0a630b132038553d0"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xd7e0809998693fd87e81d51de1619fd0ee658031"
+        },
+        {
+          "name": "Router V4",
+          "address": "0x888888888889758f76e7103c6cbf23abbf58f946"
+        },
+        {
+          "name": "SY Ethena sUSDE (SY-sUSDE)",
+          "address": "0xc4ed348c56223c5953939e932e315f9d72cd83ff"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xc8edd52d0502aa8b4d5c77361d4b3d300e8fc81c"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x6b4740722e46048874d84306b2877600abcea3ae"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xa96febd6c5faf7739d3149bfb43211ec6844a37c"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x464f5a15aca6fe787cf54fcf1e8af6207939d297"
+        },
+        {
+          "name": "SY sDAI (SY-sDAI)",
+          "address": "0x90f1935f733dd8826dca2bd01ccfc600f20e978e"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x18bafcabf2d5898956ae6ac31543d9657a604165"
+        },
+        {
+          "name": "SY aUSDT (SY-aUSDT)",
+          "address": "0x8c28d28bad669afadc37b034a8070d6d7b9dfb74"
+        },
+        {
+          "name": "SY stETH (SY-stETH)",
+          "address": "0xcbc72d92b2dc8187414f6734718563898740c0bc"
+        },
+        {
+          "name": "PendleSwapL1",
+          "address": "0x1e8b6ac39f8a33f46a6eb2d1acd1047b99180ad1"
+        },
+        {
+          "name": "PendleZtakeRsETHSY (Proxy)",
+          "address": "0x34349c5569e7b846c3558961552d2202760a9789"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xd8f12bcde578c653014f27379a6114f67f0e445f"
+        },
+        {
+          "name": "SY rswETH (SY-rswETH)",
+          "address": "0x7786729eee8b9d30fe7d91fdff23a0f1d0c615d9"
+        },
+        {
+          "name": "SY fUSDC (SY-fUSDC)",
+          "address": "0xf94a3798b18140b9bc322314bbd36bc8e245e29b"
+        },
+        {
+          "name": "SY Renzo ezETH (SY-ezETH)",
+          "address": "0x22e12a50e3ca49fb183074235cb1db84fe4c716d"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x7d372819240d14fb477f17b964f95f33beb4c704"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x107a2e3cd2bb9a32b9ee2e4d51143149f8367eba"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x9c73879f795cefa1d5239de08d1b6aba2d2d1434"
+        },
+        {
+          "name": "PendleRouterV3",
+          "address": "0x00000000005bbb0ef59571e58418f9a4357b68a0"
+        },
+        {
+          "name": "SY eUSD (SY-eUSD)",
+          "address": "0x7e16e4253ce4a1c96422a9567b23b4b5ebc207f1"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xf68300929df14d933eba2d45917563d5ed065666"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x4803a036c4352bd53906b1c70040fa271d3afe65"
+        },
+        {
+          "name": "SY ether.fi weETH (SY-weETH)",
+          "address": "0xac0047886a985071476a1186be89222659970d65"
+        },
+        {
+          "name": "Pendle Gauge Controller Proxy",
+          "address": "0x47d74516b33ed5d70dde7119a40839f6fcc24e57"
+        },
+        {
+          "name": "PendleMsgSendEndpointUpg (Proxy)",
+          "address": "0x07b1014c88f14c9e910092526db57a20052e989f"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x905a5a4792a0c27a2adb2777f98c577d320079ef"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x1e0c2e41f3165ff6b8a660092f63e10bc0eebe26"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xd3bb297264bd6115ae163db4153038a79d78acba"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xf32e58f92e60f4b0a37a69b95d642a471365eae8"
+        },
+        {
+          "name": "SY Bedrock UniETH (SY-uniETH)",
+          "address": "0xc430db19339a3051192233b4c49f9ab3dc6d16b7"
+        },
+        {
+          "name": "PendleFeeDistributorV2 (Proxy)",
+          "address": "0x8c237520a8e14d658170a633d96f8e80764433b9"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x038c1b03dab3b891afbca4371ec807edaa3e6eb6"
+        },
+        {
+          "name": "Pendle Router",
+          "address": "0x0000000001e4ef00d069e71d6ba041b0a16f7ea0"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x93a82f3873e5b4ff81902663c43286d662f6721c"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xcb71c2a73fd7588e1599df90b88de2316585a860"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xa54fc268101c8b97de19ef3141d34751a11996b2"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xc374f7ec85f8c7de3207a10bb1978ba104bda3b2"
+        },
+        {
+          "name": "Voting Escrow Pendle",
+          "address": "0x4f30a9d41b80ecc5b94306ab4364951ae3170210"
+        },
+        {
+          "name": "PendleRouter (Proxy)",
+          "address": "0x000000000000c9b3e2c3ec88b1b4c0cd853f4321"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x2a41384c28b3e327beda4ffb3d3706cad571d5fb"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xd1d7d99764f8a52aff007b7831cc02748b2013b5"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x19588f29f9402bb508007feadd415c875ee3f19f"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xd0354d4e7bcf345fb117cabe41acadb724eccca2"
+        },
+        {
+          "name": "SY wstETH-ankrETH_BalancerLP Aura (SY-wstETH-ankrETH_BalancerLP Aura)",
+          "address": "0xb5cd090010d4735f18306eb680d898ef9f36f044"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x8f7627bd46b30e296aa3aabe1df9bfac10920b6e"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x23aefced9255ad3560cdaa4a10cbfe9ec230dc5a"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x17be998a578fd97687b24e83954fec86dc20c979"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xff262396f2a35cd7aa24b7255e7d3f45f057cdba"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xed99fc8bdb8e9e7b8240f62f69609a125a0fbf14"
+        },
+        {
+          "name": "Market",
+          "address": "0x08a152834de126d2ef83d612ff36e4523fd0017f"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xe11f9786b06438456b044b3e21712228adcaa0d1"
+        },
+        {
+          "name": "Market",
+          "address": "0xf617792ea9dceb2208f4c440258b21d2f3fdb9a3"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x99ed4f0ab6524d26b31d0aea087ebe20d5949e0f"
+        },
+        {
+          "name": "SY wstETH (SY-wstETH)",
+          "address": "0x80c12d5b6cc494632bf11b03f09436c8b61cc5df"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x5e03c94fc5fb2e21882000a96df0b63d2c4312e2"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x875f154f4ec93255beaea9367c3adf71cdcb4cc0"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x6f02c88650837c8dfe89f66723c4743e9cf833cd"
+        },
+        {
+          "name": "SY ARB-GRAIL_Camelot (SY-ARB-GRAIL_Camelot)",
+          "address": "0xdd4c7313fe4c92e043b9b7dfe433e239bcd05a0d"
+        },
+        {
+          "name": "SY weETH (SY-weETH)",
+          "address": "0xa6c895eb332e91c5b3d00b7baeeaae478cc502da"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xaccd9a7cb5518326bed715f90bd32cdf2fec2d14"
+        },
+        {
+          "name": "SY gDAI (SY-gDAI)",
+          "address": "0xaf699fb0d9f12bf7b14474ae5c9bea688888df73"
+        },
+        {
+          "name": "Deployer",
+          "address": "0x1fccc097db89a86bfc474a1028f93958295b1fb7"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x2ad746fa3faa0ad586021a633d10f4e2785a0349"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x766ffd36125ce45bdfca913517ecf25a828996b4"
+        },
+        {
+          "name": "SY HLP (SY-HLP)",
+          "address": "0xf18011766cf11d905e93ed5626838d44c7fa14b7"
+        },
+        {
+          "name": "PendleGaugeControllerSidechainUpg (Proxy)",
+          "address": "0x1e56299ebc8a1010cec26005d12e3e5c5cc2db00"
+        },
+        {
+          "name": "SY Dolomite USDC (SY-dUSDC)",
+          "address": "0x84e0efc0633041aac9d0196b7ac8af3505e8cc32"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x551c423c441db0b691b5630f04d2080caee25963"
+        },
+        {
+          "name": "SY rETH (SY-rETH)",
+          "address": "0xc0cf4b266be5b3229c49590b59e67a09c15b22f4"
+        },
+        {
+          "name": "YT HLP 27JUN2024 (YT-HLP-27JUN2024)",
+          "address": "0x9d090ef4aafd0acb821113a7689d5794e50bd047"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xb4781463a1261f60fca37732efa510c22dec5ada"
+        },
+        {
+          "name": "Market",
+          "address": "0x14fbc760efaf36781cb0eb3cb255ad976117b9bd"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x35f3db08a6e9cb4391348b0b404f493e7ae264c0"
+        },
+        {
+          "name": "PendleGlpSY (Proxy)",
+          "address": "0xd1f7d5fec6eb532847e552269c905ac489992ef6"
+        },
+        {
+          "name": "PendleRouterV3",
+          "address": "0x00000000005bbb0ef59571e58418f9a4357b68a0"
+        },
+        {
+          "name": "SY PENDLE-ETH_Camelot (SY-PENDLE-ETH_Camelot)",
+          "address": "0xc79d8a2aa6d769138e599d4dbc30569c9870a6ee"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xcf602767e9c82194daf58eb67a3169d60dbaac62"
+        },
+        {
+          "name": "YT PENDLE-ETH_Camelot 27JUN2024 (YT-PENDLE-ETH_Camelot-27JUN2024)",
+          "address": "0x7588c74473a84d7fa87bec375b408e3402f7fdb9"
+        },
+        {
+          "name": "PendleRouter (Proxy)",
+          "address": "0x000000000000c9b3e2c3ec88b1b4c0cd853f4321"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x5f3c781b3a20299db27c8fc5f4415d895677c885"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x6ae79089b2cf4be441480801bb741a531d94312b"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x60712e3c9136cf411c561b4e948d4d26637561e7"
+        },
+        {
+          "name": "YT MUXLP 28MAR2024 (YT-MUXLP-28MAR2024)",
+          "address": "0xf31b528d724354575c0c65ab17d6decde29d2900"
+        },
+        {
+          "name": "Market",
+          "address": "0x24e4df37ea00c4954d668e3ce19ffdcffdec2cf6"
+        },
+        {
+          "name": "SY sUSDC-ARBSilo (SY-sUSDC-ARBSilo)",
+          "address": "0x60955a190dec0db9a45abe553ad2994126efdfcc"
+        },
+        {
+          "name": "YT HLP 26DEC2024 (YT-HLP-26DEC2024)",
+          "address": "0x93f94f1adfa5f39e7f4c92f0e35c60d66eb5c3f6"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x952083cde7aaa11ab8449057f7de23a970aa8472"
+        },
+        {
+          "name": "SY ARB-ETH_Camelot (SY-ARB-ETH_Camelot)",
+          "address": "0x318eec91f653ca72fafb038f9ad792a6bc0d644c"
+        },
+        {
+          "name": "SY MUXLP (SY-MUXLP)",
+          "address": "0x4b3f79ce3d5d752064288fd2be968a1c21b3ba37"
+        },
+        {
+          "name": "PendleSwapL2",
+          "address": "0x63a45e0b2686f7be77bb85735c35704d1046459a"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x2fb73d98b1d60b35fd12508933578098f352ce7e"
+        },
+        {
+          "name": "Pendle Router",
+          "address": "0x0000000001e4ef00d069e71d6ba041b0a16f7ea0"
+        },
+        {
+          "name": "Market",
+          "address": "0x65819e4ee91923499934c86e93357f633033cb0b"
+        },
+        {
+          "name": "SY aUSDC (SY-aUSDC)",
+          "address": "0x50288c30c37fa1ec6167a31e575ea8632645de20"
+        },
+        {
+          "name": "SY sETH-pteETHSilo (SY-sETH-pteETHSilo)",
+          "address": "0xd0c4351a18f40b96b6446da3a191496df36d60f9"
+        },
+        {
+          "name": "YT ARB-ETH_Camelot 27JUN2024 (YT-ARB-ETH_Camelot-27JUN2024)",
+          "address": "0x69ddf9ce5568efa913f1ea601ed298ccfebfc811"
+        },
+        {
+          "name": "YT mPendle 26SEP2024 (YT-mPendle-26SEP2024)",
+          "address": "0x9dbd1fc6d2731ebd42a5e5b8e268bfa7c68980ae"
+        },
+        {
+          "name": "PendleMlpSY",
+          "address": "0x5220e1ef8ce83aa9fe0cce1b8395cd698d04bc7e"
+        },
+        {
+          "name": "Market",
+          "address": "0x3803d89c31de8b7def55c86f2469a5ea4db41b92"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x0d29182b7b663a967c5c41f03fc478c075fd4a1e"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x6abe9ac2df48490693bdb9d66fa898fc9cd7cc36"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x07fa8f8d7f7969520955ee3e8a45fbed451b43fa"
+        },
+        {
+          "name": "SY Renzo ezETH (SY-ezETH)",
+          "address": "0x0de802e3d6cc9145a150bbdc8da9f988a98c5202"
+        },
+        {
+          "name": "PendleMerkleDistributor (Proxy)",
+          "address": "0x23a102e78d1ff1645a3666691495174764a5fcaf"
+        },
+        {
+          "name": "SY sETH-wstEthSilo (SY-sETH-wstEthSilo)",
+          "address": "0xc49d8fda920a46b21e1821780238f9e7a0de68df"
+        },
+        {
+          "name": "PendleRouterV4",
+          "address": "0x888888888889758f76e7103c6cbf23abbf58f946"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0xf9f9779d8ff604732eba9ad345e6a27ef5c2a9d6"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x2dfaf9a5e4f293bceede49f2dba29aacdd88e0c4"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Deployer",
+          "address": "0x1fccc097db89a86bfc474a1028f93958295b1fb7"
+        },
+        {
+          "name": "PendleSwapL1",
+          "address": "0x439b4d66255eff74e621fbacb00d7162b588ff4b"
+        },
+        {
+          "name": "PendleGaugeControllerSidechainUpg (Proxy)",
+          "address": "0x704478dd72fd7f9b83d1f1e0fc18c14b54f034d0"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "PendleGaugeControllerSidechainUpg (Proxy)",
+          "address": "0x6875e4a945e498fe1b90bbb13cfbaf0b68658c9c"
+        },
+        {
+          "name": "SY rETH (SY-rETH)",
+          "address": "0x9d6d509c0354aca187aac6bea7d063d3ef68e2a0"
+        },
+        {
+          "name": "Pendle Market (PENDLE-LPT)",
+          "address": "0x24fb77c8c776c75f869bc65e6856af56f57d919f"
+        },
+        {
+          "name": "PendleRouterV4",
+          "address": "0x888888888889758f76e7103c6cbf23abbf58f946"
+        },
+        {
+          "name": "PendleSwapL2",
+          "address": "0x9b9f96786b1051f5c72c517e7deb189cf66e704f"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://pendle.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

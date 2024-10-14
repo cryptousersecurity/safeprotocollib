@@ -1,0 +1,551 @@
+{
+  "name": "Yearn.Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "GenericAaveV3",
+          "address": "0xfafeb6c262517d7d1171a3ba836e3e2d2897835f"
+        },
+        {
+          "name": "Strategy",
+          "address": "0xec2db4a1ad431cc3b102059fa91ba643620f0826"
+        },
+        {
+          "name": "Yearn Token Vault",
+          "address": "0xa258c4606ca8206d8aa700ce2143d7db854d168c"
+        },
+        {
+          "name": "Redacted pxETH aggregator (REDACT-agg)",
+          "address": "0xcfb23d05f32ea0be0dbb5078d189cca89688945e"
+        },
+        {
+          "name": "Yearn Token Vault",
+          "address": "0x27b5739e22ad9033bcbf192059122d163b60349d"
+        },
+        {
+          "name": "CurveYCRVVoter",
+          "address": "0xf147b8125d2ef93fb6965db97d6746952a133934"
+        },
+        {
+          "name": "StrategyCurveBoostedFactoryClonable",
+          "address": "0xde2b8a0cba4f6996b526a4bc784532d7aeba4e33"
+        },
+        {
+          "name": "StrategyCurveBoostedFactoryClonable",
+          "address": "0xf36c83f6bf4cf656172f6dbc1220af6785362f0f"
+        },
+        {
+          "name": "StrategyCurveBoostedFactoryClonable",
+          "address": "0xb458c556ded7b59b12f3fea188b01ad06f30c7f3"
+        },
+        {
+          "name": "Yearn Token Vault",
+          "address": "0xda816459f1ab5631232fe5e97a05bbbb94970c95"
+        },
+        {
+          "name": "yUSDC Vault",
+          "address": "0x597ad1e0c13bfe8025993d9e79c69e1c0233522e"
+        },
+        {
+          "name": "mkUSD yVault-A (yvmkUSD-A)",
+          "address": "0x04aebe2e4301cdf5e9c57b01ebdfe4ac4b48dd13"
+        },
+        {
+          "name": "Yearn-Ajna DAI Vault (yvAjnaDAI)",
+          "address": "0xe24ba27551abe96ca401d39761ca2319ea14e3cb"
+        },
+        {
+          "name": "Swell aggregator (SWELL-agg)",
+          "address": "0xbd564bfe6f2366336ecd707862eda79b97bce383"
+        },
+        {
+          "name": "StrategyCurveBoostedFactoryClonable",
+          "address": "0xcfe19203647fd98b96b692b3dee0afd4e1fc0edd"
+        },
+        {
+          "name": "LINK yVault (yvLINK)",
+          "address": "0x671a912c10bba0cfa74cfc2d6fba9ba1ed9530b2"
+        },
+        {
+          "name": "Yearn Token Vault",
+          "address": "0xa354f35829ae975e850e23e9615b11da1b3dc4de"
+        },
+        {
+          "name": "Sturdy Swell Aggregator Compounder (ysWETH)",
+          "address": "0x5f76526390d9cd9944d65c605c5006480fa1bfcb"
+        },
+        {
+          "name": "Yearn-Ajna WETH Vault (yvAjnaWETH)",
+          "address": "0x503e0bab6acdae73ea7fb7cf6ae5792014dbe935"
+        },
+        {
+          "name": "StrategyCurveBoostedFactoryClonable",
+          "address": "0x95bd6cc6d027542b56036094bfc411f8085dfee2"
+        },
+        {
+          "name": "StrategyCurveBoostedFactoryClonable",
+          "address": "0x776067440fdc58ceaca3fb016fec8c954590fbb7"
+        },
+        {
+          "name": "StrategyCurveBoostedFactoryClonable",
+          "address": "0x650994ab0f9ac7fda4d9655f606a3e8ebd402858"
+        },
+        {
+          "name": "Sturdy Aggregator - crvUSD (saCrvUSD)",
+          "address": "0x73e4c11b670ef9c025a030a20b72cb9150e54523"
+        },
+        {
+          "name": "yDAI Vault",
+          "address": "0xacd43e627e64355f1861cec6d3a6688b31a6f952"
+        },
+        {
+          "name": "Treasury",
+          "address": "0xfeb4acf3df3cdea7399794d0869ef76a6efaff52"
+        },
+        {
+          "name": "Yearn Token Vault",
+          "address": "0x6d765cbe5bc922694afe112c140b8878b9fb0390"
+        },
+        {
+          "name": "ibCHF Token",
+          "address": "0x1cc481ce2bd2ec7bf67d1be64d4878b16078f309"
+        },
+        {
+          "name": "ib_controller",
+          "address": "0xa511da90c2f4c557456cd84cd003a1f74c202d80"
+        },
+        {
+          "name": "Yearn-Ajna Pool wstETH/WETH Vault (yv-ajna-wsteth-weth)",
+          "address": "0x91603c7fb539f2da2da93ba6bec696a47e46bba2"
+        },
+        {
+          "name": "Yearn-Ajna Pool xETH/WETH Vault (yv-ajna-xeth-weth)",
+          "address": "0xff8b9980fda386cafaafab472963c4cb5fb8c412"
+        },
+        {
+          "name": "StrategyCurveBoostedFactoryClonable",
+          "address": "0x9dce9929a4e9b77ebb7b4b7f8151208a3595482f"
+        },
+        {
+          "name": "Treasury Vault",
+          "address": "0x93a62da5a14c80f265dabc077fcee437b1a0efde"
+        },
+        {
+          "name": "Kelp aggregator (KELP-agg)",
+          "address": "0xe2fdf0526629d85b719dcbc6efe833b1b5b3cb36"
+        },
+        {
+          "name": "Voting YFI (veYFI)",
+          "address": "0x90c1f9220d90d3966fbee24045edd73e1d588ad5"
+        },
+        {
+          "name": "yWETH Vault",
+          "address": "0xe1237aa7f535b0cc33fd973d66cbf830354d16c7"
+        },
+        {
+          "name": "iearn USDC (yUSDC)",
+          "address": "0xd6ad7a6750a7593e092a9b218d66c0a814a3436e"
+        },
+        {
+          "name": "iearn USDT (yUSDT)",
+          "address": "0x83f798e925bcd4017eb265844fddabb448f1707d"
+        },
+        {
+          "name": "yearn Aave Interest bearing LINK (yaLINK)",
+          "address": "0x29e240cfd7946ba20895a7a02edb25c210f9f324"
+        },
+        {
+          "name": "Strategy STETH Accumulator",
+          "address": "0x120fa5738751b275aed7f7b46b98beb38679e093"
+        },
+        {
+          "name": "StrategyCurveBoostedFactoryClonable",
+          "address": "0x1492011cf0523f61d02ac541c3d1958756c8a383"
+        },
+        {
+          "name": "WBTC yVault (yvWBTC)",
+          "address": "0xa696a63cc78dffa1a63e9e50587c197387ff6c7e"
+        },
+        {
+          "name": "Yearn Token Vault",
+          "address": "0xf29ae508698bdef169b89834f76704c3b205aedf"
+        },
+        {
+          "name": "GenericAaveV3",
+          "address": "0x3c854a28f179309131ac7c66adf2fb02989bf4d5"
+        },
+        {
+          "name": "GenericAaveV3",
+          "address": "0x301ffcddcc33a0cab7531d4d1418fb861b0ab367"
+        },
+        {
+          "name": "Strategy",
+          "address": "0x1e93cd1e6766e7fcb459092e160f876dda650415"
+        },
+        {
+          "name": "iearn SUSD (ySUSD)",
+          "address": "0xf61718057901f84c4eec4339ef8f0d86d2b45600"
+        },
+        {
+          "name": "StrategyCurveBoostedFactoryClonable",
+          "address": "0xba687079661feda03ab38bac2044ec004eb3b3df"
+        },
+        {
+          "name": "veCRV-DAO yVault Token (YVE-CRVDAO)",
+          "address": "0xc5bddf9843308380375a611c18b50fb9341f502a"
+        },
+        {
+          "name": "GenericCompoundV3",
+          "address": "0x2ed5eaf929fee1f5f9b32d83db8ed06b52692a74"
+        },
+        {
+          "name": "StrategyCurveBoostedFactoryClonable",
+          "address": "0x18adb09aa21369d7d7fae76596e887f9baee0ef8"
+        },
+        {
+          "name": "StrategyCurveBoostedFactoryClonable",
+          "address": "0x9004d433d710194a033c15041bacd134fc9ba50f"
+        },
+        {
+          "name": "StrategyConvexFactoryClonable",
+          "address": "0xda64d669b3fd915f58d4cac799a57aeae0593ae7"
+        },
+        {
+          "name": "StrategyCurveBoostedFactoryClonable",
+          "address": "0x44fbf9b2dce6890b75dc988bd1e204e87dcebd93"
+        },
+        {
+          "name": "Yearn Token Vault",
+          "address": "0x3b27f92c0e212c671ea351827edf93db27cc0c65"
+        },
+        {
+          "name": "yUSDC Vault V2",
+          "address": "0x5f18c75abdae578b483e5f43f12a39cf75b973a9"
+        },
+        {
+          "name": "Yearn Token Vault",
+          "address": "0xdb25ca703181e7484a155dd612b06f57e12be5f0"
+        },
+        {
+          "name": "yCRV/YFI Vault",
+          "address": "0xe14d13d8b3b85af791b2aadd661cdbd5e6097db1"
+        },
+        {
+          "name": "Vesting Escrow",
+          "address": "0x890a84ab4f739d7d7390ea6b995eb5f959f2e1ab"
+        },
+        {
+          "name": "Yearn-Ajna Pool csETH/WETH Vault (yv-ajna-cseth-weth)",
+          "address": "0x5ff1ba7273968c4a166ca99d79df9f9ad712091b"
+        },
+        {
+          "name": "iearn DAI (yDAI)",
+          "address": "0x16de59092dae5ccf4a1e6439d611fd0653f0bd01"
+        },
+        {
+          "name": "StrategyCurveBoostedFactoryClonable",
+          "address": "0x8dcf2ff7f2ab5fc16ef51cc04d6f65f2535745a2"
+        },
+        {
+          "name": "StrategyCurveBoostedFactoryClonable",
+          "address": "0xd6bbef6fd1f4c02905db978ddbd8baf19ab36187"
+        },
+        {
+          "name": "Strategist MultiSig",
+          "address": "0x16388463d60ffe0661cf7f1f31a7d658ac790ff7"
+        },
+        {
+          "name": "StrategyCurveBoostedFactoryClonable",
+          "address": "0xc3715e4a6eb545d8a1d82e7e5b727831c0058be6"
+        },
+        {
+          "name": "Seasolver Solver",
+          "address": "0xac6cc8e2f0232b5b213503257c861235f4ed42c1"
+        },
+        {
+          "name": "Seasolver",
+          "address": "0x0ddcb0769a3591230caa80f85469240b71442089"
+        },
+        {
+          "name": "Sommelier aggregator (SOMM-agg)",
+          "address": "0x2ca52c78d7932e285f2ea5928fb7251baec3f166"
+        },
+        {
+          "name": "iearn TUSD (yTUSD)",
+          "address": "0x73a052500105205d34daf004eab301916da8190f"
+        },
+        {
+          "name": "Curve Y Pool yVault (yUSD)",
+          "address": "0x4b5bfd52124784745c1071dcb244c6688d2533d3"
+        },
+        {
+          "name": "iearn USDT (yUSDT)",
+          "address": "0xe6354ed5bc4b393a5aad09f21c46e101e692d447"
+        },
+        {
+          "name": "iearn DAI (yDAI)",
+          "address": "0xc2cb1040220768554cf699b0d863a3cd4324ce32"
+        },
+        {
+          "name": "Strategy",
+          "address": "0xff72f7c5f64ec2fd79b57d1a69c3311c1bb3eef1"
+        },
+        {
+          "name": "LUSD yVault (yvLUSD)",
+          "address": "0x378cb52b00f9d0921cb46dfc099cff73b42419dc"
+        },
+        {
+          "name": "Yearn Token Vault",
+          "address": "0x5fa5b62c8af877cb37031e0a3b2f34a78e3c56a6"
+        },
+        {
+          "name": "ib_amm",
+          "address": "0x0a0b06322825cb979678c722ba9932e0e4b5fd90"
+        },
+        {
+          "name": "yCRV Vault",
+          "address": "0x5dbcf33d8c2e976c6b560249878e6f1491bca25c"
+        },
+        {
+          "name": "Yearn Token Vault",
+          "address": "0x7da96a3891add058ada2e826306d812c638d87a7"
+        },
+        {
+          "name": "Yearn-Ajna Pool apxETH/WETH Vault (yv-ajna-apxeth-weth)",
+          "address": "0x437d41b2ebef15a91618f4bf010fa4751bb48be6"
+        },
+        {
+          "name": "Yearn Token Vault",
+          "address": "0xfbeb78a723b8087fd2ea7ef1afec93d35e8bed42"
+        },
+        {
+          "name": "StrategyCurveBoostedFactoryClonable",
+          "address": "0x6da63d9a58d9b44a68373512c13ac0eb74f3365e"
+        },
+        {
+          "name": "Yearn-Ajna Pool mevETH/WETH Vault (yv-ajna-meveth-weth)",
+          "address": "0x5b88a0ddf1ca18e50e7a7cd86eee441ae7d51eb5"
+        },
+        {
+          "name": "StrategyCurveBoostedFactoryClonable",
+          "address": "0x631732ed9de2367cdf8b19fefa4385aace6a369c"
+        },
+        {
+          "name": "StrategyConvexFactoryClonable",
+          "address": "0xae85d388474b2170b4114c32918ff6aab1089cd8"
+        },
+        {
+          "name": "StrategyConvexFactoryClonable",
+          "address": "0xbd649f3680700ee17b89f35060868c7c81dab3d8"
+        },
+        {
+          "name": "StrategyConvexFactoryClonable",
+          "address": "0xc5bebbd8299623d2ff34c2bff62031ee3e99e7d8"
+        },
+        {
+          "name": "Yearn-Ajna Pool dETH/WETH Vault (yv-ajna-deth-weth)",
+          "address": "0x9c3a4c14a249504b4cdcf5c27867be790c92bb05"
+        },
+        {
+          "name": "iearn USDC (yUSDC)",
+          "address": "0x26ea744e5b887e5205727f55dfbe8685e3b21951"
+        },
+        {
+          "name": "StrategyCurveBoostedFactoryClonable",
+          "address": "0xdbcaa49bbeeedfd63a12908956c6e3a8b07c3fba"
+        },
+        {
+          "name": "RouterStrategy030",
+          "address": "0x36822d0b11f4594380181ce6e76bd4986d46c389"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "WMATIC yVault-A (yvWMATIC-A)",
+          "address": "0x28f53ba70e5c8ce8d03b1fad41e9df11bb646c36"
+        },
+        {
+          "name": "USDC yVault-A (yvUSDC-A)",
+          "address": "0xa013fbd4b711f9ded6fb09c1c0d358e2fbc2eaa0"
+        },
+        {
+          "name": "USDT yVault-A (yvUSDT-A)",
+          "address": "0xbb287e6017d3deb0e2e65061e8684eab21060123"
+        },
+        {
+          "name": "DAI yVault-A (yvDAI-A)",
+          "address": "0x90b2f54c6addad41b8f6c4fccd555197bc0f773b"
+        },
+        {
+          "name": "WETH yVault-A (yvWETH-A)",
+          "address": "0x305f25377d0a39091e99b975558b1bdfc3975654"
+        },
+        {
+          "name": "Yearn-Ajna USDC Vault (yvAjnaUSDC)",
+          "address": "0xf54a15f6da443041bb075959ea66ee47655ddfca"
+        },
+        {
+          "name": "Aave V3 WMATIC Lender (ysWMATIC)",
+          "address": "0x12c3ad898e8eb1c0ec0bb74f9748f36c46593f68"
+        },
+        {
+          "name": "AaveV3 DAI Lender (ysDAI)",
+          "address": "0xf4f9d5697341b4c9b0cc8151413e05a90f7dc24f"
+        },
+        {
+          "name": "MarchMadness2024 (ysUSDC)",
+          "address": "0x64d34f3202b98a6cd9347c7c87e6883794cb89f3"
+        },
+        {
+          "name": "AaveV3 WETH Lender (ysWETH)",
+          "address": "0xbeda9a5300393e00229dc15cc54d5185e7646c56"
+        },
+        {
+          "name": "Aave V3 USDC Lender (ysUSDC)",
+          "address": "0xdb92b89ca415c0dab40dc96e99fc411c08f20780"
+        },
+        {
+          "name": "AaveV3 USDT Lender (ysUSDT)",
+          "address": "0x3bd8c987286d8ad00c05fdb2ae3e8c9a0f054734"
+        },
+        {
+          "name": "Compound V3 USDC Lender (ysUSDC)",
+          "address": "0xb1403908f772e4374bb151f7c67e88761a0eb4f1"
+        },
+        {
+          "name": "Deployer",
+          "address": "0xb865aaf1f9f60630934739595f183c4900f65ed9"
+        },
+        {
+          "name": "Deployer",
+          "address": "0x78d4bdebc0b4140f01bab63085f94a5a7a1294f2"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "StrategyVelodromeFactoryClonable",
+          "address": "0xd13a1c75e5177f4932502aef829493467b1844ab"
+        },
+        {
+          "name": "StrategyVelodromeFactoryClonable",
+          "address": "0x46f419c19efc83665a0dd8fa522b1b16046ae201"
+        },
+        {
+          "name": "OP yVault (yvOP)",
+          "address": "0x7d2382b1f8af621229d33464340541db362b4907"
+        },
+        {
+          "name": "DAI yVault (yvDAI)",
+          "address": "0x65343f414ffd6c97b0f6add33d16f6845ac22bac"
+        },
+        {
+          "name": "WETH yVault (yvWETH)",
+          "address": "0x5b977577eb8a480f63e11fc615d6753adb8652ae"
+        },
+        {
+          "name": "StakingRewardsZap",
+          "address": "0x498d9dcbb1708e135bdc76ef007f08cba4477be2"
+        },
+        {
+          "name": "USDC yVault (yvUSDC)",
+          "address": "0xad17a225074191d5c8a37b50fda1ae278a2ee6a2"
+        },
+        {
+          "name": "GenericAaveV3",
+          "address": "0x2e003a06c5b0244f2eaded5bdf9052398d23cbe4"
+        },
+        {
+          "name": "OptStrategy",
+          "address": "0xf8ad69d578bd58c7d3ff643a22355f0bfd5ca12a"
+        },
+        {
+          "name": "GenericAaveV3",
+          "address": "0x3f54a2502fa079896cd9d9296e30ced5bfcc0ed3"
+        },
+        {
+          "name": "OptStrategy",
+          "address": "0x877d377b289aea8e0f8ac2470252d226417d9e21"
+        },
+        {
+          "name": "GenericAaveV3",
+          "address": "0x7551736ddc5b260f1d91f2ad5ef7451554d1af15"
+        },
+        {
+          "name": "GenericAaveV3",
+          "address": "0x16613d9522971589da42ef8cbab073056a0471e5"
+        },
+        {
+          "name": "USDT yVault (yvUSDT)",
+          "address": "0xfaee21d0f0af88ee72bb6d68e54a90e6ec2616de"
+        },
+        {
+          "name": "OptStrategy",
+          "address": "0x1d3be43c5621bda29ab24101c54d434b9b3f29c8"
+        },
+        {
+          "name": "OptStrategy",
+          "address": "0xe82deb62412db78d00cae77be3d1334e26034cf6"
+        },
+        {
+          "name": "GenericAaveV3",
+          "address": "0x31b50be820a45e2d5fd877ddb1ce7588c840a595"
+        },
+        {
+          "name": "OptStrategy",
+          "address": "0xbfd5df2b57cb9532a39931e4ed74b51cfa940bb0"
+        },
+        {
+          "name": "sUSD yVault (yvsUSD)",
+          "address": "0x2a90f479002daae9934c3a70ebb6e8dbeb46292b"
+        },
+        {
+          "name": "RouterStrategy",
+          "address": "0x2ebd8c6325591711280f2a735bc189509620349b"
+        },
+        {
+          "name": "RouterStrategy",
+          "address": "0xba8d1effec605648024622c8bd7bb9ab0a489909"
+        },
+        {
+          "name": "WETH yVault (yvWETH)",
+          "address": "0xa628c54c850ff1077b5c954491d19ecce7e321ff"
+        },
+        {
+          "name": "USDC yVault (yvUSDC)",
+          "address": "0x4c8b1958b09b3bde714f68864bcc3a74eaf1a23d"
+        },
+        {
+          "name": "RouterStrategy",
+          "address": "0xffd4e5bb52fb81ca7adc1353894d1b7840e87050"
+        },
+        {
+          "name": "sUSD yVault (yvsUSD)",
+          "address": "0xc328d83883f5f90e1108d4dd7a18ffca17ae74d7"
+        },
+        {
+          "name": "RouterStrategy",
+          "address": "0x8651ba8416f97a27147e58423240cc786f5a0d32"
+        },
+        {
+          "name": "DAI yVault (yvDAI)",
+          "address": "0xfbef713696465ddab297164c3b6a0122d92a3bac"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://yearn.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

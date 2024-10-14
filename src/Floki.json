@@ -1,0 +1,30 @@
+{
+  "name": "Floki",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "TreasuryHandlerAlpha",
+          "address": "0xabbee6e231010de7aaedfc4a8f18e5e1d6f92d88"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x2b9d5c7f2ead1a221d771fb6bb5e35df04d60ab0"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.floki.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

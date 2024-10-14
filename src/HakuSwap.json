@@ -1,0 +1,21 @@
+{
+  "name": "HakuSwap",
+  "description": null,
+  "chains": [
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Hakuswap LPs (HAKU-LP)",
+          "address": "0xeffff893f9423fdb7a5c010cef202ea5a52575a6"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://hakuswap.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

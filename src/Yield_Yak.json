@@ -1,0 +1,25 @@
+{
+  "name": "Yield Yak",
+  "description": null,
+  "chains": [
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Unilike Adapter",
+          "address": "0xdb66686ac8bea67400cf9e5dd6c8849575b90148"
+        },
+        {
+          "name": "Benqi USDT (YRT)",
+          "address": "0xa45b0a446b91ebdbbb041f491e7244aaeb7f557a"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://yieldyak.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

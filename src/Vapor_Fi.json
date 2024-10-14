@@ -1,0 +1,21 @@
+{
+  "name": "Vapor Fi",
+  "description": null,
+  "chains": [
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "VaporDEX Pool",
+          "address": "0xff24b1032bcccb643d3d630e44d5575a27fa7739"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://vapornodes.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

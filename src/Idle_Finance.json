@@ -1,0 +1,21 @@
+{
+  "name": "Idle Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "IdleCompoundV2",
+          "address": "0x3751b4466a238db35c39b578d4889cfb6847a46b"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://idle.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

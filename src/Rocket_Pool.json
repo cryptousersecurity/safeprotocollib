@@ -1,0 +1,74 @@
+{
+  "name": "Rocket Pool",
+  "description": null,
+  "chains": [
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Wrapped Rocket Pool ETH (wrETH)",
+          "address": "0x67cde7af920682a29fcfea1a179ef0f30f48df3e"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Vault",
+          "address": "0x3bdc69c4e5e13e52a65f5583c23efb9636b469d6"
+        },
+        {
+          "name": "Arbitrum Price Messenger",
+          "address": "0x05330300f829ad3fc8f33838bc88cfc4093bad53"
+        },
+        {
+          "name": "Oracle DAO Rewards",
+          "address": "0xd2a4848a6644749e652c1d9398b5aa317f57395b"
+        },
+        {
+          "name": "Rocket Pool Token (RPL)",
+          "address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f"
+        },
+        {
+          "name": "Oracle DAO Node 4",
+          "address": "0x8d074ad69b55dd57da2708306f1c200ae1803359"
+        },
+        {
+          "name": "Oracle DAO Node 2",
+          "address": "0xccbff44e0f0329527feb0167bc8744d7d5aed3e9"
+        },
+        {
+          "name": "Rocket Pool ETH Token (RETH)",
+          "address": "0xae78736cd615f374d3085123a210448e74fc6393"
+        },
+        {
+          "name": "Deposit Pool",
+          "address": "0xdd3f50f8a6cafbe9b31a427582963f465e745af8"
+        },
+        {
+          "name": "Oracle DAO Rewards",
+          "address": "0x2a1af071ef61a7003fa57df47d93ad82b66344b7"
+        },
+        {
+          "name": "Rocket Pool Smoothing Pool",
+          "address": "0xd4e96ef8eee8678dbff4d535e033ed1a4f7605b7"
+        },
+        {
+          "name": "Rocket Swap Router",
+          "address": "0x16d5a408e807db8ef7c578279beeee6b228f1c1c"
+        },
+        {
+          "name": "zkSync Price Messenger",
+          "address": "0x6cf6cb29754aebf88af12089224429bd68b0b8c8"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://rocketpool.net",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

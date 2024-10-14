@@ -1,0 +1,21 @@
+{
+  "name": "Code4rena",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Treasury",
+          "address": "0xc2bc2f890067c511215f9463a064221577a53e10"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://code4rena.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

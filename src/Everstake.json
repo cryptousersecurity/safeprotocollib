@@ -1,0 +1,21 @@
+{
+  "name": "Everstake",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "OpenSea User",
+          "address": "0x3d5a107f7a5bcec8734c49ed54d41bc6f93eb97f"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://everstake.one",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

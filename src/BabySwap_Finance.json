@@ -1,0 +1,33 @@
+{
+  "name": "BabySwap Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0xab0972ef36b2e4217bbdac4ab25e35f6c897d650"
+        },
+        {
+          "name": "Pool",
+          "address": "0x8abd16bcc9077a6c5ed834ec5ba43ad03b9139dc"
+        },
+        {
+          "name": "Pool",
+          "address": "0xc85471a1bc8ae143b29fcde6539507fbed075b15"
+        },
+        {
+          "name": "Pool",
+          "address": "0x7d6dc5dc0cadcfb5cfd8f1be637848aec909bf2f"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://home.babyswap.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

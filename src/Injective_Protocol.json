@@ -1,0 +1,21 @@
+{
+  "name": "Injective Protocol",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Bridge",
+          "address": "0xf955c57f9ea9dc8781965feae0b6a2ace2bad6f3"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://injective.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "rsync-builder",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "rsync-builder.eth",
+          "address": "0x1f9090aae28b8a3dceadf281b0f12828e676c326"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://rsync-builder.xyz/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "LMAX Digital",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "MultiSig",
+          "address": "0xcc6fcfb8b3988043e382a481d6bf482d68897024"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.lmaxdigital.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

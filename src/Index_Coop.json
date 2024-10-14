@@ -1,0 +1,41 @@
+{
+  "name": "Index Coop",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "FlashMintLeveraged",
+          "address": "0x45c00508c14601fd1c1e296eb3c0e3eeedca45d0"
+        },
+        {
+          "name": "Treasury Investment MultiSig",
+          "address": "0x462a63d4405a6462b157341a78fd1babfd3f8065"
+        },
+        {
+          "name": "Index Coop Ethereum 2x Index (ETH2X)",
+          "address": "0x65c4c0517025ec0843c9146af266a2c5a2d148a2"
+        },
+        {
+          "name": "Treasury Liquidity MultiSig",
+          "address": "0x3a36b94689f303aaf9bfe761068efb8f78912023"
+        },
+        {
+          "name": "Treasury",
+          "address": "0x9467cfadc9de245010df95ec6a585a506a8ad5fc"
+        },
+        {
+          "name": "Treasury Ops MultiSig",
+          "address": "0xfafd604d1cc8b6b3b6cc859cf80fd902972371c1"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://indexcoop.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

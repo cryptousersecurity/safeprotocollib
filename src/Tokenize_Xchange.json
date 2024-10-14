@@ -1,0 +1,21 @@
+{
+  "name": "Tokenize Xchange",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xb64d9784e8516983243434ce3badf967fd5cc71e"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://tokenize.exchange/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

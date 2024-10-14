@@ -1,0 +1,57 @@
+{
+  "name": "Lido",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "wstETH Token",
+          "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0"
+        },
+        {
+          "name": "Treasury",
+          "address": "0x3e40d73eb977dc6a537af587d48316fee66e9c8c"
+        },
+        {
+          "name": "Staked Aave Balancer Pool Token",
+          "address": "0xa1116930326d21fb917d5a27f1e9943a9595fb47"
+        },
+        {
+          "name": "Arbitrum L1 ERC20 Token Gateway",
+          "address": "0x0f25c1dc2a9922304f2eac71dca9b07e310e8e5a"
+        },
+        {
+          "name": "Staking Router Proxy",
+          "address": "0xfddf38947afb03c621c71b06c9c70bce73f12999"
+        },
+        {
+          "name": "Lido Staked Ether Token (STETH)",
+          "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
+        },
+        {
+          "name": "Lido Staked Matic Token (STMATIC)",
+          "address": "0x9ee91f9f426fa633d227f7a9b000e28b9dfd8599"
+        },
+        {
+          "name": "Execution Layer Rewards Vault",
+          "address": "0x388c818ca8b9251b393131c08a736a67ccb19297"
+        },
+        {
+          "name": "Node Operators Registry",
+          "address": "0x55032650b14df07b85bf18a3a3ec8e0af2e028d5"
+        },
+        {
+          "name": "stETH Withdrawal NFT (unstETH)",
+          "address": "0x889edc2edab5f40e902b864ad4d7ade8e412f9b1"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://lido.fi",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

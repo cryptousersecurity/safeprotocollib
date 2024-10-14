@@ -1,0 +1,77 @@
+{
+  "name": "Poloniex",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xb794f5ea0ba39494ce839613fffba74279579268"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xa910f92acdaf488fa6ef02174fb86208ad7722ba"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x8fca4ade3a517133ff23ca55cdaea29c78c990b8"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x32be343b94f860124dc4fee278fdcbd38c102d88"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x29065a4c1f2f20d1e263930088890d6f49fe715a"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xcc0c098f170281810966b4133c794cb91c5587b2"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x5929b50b6adcb10b7656d75e1af9719cb3a2877f"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x920021936b28c93491a02f760fa20aa599083ed5"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0xaf9b0a19e5b8f7316d98f9e10a47b94d8c52b3d2"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x4068626796a4ffb573452d5297db134371a33a1c"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://poloniex.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

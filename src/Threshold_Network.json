@@ -1,0 +1,21 @@
+{
+  "name": "Threshold Network",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x9f6e831c8f8939dc0c830c6e492e7cef4f9c2f5f"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://threshold.network/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

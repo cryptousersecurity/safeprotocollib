@@ -1,0 +1,21 @@
+{
+  "name": "Elephant.Money",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Treasury",
+          "address": "0xaf0980a0f52954777c491166e7f40db2b6fbb4fc"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://elephant.money/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

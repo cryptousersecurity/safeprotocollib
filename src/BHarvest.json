@@ -1,0 +1,21 @@
+{
+  "name": "BHarvest",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Deployer",
+          "address": "0x6cdc3efa3baa392faf3e5c1ca802e15b6185e0e8"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bharvest.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

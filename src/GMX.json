@@ -1,0 +1,21 @@
+{
+  "name": "GMX",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Fee GLP",
+          "address": "0x4e971a87900b931ff39d1aad67697f49835400b6"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://gmx.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

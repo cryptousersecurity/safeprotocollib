@@ -1,0 +1,21 @@
+{
+  "name": "FastEx",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xc21a1d213f64fedea3415737cce2be37eb59be81"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.fastex.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Stakely",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x77d2cf58aa4da90b3afcd283646568e4383193bf"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://stakely.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

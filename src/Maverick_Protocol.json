@@ -1,0 +1,39 @@
+{
+  "name": "Maverick Protocol",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Maverick Token (MAV)",
+          "address": "0x7448c7456a97769f6cd04f1e83a4a23ccdc46abd"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Maverick Token (MAV)",
+          "address": "0x64b88c73a5dfa78d1713fe1b4c69a22d7e0faaa7"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Maverick Token (MAV)",
+          "address": "0xd691d9a68c887bdf34da8c36f63487333acfd103"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.mav.xyz/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Global Coin Research",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0xc4ddc2f471a476da1b906727072669f95d37c622"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x9b6be95a4e203782770268a07e6076f9b2d409c1"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://globalcoinresearch.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

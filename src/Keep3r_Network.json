@@ -1,0 +1,21 @@
+{
+  "name": "Keep3r Network",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Governance MultiSig",
+          "address": "0x0d5dc686d0a2abbfdafdfb4d0533e886517d4e83"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://keep3r.network",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

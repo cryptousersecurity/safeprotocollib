@@ -1,0 +1,21 @@
+{
+  "name": "tofuNFT",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "MarketNG",
+          "address": "0x7bc8b1b5aba4df3be9f9a32dae501214dc0e4f3f"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://tofunft.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

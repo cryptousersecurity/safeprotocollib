@@ -1,0 +1,39 @@
+{
+  "name": "BitKeep",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "BKSwap",
+          "address": "0x2f2dd99235cb728fc79af575f1325eaa270f0c99"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "BKSwap",
+          "address": "0x2f2dd99235cb728fc79af575f1325eaa270f0c99"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "BKSwap",
+          "address": "0x2f2dd99235cb728fc79af575f1325eaa270f0c99"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bitkeep.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

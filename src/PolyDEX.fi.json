@@ -1,0 +1,25 @@
+{
+  "name": "PolyDEX.fi",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "V2 Pool",
+          "address": "0x538a485de855e9239570aea1def9adbcbb6af1f8"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xdef834ae4a1198bfec84544fb374ec7f1314a7c5"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.polydex.fi/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

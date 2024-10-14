@@ -1,0 +1,125 @@
+{
+  "name": "MoonPay",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xd42f958e1c3e2a10e5d66343c4c9a57726e5b4b6"
+        },
+        {
+          "name": "Withdrawal Hot Wallet",
+          "address": "0x8216874887415e2650d12d53ff53516f04a74fd7"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xb287eac48ab21c5fb1d3723830d60b4c797555b0"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xd108fd0e8c8e71552a167e7a44ff1d345d233ba6"
+        },
+        {
+          "name": "DirectTransactionAtomicWrapper (Proxy)",
+          "address": "0xef0b56692f78a44cf4034b07f80204757c31bcc9"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x22f6cc8738308a8c92a6a71ea67832463d1fec0d"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x1440ec793ae50fa046b95bfeca5af475b6003f9e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x0b5c4a7fcda49e0a8661419bb55b86161a86db2a"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x151b381058f91cf871e7ea1ee83c45326f61e96d"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x151b381058f91cf871e7ea1ee83c45326f61e96d"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xd42f958e1c3e2a10e5d66343c4c9a57726e5b4b6"
+        },
+        {
+          "name": "TransparentUpgradeableProxy",
+          "address": "0xef0b56692f78a44cf4034b07f80204757c31bcc9"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x151b381058f91cf871e7ea1ee83c45326f61e96d"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x22f6cc8738308a8c92a6a71ea67832463d1fec0d"
+        },
+        {
+          "name": "TransparentUpgradeableProxy",
+          "address": "0xef0b56692f78a44cf4034b07f80204757c31bcc9"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Withdrawal Hot Wallet",
+          "address": "0x8216874887415e2650d12d53ff53516f04a74fd7"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x22f6cc8738308a8c92a6a71ea67832463d1fec0d"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xd42f958e1c3e2a10e5d66343c4c9a57726e5b4b6"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x151b381058f91cf871e7ea1ee83c45326f61e96d"
+        },
+        {
+          "name": "TransparentUpgradeableProxy",
+          "address": "0xef0b56692f78a44cf4034b07f80204757c31bcc9"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x0b5c4a7fcda49e0a8661419bb55b86161a86db2a"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xd42f958e1c3e2a10e5d66343c4c9a57726e5b4b6"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.moonpay.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

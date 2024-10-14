@@ -1,0 +1,21 @@
+{
+  "name": "Bankroll Network",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "bankteller.eth",
+          "address": "0xcb71eb21f53a2f4de0f26dc90518df10be13d1ec"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bankroll.network/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

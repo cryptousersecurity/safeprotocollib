@@ -1,0 +1,21 @@
+{
+  "name": "XeggeX",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xa0387adba7636722abe119cbf9220ce0b9938b0b"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://xeggex.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

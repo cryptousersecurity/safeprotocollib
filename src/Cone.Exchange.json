@@ -1,0 +1,21 @@
+{
+  "name": "Cone.Exchange",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0x881b608ec7e15cd5bb4da9db6ae9c477b4f67731"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.cone.exchange/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

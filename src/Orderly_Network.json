@@ -1,0 +1,30 @@
+{
+  "name": "Orderly Network",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "CrossChainRelayUpgradeable (Proxy)",
+          "address": "0x173b47edbeca665125edc24c509bfe545cda60a9"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "CrossChainRelayUpgradeable (Proxy)",
+          "address": "0x173b47edbeca665125edc24c509bfe545cda60a9"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://orderly.network/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

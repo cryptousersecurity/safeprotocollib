@@ -1,0 +1,29 @@
+{
+  "name": "Polycat Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0x0509083749716b68f0fdb490a59ca62f2cffebb9"
+        },
+        {
+          "name": "Pool",
+          "address": "0x8a4ceb4dffa238539c5d62ce424980e8fdb21ebc"
+        },
+        {
+          "name": "Pool",
+          "address": "0xe27855cce2ddc3a2e44f1ad3cdc3ec6ce4903bba"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://polycat.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

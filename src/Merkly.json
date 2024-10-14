@@ -1,0 +1,148 @@
+{
+  "name": "Merkly",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Merkly ONFT (MERK)",
+          "address": "0xa184998ec58dc1da77a1f9f1e361541257a50cf4"
+        },
+        {
+          "name": "MerklyRefuel",
+          "address": "0x0e1f20075c90ab31fc2dd91e536e6990262cf76d"
+        },
+        {
+          "name": "Merkly OFT (MERK)",
+          "address": "0x70ea00ab512d13dac5001c968f8d2263d179e2d2"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Merkly ONFT (MERK)",
+          "address": "0xe030543b943bdcd6559711ec8d344389c66e1d56"
+        },
+        {
+          "name": "Merkly OFT (MERK)",
+          "address": "0x70ea00ab512d13dac5001c968f8d2263d179e2d2"
+        },
+        {
+          "name": "MerklyRefuel",
+          "address": "0x5c9bbe51f7f19f8c77df7a3ada35ab434aaa86c5"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Merkly OFT (MERK)",
+          "address": "0xc072c3ebaf165955c5aad2dbb4293f771de6dbd3"
+        },
+        {
+          "name": "Merkly ONFT (MERK)",
+          "address": "0x6f6ae8851a460406bbb3c929a415d2df9305acd5"
+        },
+        {
+          "name": "Deployer",
+          "address": "0xe584b655a6d3d818998670f73c9c0702b66498e2"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "MerklyRefuel",
+          "address": "0x4ae8cebccd7027820ba83188dfd73ccad0a92806"
+        },
+        {
+          "name": "Merkly OFT (MERK)",
+          "address": "0x8a555e4fc287650f5e8ca1778a35dd44e893d6aa"
+        },
+        {
+          "name": "Merkly ONFT (MERK)",
+          "address": "0xaa58e77238f0e4a565343a89a79b4addd744d649"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "MerklyRefuel",
+          "address": "0xc9b753d73b17ddb5e87093ff04a9e31845a43af0"
+        },
+        {
+          "name": "Merkly",
+          "address": "0xdb3bb6d5a8eeeafc64c66c176900e6b82b23dd5f"
+        },
+        {
+          "name": "Merkly",
+          "address": "0x5f45cd59ba7f2f6bcd935663f68ee1debe3b8a10"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Merkly OFT (MERK)",
+          "address": "0xe341f30ea040bf3691aa069b8c5c213f72676421"
+        },
+        {
+          "name": "MerklyRefuel",
+          "address": "0xef1eae0457e8d56a003d781569489bc5466e574b"
+        },
+        {
+          "name": "Merkly ONFT (MERK)",
+          "address": "0xfdc9018af0e37abf89233554c937eb5068127080"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "MerklyRefuel",
+          "address": "0xd7ba4057f43a7c4d4a34634b2a3151a60bf78f0d"
+        },
+        {
+          "name": "Merkly ONFT (MERK)",
+          "address": "0xa2c203d7ef78ed80810da8404090f926d67cd892"
+        },
+        {
+          "name": "Merkly OFT (MERK)",
+          "address": "0x20279b6d57ba6d3ef852f34800e43e39d46d6487"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Merkly ONFT (MERK)",
+          "address": "0xf882c982a95f4d3e8187efe12713835406d11840"
+        },
+        {
+          "name": "MerklyRefuel",
+          "address": "0x6bf98654205b1ac38645880ae20fc00b0bb9ffca"
+        },
+        {
+          "name": "Merkly OFT (MERK)",
+          "address": "0x5f45cd59ba7f2f6bcd935663f68ee1debe3b8a10"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://merkly.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

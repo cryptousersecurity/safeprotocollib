@@ -1,0 +1,21 @@
+{
+  "name": "Aperture Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "UniV3Automan",
+          "address": "0x0000000002f4dd78ba85fe4b662983816c9ae95f"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://aperture.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

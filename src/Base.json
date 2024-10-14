@@ -1,0 +1,54 @@
+{
+  "name": "Base",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Deployer",
+          "address": "0x9652721d02b9db43f4311102820158abb4ecc95b"
+        },
+        {
+          "name": "Onchain Summer Is Back (OCS)",
+          "address": "0x768e7151500bb5120983d9619374f31dd71d8357"
+        },
+        {
+          "name": "L2 Cross Domain Messenger",
+          "address": "0x4200000000000000000000000000000000000007"
+        },
+        {
+          "name": "L2 Standard Bridge",
+          "address": "0x4200000000000000000000000000000000000010"
+        },
+        {
+          "name": "L2 To L1 Message Passer",
+          "address": "0x4200000000000000000000000000000000000016"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Base Bridge",
+          "address": "0x49048044d57e1c92a77f79988d21fa8faf74e97e"
+        },
+        {
+          "name": "L1 Standard Bridge",
+          "address": "0x3154cf16ccdb4c6d922629664174b904d80f2c35"
+        },
+        {
+          "name": "L1 Cross Domain Messenger",
+          "address": "0x866e82a600a1414e583f7f13623f1ac5d58b0afa"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://base.org/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

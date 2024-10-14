@@ -1,0 +1,25 @@
+{
+  "name": "Liquity",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Stability Pool",
+          "address": "0x66017d22b0f8556afdd19fc67041899eb65a21bb"
+        },
+        {
+          "name": "Community Issuance",
+          "address": "0xd8c9d9071123a059c6e0a945cf0e0c82b508d816"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://liquity.org",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

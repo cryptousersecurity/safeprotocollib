@@ -1,0 +1,66 @@
+{
+  "name": "Optimism",
+  "description": null,
+  "chains": [
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Mirror Writer (The Optimism Collective)",
+          "address": "0xff5ae9b0a7522736299d797d80b8fc6f31d61100"
+        },
+        {
+          "name": "Sequencer Fee Vault",
+          "address": "0x4200000000000000000000000000000000000011"
+        },
+        {
+          "name": "Aliased L1 Cross-Domain Messenger",
+          "address": "0x36bde71c97b33cc4729cf772ae268934f7ab70b2"
+        },
+        {
+          "name": "L2 Cross Domain Messenger",
+          "address": "0x4200000000000000000000000000000000000007"
+        },
+        {
+          "name": "L2 To L1 Message Passer",
+          "address": "0x4200000000000000000000000000000000000016"
+        },
+        {
+          "name": "L2 Standard Bridge",
+          "address": "0x4200000000000000000000000000000000000010"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Proxy OVM L1 Cross Domain Messenger",
+          "address": "0x25ace71c97b33cc4729cf772ae268934f7ab5fa1"
+        },
+        {
+          "name": "Gateway",
+          "address": "0x99c9fc46f92e8a1c0dec1b1747d010903e884be1"
+        },
+        {
+          "name": "Optimism Portal Proxy",
+          "address": "0xbeb5fc579115071764c7423a4f12edde41f106ed"
+        },
+        {
+          "name": "L1 Escrow",
+          "address": "0x467194771dae2967aef3ecbedd3bf9a310c76c65"
+        },
+        {
+          "name": "State Root Proposer",
+          "address": "0x473300df21d047806a082244b417f96b32f13a33"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://optimism.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}
