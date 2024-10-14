@@ -1,0 +1,21 @@
+{
+  "name": "Metalpha",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x997d1ed51ff7389883913311810176cbdbd5d1d5"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.metalpha.net",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

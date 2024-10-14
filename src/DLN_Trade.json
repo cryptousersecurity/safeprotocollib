@@ -1,0 +1,87 @@
+{
+  "name": "DLN Trade",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "CrosschainForwarder (Proxy)",
+          "address": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "CrosschainForwarder (Proxy)",
+          "address": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "CrosschainForwarder (Proxy)",
+          "address": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "CrosschainForwarder (Proxy)",
+          "address": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "CrosschainForwarder (Proxy)",
+          "address": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+        },
+        {
+          "name": "DlnDestination (Proxy)",
+          "address": "0xe7351fd770a37282b91d153ee690b63579d6dd7f"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "CrosschainForwarder (Proxy)",
+          "address": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+        },
+        {
+          "name": "DlnDestination (Proxy)",
+          "address": "0xe7351fd770a37282b91d153ee690b63579d6dd7f"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "DlnSource (Proxy)",
+          "address": "0xef4fb24ad0916217251f553c0596f8edc630eb66"
+        },
+        {
+          "name": "CrosschainForwarder (Proxy)",
+          "address": "0x663dc15d3c1ac63ff12e45ab68fea3f0a883c251"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://dln.trade/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

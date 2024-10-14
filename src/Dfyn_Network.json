@@ -1,0 +1,33 @@
+{
+  "name": "Dfyn Network",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "V2 Pool",
+          "address": "0x7d51bad48d253dae37cc82cad07f73849286deec"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xebc4f9b1ce66258ac3a48578ffeeba1330ddb68b"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x4f5df10b9991482bcd2db19dae1fd0e0184397c2"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xc3379226aeef21464d05676305dad1261d6f3fac"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://dfyn.network/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

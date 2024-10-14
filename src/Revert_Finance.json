@@ -1,0 +1,60 @@
+{
+  "name": "Revert Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "revertfinance.eth",
+          "address": "0x8cadb20a4811f363dadb863a190708bed26245f8"
+        },
+        {
+          "name": "V3Utils",
+          "address": "0xae8999da4d81cb81b42288b12176fe20d7ead578"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "V3Utils",
+          "address": "0xae8999da4d81cb81b42288b12176fe20d7ead578"
+        },
+        {
+          "name": "revertfinance.eth",
+          "address": "0x8cadb20a4811f363dadb863a190708bed26245f8"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "revertfinance.eth",
+          "address": "0x8cadb20a4811f363dadb863a190708bed26245f8"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "revertfinance.eth",
+          "address": "0x8cadb20a4811f363dadb863a190708bed26245f8"
+        },
+        {
+          "name": "V3Utils",
+          "address": "0xae8999da4d81cb81b42288b12176fe20d7ead578"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://revert.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

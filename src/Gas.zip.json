@@ -1,0 +1,75 @@
+{
+  "name": "Gas.zip",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "GasLZV2",
+          "address": "0x26da582889f59eaae9da1f063be0140cd93e6a4f"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "GasLZV2",
+          "address": "0x26da582889f59eaae9da1f063be0140cd93e6a4f"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "GasLZV2",
+          "address": "0x26da582889f59eaae9da1f063be0140cd93e6a4f"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "GasLZV2",
+          "address": "0x26da582889f59eaae9da1f063be0140cd93e6a4f"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "GasLZV2",
+          "address": "0x26da582889f59eaae9da1f063be0140cd93e6a4f"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "GasLZV2",
+          "address": "0x26da582889f59eaae9da1f063be0140cd93e6a4f"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "GasLZV2",
+          "address": "0x26da582889f59eaae9da1f063be0140cd93e6a4f"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.gas.zip/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

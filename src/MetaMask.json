@@ -1,0 +1,135 @@
+{
+  "name": "MetaMask",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Swap",
+          "address": "0xc590175e458b83680867afd273527ff58f74c02b"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "MetaBridge",
+          "address": "0x29106d08382d3c73bf477a94333c61db1142e1b6"
+        },
+        {
+          "name": "Swap",
+          "address": "0xc590175e458b83680867afd273527ff58f74c02b"
+        },
+        {
+          "name": "Fees",
+          "address": "0xef320f172714eab39ef6df6ee23a29d2467b6fbf"
+        },
+        {
+          "name": "Fees",
+          "address": "0x68e21357555a15cd9df624f3bfb7aed0eae167e9"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Fees",
+          "address": "0xf2446da67fe63efcd0179275937800f0a3828616"
+        },
+        {
+          "name": "Swap",
+          "address": "0xc590175e458b83680867afd273527ff58f74c02b"
+        },
+        {
+          "name": "Swap Router",
+          "address": "0x1a1ec25dc08e98e5e93f1104b5e5cdd298707d31"
+        },
+        {
+          "name": "MetaBridge",
+          "address": "0x3a0b42ce6166abb05d30ddf12e726c95a83d7a16"
+        },
+        {
+          "name": "Fees",
+          "address": "0x930dedddb92fef1b4ab2665d250877339f064eac"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Spender",
+          "address": "0x0a2854fbbd9b3ef66f17d47284e7f899b9509330"
+        },
+        {
+          "name": "Router",
+          "address": "0x9dda6ef3d919c9bc8885d5560999a3640431e8e6"
+        },
+        {
+          "name": "Fees",
+          "address": "0xeab40cdd62b9b84d8d54a609bf45da6effa10619"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Spender",
+          "address": "0x74de5d4fcbf63e00296fd95d33236b9794016631"
+        },
+        {
+          "name": "Fees",
+          "address": "0x2acf35c9a3f4c5c3f4c78ef5fb64c3ee82f07c45"
+        },
+        {
+          "name": "Eth2 Staking",
+          "address": "0xf17d119effa0dcbe24d3fa346860be851150358f"
+        },
+        {
+          "name": "MetaBridge",
+          "address": "0x0439e60f02a8900a951603950d8d4527f400c3f1"
+        },
+        {
+          "name": "DSProxy",
+          "address": "0xf326e4de8f66a0bdc0970b79e0924e33c79f1915"
+        },
+        {
+          "name": "Fees",
+          "address": "0xe6b738da243e8fa2a0ed5915645789add5de5152"
+        },
+        {
+          "name": "Swap Router",
+          "address": "0x881d40237659c251811cec9c364ef91dc08d300c"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Spender",
+          "address": "0x0a2854fbbd9b3ef66f17d47284e7f899b9509330"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "MetaBridge",
+          "address": "0xe3d0d2607182af5b24f5c3c2e4990a053add64e3"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://metamask.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "decentro.vc",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "decentrovc.eth",
+          "address": "0x4b502a08bc54c05772b2c63469e366c2e78459ed"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://decentro.tech/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

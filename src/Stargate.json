@@ -1,0 +1,368 @@
+{
+  "name": "Stargate",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "StargateToken (STG)",
+          "address": "0xe3b53af74a4bf62ae5511055290838050bf764df"
+        },
+        {
+          "name": "Stargate Ether Vault (SGETH)",
+          "address": "0x224d8fd7ab6ad4c6eb4611ce56ef35dec2277f03"
+        },
+        {
+          "name": "Router",
+          "address": "0x50b6ebc2103bfec165949cc946d739d5650d7ae4"
+        },
+        {
+          "name": "StargateComposer",
+          "address": "0xecc19e177d24551aa7ed6bc6fe566eca726cc8a9"
+        },
+        {
+          "name": "Router",
+          "address": "0x45f1a95a4d3f3836523f5c83673c797f4d4d263b"
+        },
+        {
+          "name": "Bridge",
+          "address": "0xaf54be5b6eec24d6bfacf1cce4eaf680a8239398"
+        },
+        {
+          "name": "Pool.sol (USDC)",
+          "address": "0x4c80e24119cfb836cdf0a6b53dc23f04f7e652ca"
+        },
+        {
+          "name": "StargateFacet (Proxy)",
+          "address": "0xaf14797ccf963b1e3d028a9d51853ace16aedba1"
+        },
+        {
+          "name": "TokenMessaging",
+          "address": "0x5634c4a5fed09819e3c46d86a965dd9447d86e47"
+        },
+        {
+          "name": "CreditMessaging",
+          "address": "0x12dc9256acc9895b076f6638d628382881e62cee"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Router ETH",
+          "address": "0xbf22f0f184bccbea268df387a49ff5238dd23e40"
+        },
+        {
+          "name": "Router",
+          "address": "0x53bf833a5d6c4dda888f69c22c88c9f356a41614"
+        },
+        {
+          "name": "s*USDT Pool",
+          "address": "0xb6cfcf89a7b22988bfc96632ac2a9d6dab60d641"
+        },
+        {
+          "name": "VotingEscrow",
+          "address": "0xfbd849e6007f9bc3cc2d6eb159c045b8dc660268"
+        },
+        {
+          "name": "s*USDC Pool",
+          "address": "0x892785f33cdee22a30aef750f285e18c18040c3e"
+        },
+        {
+          "name": "StargateToken (STG)",
+          "address": "0x6694340fc020c5e6b96567843da2df01b2ce1eb6"
+        },
+        {
+          "name": "StargateComposer",
+          "address": "0xecc19e177d24551aa7ed6bc6fe566eca726cc8a9"
+        },
+        {
+          "name": "Bridge",
+          "address": "0x352d8275aae3e0c2404d9f68f6cee084b5beb3dd"
+        },
+        {
+          "name": "Stargate Ether Vault (SGETH)",
+          "address": "0x82cbecf39bee528b5476fe6d1550af59a9db6fc0"
+        },
+        {
+          "name": "TokenMessaging",
+          "address": "0x19cfce47ed54a88614648dc3f19a5980097007dd"
+        },
+        {
+          "name": "CreditMessaging",
+          "address": "0xf1fcb4cbd57b67d683972a59b6a7b1e2e8bf27e6"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "StargateComposer",
+          "address": "0xecc19e177d24551aa7ed6bc6fe566eca726cc8a9"
+        },
+        {
+          "name": "Tether USD-LP (S*USDT)",
+          "address": "0x68c6c27fb0e02285829e69240be16f32c5f8befe"
+        },
+        {
+          "name": "LPStaking",
+          "address": "0x3052a0f6ab15b4ae1df39962d5ddefaca86dab47"
+        },
+        {
+          "name": "VotingEscrow",
+          "address": "0xd4888870c8686c748232719051b677791dbda26d"
+        },
+        {
+          "name": "StargateFeeLibraryV07",
+          "address": "0xca6522116e8611a346d53cc2005ac4192e3fc2bc"
+        },
+        {
+          "name": "Bridge",
+          "address": "0x6694340fc020c5e6b96567843da2df01b2ce1eb6"
+        },
+        {
+          "name": "StargateToken (STG)",
+          "address": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b"
+        },
+        {
+          "name": "S*USDT Token",
+          "address": "0x9aa83081aa06af7208dcc7a4cb72c94d057d2cda"
+        },
+        {
+          "name": "Router",
+          "address": "0x4a364f8c717caad9a442737eb7b8a55cc6cf18d8"
+        },
+        {
+          "name": "S*BUSD Token",
+          "address": "0x98a5737749490856b401db5dc27f522fc314a4e1"
+        },
+        {
+          "name": "CreditMessaging",
+          "address": "0x25bbf59ef9246dc65bfac8385d55c5e524a7b9ea"
+        },
+        {
+          "name": "TokenMessaging",
+          "address": "0x6e3d884c96d640526f273c61dfcf08915ebd7e2b"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "StargateToken (STG)",
+          "address": "0x808d7c71ad2ba3fa531b068a2417c63106bc0949"
+        },
+        {
+          "name": "Router",
+          "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590"
+        },
+        {
+          "name": "StargateComposer",
+          "address": "0xecc19e177d24551aa7ed6bc6fe566eca726cc8a9"
+        },
+        {
+          "name": "RouterETH",
+          "address": "0x8731d54e9d02c286767d56ac03e8037c07e01e98"
+        },
+        {
+          "name": "Stargate Ether Vault (SGETH)",
+          "address": "0x224d8fd7ab6ad4c6eb4611ce56ef35dec2277f03"
+        },
+        {
+          "name": "Bridge",
+          "address": "0x45f1a95a4d3f3836523f5c83673c797f4d4d263b"
+        },
+        {
+          "name": "TokenMessaging",
+          "address": "0x5f688f563dc16590e570f97b542fa87931af2fed"
+        },
+        {
+          "name": "CreditMessaging",
+          "address": "0x138eb30f73bc423c6455c53df6d89cb01d9ebc63"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Bridge",
+          "address": "0x9d1b1669c73b033dfe47ae5a0164ab96df25b944"
+        },
+        {
+          "name": "StargateToken (STG)",
+          "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590"
+        },
+        {
+          "name": "S*USDC Token",
+          "address": "0x1205f31718499dbf1fca446663b532ef87481fe1"
+        },
+        {
+          "name": "Tether Token-LP (S*USDt)",
+          "address": "0x29e38769f23701a2e4a8ef0492e19da4604be62c"
+        },
+        {
+          "name": "StargateComposer",
+          "address": "0xecc19e177d24551aa7ed6bc6fe566eca726cc8a9"
+        },
+        {
+          "name": "Tether Token-LP (S*USDt)",
+          "address": "0xeae5c2f6b25933deb62f754f239111413a0a25ef"
+        },
+        {
+          "name": "Router",
+          "address": "0x45a01e4e04f14f7a4a6702c74187c5f6222033cd"
+        },
+        {
+          "name": "Wootrade Network-LP (S*WOO.e)",
+          "address": "0x45524dc9d05269e1101ad7cff1639ae2aa20989d"
+        },
+        {
+          "name": "TokenMessaging",
+          "address": "0x17e450be3ba9557f2378e20d64ad417e59ef9a34"
+        },
+        {
+          "name": "CreditMessaging",
+          "address": "0x08ed1d79d509a6f1020685535028ae60c144441e"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Bridge",
+          "address": "0x9d1b1669c73b033dfe47ae5a0164ab96df25b944"
+        },
+        {
+          "name": "StargateToken (STG)",
+          "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590"
+        },
+        {
+          "name": "LP Staking",
+          "address": "0x8731d54e9d02c286767d56ac03e8037c07e01e98"
+        },
+        {
+          "name": "Router",
+          "address": "0x45a01e4e04f14f7a4a6702c74187c5f6222033cd"
+        },
+        {
+          "name": "S*USDT Token",
+          "address": "0x29e38769f23701a2e4a8ef0492e19da4604be62c"
+        },
+        {
+          "name": "S*USDC Token",
+          "address": "0x1205f31718499dbf1fca446663b532ef87481fe1"
+        },
+        {
+          "name": "StargateComposer",
+          "address": "0xecc19e177d24551aa7ed6bc6fe566eca726cc8a9"
+        },
+        {
+          "name": "(PoS) Dai Stablecoin-LP (S*DAI)",
+          "address": "0x1c272232df0bb6225da87f4decd9d37c32f63eea"
+        },
+        {
+          "name": "Wootrade Network (PoS)-LP (S*WOO)",
+          "address": "0xeae5c2f6b25933deb62f754f239111413a0a25ef"
+        },
+        {
+          "name": "VotingEscrow",
+          "address": "0x3ab2da31bbd886a7edf68a6b60d3cde657d3a15d"
+        },
+        {
+          "name": "TokenMessaging",
+          "address": "0x6ce9bf8cdab780416ad1fd87b318a077d2f50eac"
+        },
+        {
+          "name": "CreditMessaging",
+          "address": "0xc2b638cb5042c1b3c5d5c969361fb50569840583"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Bridge",
+          "address": "0x296f55f8fb28e498b858d0bcda06d955b2cb3f97"
+        },
+        {
+          "name": "Stargate Finance Token (STG)",
+          "address": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6"
+        },
+        {
+          "name": "ETH Router",
+          "address": "0x150f94b44927f078737562f0fcf3c95c01cc2376"
+        },
+        {
+          "name": "Routing",
+          "address": "0x8731d54e9d02c286767d56ac03e8037c07e01e98"
+        },
+        {
+          "name": "Stargate Ether Vault (SGETH)",
+          "address": "0x72e2f4830b9e45d52f80ac08cb2bec0fef72ed9c"
+        },
+        {
+          "name": "USDT LP Token",
+          "address": "0x38ea452219524bb87e18de1c24d3bb59510bd783"
+        },
+        {
+          "name": "StargateComposer",
+          "address": "0xecc19e177d24551aa7ed6bc6fe566eca726cc8a9"
+        },
+        {
+          "name": "LPStaking",
+          "address": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b"
+        },
+        {
+          "name": "USDC LP Token",
+          "address": "0xdf0770df86a8034b3efef0a1bb3c889b8332ff56"
+        },
+        {
+          "name": "veSTG Token",
+          "address": "0x0e42acbd23faee03249daff896b78d7e79fbd58e"
+        },
+        {
+          "name": "CreditMessaging",
+          "address": "0x6b8ad17795d89b283e6d0362a87a403f3544bb9d"
+        },
+        {
+          "name": "TokenMessaging",
+          "address": "0x6d6620efa72948c5f68a3c8646d58c00d3f4a980"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Bridge",
+          "address": "0x701a95707a0290ac8b90b3719e8ee5b210360883"
+        },
+        {
+          "name": "StargateToken (STG)",
+          "address": "0x296f55f8fb28e498b858d0bcda06d955b2cb3f97"
+        },
+        {
+          "name": "CreditMessaging",
+          "address": "0xda82a31df339bfdf0123661134b4db63cb1706f5"
+        },
+        {
+          "name": "TokenMessaging",
+          "address": "0xf1fcb4cbd57b67d683972a59b6a7b1e2e8bf27e6"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://stargate.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

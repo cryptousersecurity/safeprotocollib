@@ -1,0 +1,21 @@
+{
+  "name": "Burnt XION",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Fundraise (Copper Deposit)",
+          "address": "0xe2923d53b944161c44393805681b609f933554a1"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://burnt.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

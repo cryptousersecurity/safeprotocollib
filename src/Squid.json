@@ -1,0 +1,108 @@
+{
+  "name": "Squid",
+  "description": null,
+  "chains": [
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "SquidMulticall",
+          "address": "0xea749fd6ba492dbc14c24fe8a3d08769229b896c"
+        },
+        {
+          "name": "SquidRouterProxy",
+          "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "SquidMulticall",
+          "address": "0xea749fd6ba492dbc14c24fe8a3d08769229b896c"
+        },
+        {
+          "name": "Squid Router Proxy",
+          "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "SquidMulticall",
+          "address": "0xea749fd6ba492dbc14c24fe8a3d08769229b896c"
+        },
+        {
+          "name": "Squid Router Proxy",
+          "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Squid Router Proxy",
+          "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+        },
+        {
+          "name": "SquidMulticall",
+          "address": "0xea749fd6ba492dbc14c24fe8a3d08769229b896c"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "SquidMulticall",
+          "address": "0xea749fd6ba492dbc14c24fe8a3d08769229b896c"
+        },
+        {
+          "name": "Squid Router Proxy",
+          "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Squid Router Proxy",
+          "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+        },
+        {
+          "name": "SquidMulticall",
+          "address": "0xea749fd6ba492dbc14c24fe8a3d08769229b896c"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Squid Router Proxy",
+          "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "SquidRouter (Proxy)",
+          "address": "0xce16f69375520ab01377ce7b88f5ba8c48f8d666"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.squidrouter.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

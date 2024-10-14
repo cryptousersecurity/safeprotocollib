@@ -1,0 +1,21 @@
+{
+  "name": "Hashflow",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "HashflowRouter",
+          "address": "0x55084ee0fef03f14a305cd24286359a35d735151"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://hashflow.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

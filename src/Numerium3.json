@@ -1,0 +1,21 @@
+{
+  "name": "Numerium3",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "numerium.eth",
+          "address": "0xe0b2026e3db1606ef0beb764ccdf7b3cee30db4a"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.numerium3.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

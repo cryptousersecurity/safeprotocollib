@@ -1,0 +1,75 @@
+{
+  "name": "Rainbow.me",
+  "description": "Rainbow, an Ethereum-based wallet, offers a seamless and intuitive user experience. It enables users to effortlessly bridge and execute cross-chain swaps to Layer 2 solutions.",
+  "chains": [
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "RainbowRouter",
+          "address": "0x00000000009726632680fb29d3f7a9734e3010e2"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "RainbowRouter",
+          "address": "0x00000000009726632680fb29d3f7a9734e3010e2"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "RainbowRouter",
+          "address": "0x00000000009726632680fb29d3f7a9734e3010e2"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "RainbowRouter",
+          "address": "0x00000000009726632680fb29d3f7a9734e3010e2"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "RainbowRouter",
+          "address": "0x00000000009726632680fb29d3f7a9734e3010e2"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "RainbowRouter",
+          "address": "0x00000000009726632680fb29d3f7a9734e3010e2"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "RainbowRouter",
+          "address": "0x00000000009726632680fb29d3f7a9734e3010e2"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": null,
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

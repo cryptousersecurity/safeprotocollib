@@ -1,0 +1,51 @@
+{
+  "name": "Coinbase Prime",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Custody Gas Supplier",
+          "address": "0xa86309988947559b6e72ef716c5058f479386c0f"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xcd531ae9efcce479654c4926dec5f6209531ca7b"
+        },
+        {
+          "name": "Deposit Gas Supplier",
+          "address": "0x1565f0c48c06bc006095591a4c3fe4a6f39712cf"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xceb69f6342ece283b2f5c9088ff249b5d0ae66ea"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x1e7016f7c23859d097668c27b72c170ed7129a10"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xdfd76bbfeb9eb8322f3696d3567e03f894c40d6c"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.coinbase.com/prime",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

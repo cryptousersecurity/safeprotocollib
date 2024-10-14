@@ -1,0 +1,45 @@
+{
+  "name": "Mdex",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0x86746cc10ba1422cb17483748105d1d1df5a2876"
+        },
+        {
+          "name": "Pool",
+          "address": "0x706937dc141231168be1694d5ea9dcd04739bb41"
+        },
+        {
+          "name": "Pool",
+          "address": "0x4e737f36c45c3283a2645e600ccc433d173594e5"
+        },
+        {
+          "name": "Pool",
+          "address": "0xc0ba2569e473974e9004ceeeae76aeaea521525c"
+        },
+        {
+          "name": "Pool",
+          "address": "0xde0b3686cdb7e0ed29a89a82c05c4b5086339234"
+        },
+        {
+          "name": "Pool",
+          "address": "0x0025d20d85788c2cae2feb9c298bdafc93bf08ce"
+        },
+        {
+          "name": "Pool",
+          "address": "0x3fc0a554d6a6e2c00fd334902833815febc6a1a3"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://mdex.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

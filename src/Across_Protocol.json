@@ -1,0 +1,76 @@
+{
+  "name": "Across Protocol",
+  "description": null,
+  "chains": [
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "Linea_SpokePool (Proxy)",
+          "address": "0x7e63a5f1a8f0b4d0934b2f2327daed3f6bb2ee75"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hub Pool V2",
+          "address": "0xc186fa914353c44b2e33ebe05f21846f1048beda"
+        },
+        {
+          "name": "Ethereum Spoke Pool",
+          "address": "0x5c7bcd6e7de5423a257d81b442095a1a6ced35c5"
+        },
+        {
+          "name": "Relayer",
+          "address": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+        },
+        {
+          "name": "across.eth",
+          "address": "0x9a8f92a830a5cb89a3816e3d267cb7791c16b04d"
+        },
+        {
+          "name": "Hub Pool Owner MultiSig",
+          "address": "0xb524735356985d2f267fa010d681f061dff03715"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Deployer",
+          "address": "0x9a8f92a830a5cb89a3816e3d267cb7791c16b04d"
+        },
+        {
+          "name": "Relayer",
+          "address": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+        },
+        {
+          "name": "Spoke Pool",
+          "address": "0x6f26bf09b1c792e3228e5467807a900a503c0281"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Relayer",
+          "address": "0x428ab2ba90eba0a4be7af34c9ac451ab061ac010"
+        },
+        {
+          "name": "Deployer",
+          "address": "0x9a8f92a830a5cb89a3816e3d267cb7791c16b04d"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://across.to/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

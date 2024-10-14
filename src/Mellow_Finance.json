@@ -1,0 +1,41 @@
+{
+  "name": "Mellow Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "DepositWrapper",
+          "address": "0x6371ca27b6c9145408909e94ff5fbb755360b914"
+        },
+        {
+          "name": "DepositWrapper",
+          "address": "0x41a1fbea7ace3c3a6b66a73e96e5ed07cdb2a34d"
+        },
+        {
+          "name": "DepositWrapper",
+          "address": "0x897642a9dbe1dd82acfdb90d1f22f75b66a765ba"
+        },
+        {
+          "name": "HStrategy Yearn  WETH  USDC  Root Vault",
+          "address": "0x78ba57594656400d74a0c5ea80f84750cb47f449"
+        },
+        {
+          "name": "DepositWrapper",
+          "address": "0xdc1741f9bd33dd791942cc9435a90b0983de8665"
+        },
+        {
+          "name": "DepositWrapper",
+          "address": "0x24fee15bc11ff617c042283b58a3bda6441da145"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://mellow.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

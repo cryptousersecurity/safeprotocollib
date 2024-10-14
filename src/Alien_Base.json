@@ -1,0 +1,33 @@
+{
+  "name": "Alien Base",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "V2 Pool",
+          "address": "0xef24722d5dae32dc155d961561cffbc5f347eee7"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xe9b0a6bc01b9b4ee44c7b012ec7d5a5eeacc40df"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xb16d2257643fdbb32d12b9d73fab784eb4f1bee4"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xd79ef386f26e40b5e60e4aeb324f2678f6ebbf49"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.alienbase.xyz",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

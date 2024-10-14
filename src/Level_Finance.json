@@ -1,0 +1,21 @@
+{
+  "name": "Level Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Bridge Proxy",
+          "address": "0x0df9e4182d6ca4ce655f1bed19c0329002e46fd8"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://level.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

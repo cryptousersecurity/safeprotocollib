@@ -1,0 +1,30 @@
+{
+  "name": "Uphold",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x3d8fc1cffaa110f7a7f9f8bc237b73d54c4abf61"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x3d8fc1cffaa110f7a7f9f8bc237b73d54c4abf61"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://uphold.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

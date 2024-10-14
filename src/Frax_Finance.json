@@ -1,0 +1,41 @@
+{
+  "name": "Frax Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x708695db8df61e646571e78b9b3e2bad7d6c42e3"
+        },
+        {
+          "name": "Comptroller",
+          "address": "0xb1748c79709f4ba2dd82834b8c82d4a505003f27"
+        },
+        {
+          "name": "Investor Custodian",
+          "address": "0x5180db0237291a6449dda9ed33ad90a38787621c"
+        },
+        {
+          "name": "Fraxswap V2 Pool",
+          "address": "0x3ecfda4eff6184cd8563772d6d024cb0fb9cbf80"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x11cc283d06fa762061df2b0d2f0787651ceef659"
+        },
+        {
+          "name": "Comptroller",
+          "address": "0x6a7efa964cf6d9ab3bc3c47ebddb853a8853c502"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://frax.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

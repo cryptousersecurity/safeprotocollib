@@ -1,0 +1,21 @@
+{
+  "name": "C-Patex",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x4c8f52106d72da5e090bc08fb4d8063f3d591beb"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://c-patex.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

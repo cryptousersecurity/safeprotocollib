@@ -1,0 +1,34 @@
+{
+  "name": "Contango",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "SimpleSpotExecutor",
+          "address": "0xcdfe200930a1e54a6f99c6cca24fcf10300d2785"
+        },
+        {
+          "name": "SpotExecutor",
+          "address": "0x332b65c67c371d72477a3f5f8da836a3ca998cfc"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "SpotExecutor",
+          "address": "0x90896236b00a88959e427e5d47b73fd51bd82f1b"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://contango.exchange/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

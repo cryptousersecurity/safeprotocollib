@@ -1,0 +1,90 @@
+{
+  "name": "Circle",
+  "description": null,
+  "chains": [
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "TokenMinter",
+          "address": "0x33e76c5c31cb928dc6fe6487ab3b2c0769b1a1e3"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x0a22ea6f459432220c407bf15e18946ab11e81a3"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "TokenMinter",
+          "address": "0xe7ed1fa7f45d05c508232aa32649d89b73b8ba48"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x463f5d63e5a5edb8615b0e485a090a18aba08578"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Token Minter",
+          "address": "0xc4922d64a24675e16e1586e3e3aa56c06fabe907"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x55fe002aeff02f77364de339a1292923a15844b8"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Token Minter",
+          "address": "0x420f5035fd5dc62a167e7e7f08b604335ae272b8"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xbf14db80d9275fb721383a77c00ae180fc40ae98"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "TokenMinter",
+          "address": "0x10f7835f827d6cf035115e10c50a853d7fb2d2ec"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x166716c2838e182d64886135a96f1aabca9a9756"
+        },
+        {
+          "name": "USD Coin (PoS) (USDC) ",
+          "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "TokenMinter",
+          "address": "0xe45b133ddc64be80252b0e9c75a8e74ef280eed6"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://circle.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

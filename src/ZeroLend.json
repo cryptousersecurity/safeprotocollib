@@ -1,0 +1,21 @@
+{
+  "name": "ZeroLend",
+  "description": null,
+  "chains": [
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "ZeroLend Renzo Restaked ETH (z0ezETH)",
+          "address": "0x0684fc172a0b8e6a65cf4684edb2082272fe9050"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://zerolend.xyz/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

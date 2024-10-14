@@ -1,0 +1,69 @@
+{
+  "name": "iZUMi Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "iZiSwapPool",
+          "address": "0x5615a7b1619980f7d6b5e7f69f3dc093dfe0c95c"
+        },
+        {
+          "name": "iZiSwapPool",
+          "address": "0x1a9ae59aa2549e12d6ac966b4d5deee5e9102ec1"
+        },
+        {
+          "name": "iZiSwapPool",
+          "address": "0x564e52bbdf3adf10272f3f33b00d65b2ee48afff"
+        },
+        {
+          "name": "iZiSwapPool",
+          "address": "0x76fe3bf0234fc20e35a8cdc7687d87ce893b215d"
+        },
+        {
+          "name": "iZiSwapPool",
+          "address": "0x9cfcc5322455f0951336ccb4474795924f564015"
+        },
+        {
+          "name": "iZiSwapPool",
+          "address": "0x2a229793103bf148867ebb4a50d94bed327dfdcc"
+        },
+        {
+          "name": "iZiSwapPool",
+          "address": "0x7e0bd7da078551a85d0e14373646759c3976e227"
+        },
+        {
+          "name": "iZiSwapPool",
+          "address": "0xbcd52b19749acb09c6d69ec5cc6570abf772378b"
+        },
+        {
+          "name": "iZiSwapPool",
+          "address": "0x63d4904e63571884b7930bb14a810141ac518683"
+        },
+        {
+          "name": "iZiSwapPool",
+          "address": "0x4439ae364e649114a09104334fc13833e9fe4403"
+        },
+        {
+          "name": "iZiSwapPool",
+          "address": "0xe14f01667e2c2955b41c50a2ac39680a66f2bdeb"
+        },
+        {
+          "name": "iZiSwapPool",
+          "address": "0x10656d09115bbe6be89bf6a66d4949f833566a24"
+        },
+        {
+          "name": "iZiSwapPool",
+          "address": "0x5e7ec48222e436f3c13f69174e2a5c128f6c60a4"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://izumi.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Gelato Network",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Treasury",
+          "address": "0xffa67f8aec99c144f887a5864aec5d1bff5062f3"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x163407fda1a93941358c1bfda39a868599553b6d"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://gelato.network",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

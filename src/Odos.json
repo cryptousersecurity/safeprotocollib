@@ -1,0 +1,75 @@
+{
+  "name": "Odos",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Odos Router V2",
+          "address": "0x19ceead7105607cd444f5ad10dd51356436095a1"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "OdosRouterV2",
+          "address": "0x89b8aa89fdd0507a99d334cbe3c808fafc7d850e"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "OdosRouterV2",
+          "address": "0x4e3288c9ca110bcc82bf38f09a7b425c095d92bf"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "OdosRouterV2",
+          "address": "0xcf5540fffcdc3d510b18bfca6d2b9987b0772559"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "OdosRouterV2",
+          "address": "0xa669e7a0d4b3e4fa48af2de86bd4cd7126be4e13"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "OdosRouterV2",
+          "address": "0x88de50b233052e4fb783d4f6db78cc34fea3e9fc"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "OdosRouterV2",
+          "address": "0x2d8879046f1559e53eb052e949e9544bcb72f414"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://odos.xyz/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

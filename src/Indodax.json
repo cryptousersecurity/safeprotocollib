@@ -1,0 +1,90 @@
+{
+  "name": "Indodax",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x51836a753e344257b361519e948ffcaf5fb8d521"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x51836a753e344257b361519e948ffcaf5fb8d521"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x3c02290922a3618a4646e3bbca65853ea45fe7c6"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x51836a753e344257b361519e948ffcaf5fb8d521"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0x8ab399cbb9fdb9a36518a7e7eddf89158e56c595"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x3c02290922a3618a4646e3bbca65853ea45fe7c6"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x3c02290922a3618a4646e3bbca65853ea45fe7c6"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0x8ab399cbb9fdb9a36518a7e7eddf89158e56c595"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x51836a753e344257b361519e948ffcaf5fb8d521"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x3c02290922a3618a4646e3bbca65853ea45fe7c6"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x51836a753e344257b361519e948ffcaf5fb8d521"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x51836a753e344257b361519e948ffcaf5fb8d521"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://indodax.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

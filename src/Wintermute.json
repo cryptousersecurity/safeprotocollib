@@ -1,0 +1,126 @@
+{
+  "name": "Wintermute",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Market Maker",
+          "address": "0x51c72848c68a965f66fa7a88855f9f7784502a7f"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "OKX Deposit",
+          "address": "0x03ae1a796dfe0400439211133d065bda774b9d3e"
+        },
+        {
+          "name": "Gate.io Deposit",
+          "address": "0x6455327f820edd69c4cd665b995e0fec679d7f9e"
+        },
+        {
+          "name": "Market Maker",
+          "address": "0x51c72848c68a965f66fa7a88855f9f7784502a7f"
+        },
+        {
+          "name": "Binance Deposit",
+          "address": "0xeae7380dd4cef6fbd1144f49e4d1e6964258a4f4"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Binance Deposit",
+          "address": "0xeae7380dd4cef6fbd1144f49e4d1e6964258a4f4"
+        },
+        {
+          "name": "Market Maker",
+          "address": "0x51c72848c68a965f66fa7a88855f9f7784502a7f"
+        },
+        {
+          "name": "Gate.io Deposit",
+          "address": "0x6455327f820edd69c4cd665b995e0fec679d7f9e"
+        },
+        {
+          "name": "OTC",
+          "address": "0xdbefb887662ca19cd485381f3386fe5f8537b910"
+        },
+        {
+          "name": "Bitstamp Deposit",
+          "address": "0x91db9e27e750c43a96926b2e04d795c24f13f67b"
+        },
+        {
+          "name": "Bitfinex Deposit",
+          "address": "0x77f7b398a23ef4cab31dd5503fd8446c4480c70b"
+        },
+        {
+          "name": "Crypto.com Deposit",
+          "address": "0x32d4703e5834f1b474b17dfdb0ac32cc22575145"
+        },
+        {
+          "name": "OKX Deposit",
+          "address": "0x03ae1a796dfe0400439211133d065bda774b9d3e"
+        },
+        {
+          "name": "Coinbase Deposit",
+          "address": "0x4594467601ce92b0d94fc5112722131a535ef0c7"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Gate.io Deposit",
+          "address": "0x6455327f820edd69c4cd665b995e0fec679d7f9e"
+        },
+        {
+          "name": "OKX Deposit",
+          "address": "0x03ae1a796dfe0400439211133d065bda774b9d3e"
+        },
+        {
+          "name": "Binance Deposit",
+          "address": "0xeae7380dd4cef6fbd1144f49e4d1e6964258a4f4"
+        },
+        {
+          "name": "Market Maker",
+          "address": "0x51c72848c68a965f66fa7a88855f9f7784502a7f"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Market Maker",
+          "address": "0x51c72848c68a965f66fa7a88855f9f7784502a7f"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Binance Deposit",
+          "address": "0xeae7380dd4cef6fbd1144f49e4d1e6964258a4f4"
+        },
+        {
+          "name": "Gate.io Deposit",
+          "address": "0x6455327f820edd69c4cd665b995e0fec679d7f9e"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.wintermute.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

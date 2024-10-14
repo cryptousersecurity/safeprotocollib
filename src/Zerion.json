@@ -1,0 +1,136 @@
+{
+  "name": "Zerion",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "test.zerion.eth",
+          "address": "0x42b9df65b219b3dd36ff330a4dd8f327a6ada990"
+        },
+        {
+          "name": "DeFi SDK Core v1.0",
+          "address": "0xd291328a6c202c5b18dcb24f279f69de1e065f70"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x4a183b7ed67b9e14b3f45abfb2cf44ed22c29e54"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x4a183b7ed67b9e14b3f45abfb2cf44ed22c29e54"
+        },
+        {
+          "name": "Router",
+          "address": "0xd7f1dd5d49206349cae8b585fcb0ce3d96f1696f"
+        },
+        {
+          "name": "SimpleCaller",
+          "address": "0xc629bf86f02ef13e8f1f5f75ade8a8165587998f"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "SimpleCaller",
+          "address": "0xc629bf86f02ef13e8f1f5f75ade8a8165587998f"
+        },
+        {
+          "name": "Router",
+          "address": "0xd7f1dd5d49206349cae8b585fcb0ce3d96f1696f"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x7d20ab6d8af50d87a5e8def46e48f4d7dc2ea5c7"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Router",
+          "address": "0xd7f1dd5d49206349cae8b585fcb0ce3d96f1696f"
+        },
+        {
+          "name": "SimpleCaller",
+          "address": "0xc629bf86f02ef13e8f1f5f75ade8a8165587998f"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x7d20ab6d8af50d87a5e8def46e48f4d7dc2ea5c7"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Router",
+          "address": "0xd7f1dd5d49206349cae8b585fcb0ce3d96f1696f"
+        },
+        {
+          "name": "SimpleCaller",
+          "address": "0xc629bf86f02ef13e8f1f5f75ade8a8165587998f"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x7d20ab6d8af50d87a5e8def46e48f4d7dc2ea5c7"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "SimpleCaller",
+          "address": "0xc629bf86f02ef13e8f1f5f75ade8a8165587998f"
+        },
+        {
+          "name": "Router",
+          "address": "0xd7f1dd5d49206349cae8b585fcb0ce3d96f1696f"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x4a183b7ed67b9e14b3f45abfb2cf44ed22c29e54"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Router",
+          "address": "0xd7f1dd5d49206349cae8b585fcb0ce3d96f1696f"
+        },
+        {
+          "name": "SimpleCaller",
+          "address": "0xc629bf86f02ef13e8f1f5f75ade8a8165587998f"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x4a183b7ed67b9e14b3f45abfb2cf44ed22c29e54"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://zerion.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

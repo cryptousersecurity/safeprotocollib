@@ -1,0 +1,518 @@
+{
+  "name": "Grayscale",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Ethereum Trust",
+          "address": "0xc7a7fd11c1575d5a965e4ebe670481d8b58f27c0"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0xab3e9f1133c597f03768510e7e65004a04c9d427"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x9c7e1966808a95a3bda73619f76c35fabc46fe6d"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0x3707487518d9485a98f44d7b4b678daadb8360da"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0x1ad1eb01ac0409ddd3b3c17ce1d4c83f3236a3cb"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0x5b4ccb047b982dc0eba47c5cf35f80a1aaa25544"
+        },
+        {
+          "name": "Digital Large Cap Fund",
+          "address": "0x0196f2aa9711ca84e2434a99daac8f085a967619"
+        },
+        {
+          "name": "Decentralized Finance Fund",
+          "address": "0x8def9a9e3473be1a11a6b7a15967ad563adafe91"
+        },
+        {
+          "name": "Livepeer Trust",
+          "address": "0xdbccd2d2f27e7cacb23fcd7914defddabd4ffe07"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x25e50cab2185963446dfbe85cbbbdce47083bcfb"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x075b440d4d92aaf2b66f1365b81a508ecd25a40d"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0xc7e9079f03a07d93e101cd4079b69283d9f47d29"
+        },
+        {
+          "name": "Smart Contract Platform Ex-Ethereum Fund",
+          "address": "0xa9b7363f05764107064a3f5c690b86bcd6bfdc0d"
+        },
+        {
+          "name": "Chainlink Trust",
+          "address": "0x22d01cdc805aece9a36290cbf6e33c348ad60ae2"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x4989d7983057fe34e5ff0e33dfda49629c9d17f6"
+        },
+        {
+          "name": "Coinbase Prime Deposit",
+          "address": "0x39df92cdb33608b48c248ccccdcac9eb29117ca9"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xdeb294797d166d580675dc5aaef1a25378ccb626"
+        },
+        {
+          "name": "Decentralized Finance Fund",
+          "address": "0x84e486acedf05c8f6b659923e6ce2648658e5b84"
+        },
+        {
+          "name": "Decentralized Finance Fund",
+          "address": "0x3af90634cbf4d2fe8d06b98ef690e5b0c6f09c99"
+        },
+        {
+          "name": "Coinbase Prime Deposit",
+          "address": "0x28bbba938befa30269a565edf6443656cbba50e7"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xf9b993a7136733ad019d5b2497e90a0887fb1049"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x1271892c3724cff1416dc14c2b4e27a368cffeb4"
+        },
+        {
+          "name": "Coinbase Prime Deposit",
+          "address": "0xfe396984365a4d388961827d2708d7bbc29da861"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x6d1338ae291fa7cbbf74f1b18815005b5d060e0c"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xf9ad8f6cde350a9731ef7c77fc588ce88def56db"
+        },
+        {
+          "name": "Digital Large Cap Fund",
+          "address": "0x67890c9fd859db3fba4c16c295a09cb5099ccc61"
+        },
+        {
+          "name": "Decentralized Finance Fund",
+          "address": "0x13170ea978359e7bf43a518714ab37220cdc4bb9"
+        },
+        {
+          "name": "Coinbase Prime Deposit",
+          "address": "0x16a30d49c349462c636fd40cdbe93c5927247cc4"
+        },
+        {
+          "name": "Coinbase Prime Deposit",
+          "address": "0x1fb3ea42c86de5504f3f37d39941c82ef843eb5e"
+        },
+        {
+          "name": "Decentralized Finance Fund",
+          "address": "0x890879badc819d5c27146d7057c5fb47681edca6"
+        },
+        {
+          "name": "Decentralized Finance Fund",
+          "address": "0x84ae99b4941f7a96d110229504ba95d8f6866646"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xea28d8a2711f39d9f10b50878177360791500cb6"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0x452962d1d9f7f0ded2e73e79c859d0140181a9f7"
+        },
+        {
+          "name": "Coinbase Prime Deposit",
+          "address": "0xda9fc9476382ef1cb50766e46e85b09649dcdcbf"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x61bd22068505658f82904e334b3ec303245126b6"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0x21316bbecd9ac31dabbff2a6a885dd232807dfe8"
+        },
+        {
+          "name": "Coinbase Prime Deposit",
+          "address": "0x56b8da04aadf4e943dc8642f0faba569fcfd6f6f"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x688dd446b595d5702e9dcb545c89261b1c0c7cc7"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xf5b4386394cb52999d43517bf89acb4fe902fa09"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x07e06ba1150946cdf00b9f20e2e52568150e62a2"
+        },
+        {
+          "name": "Coinbase Prime Deposit",
+          "address": "0x27d1ec44964fb7554844090b02c7c81aa01f20e6"
+        },
+        {
+          "name": "Decentralized Finance Fund",
+          "address": "0xc9616f3e50040bacbaa71fd68bfbaedc43d234c0"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x3d458cb4144dab393ad1d9f90a94bc00cd49dea3"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x695483e6f68a939fedda945499c9e3ee557c1c3a"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x7f74aafd223f2462e52de66f36e98498fd141c6e"
+        },
+        {
+          "name": "Basic Attention Token Trust",
+          "address": "0x4f0ada834bfcdbf436d5358b861ef1ecf536d180"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0xcf3dc64a2f99cd77148f0485a91933dadc4fab6c"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x5d8a8f2d93948b11009bd81828a1452079983a4c"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xe355f1d3bac35fca6789570dfea7648ac6a403d5"
+        },
+        {
+          "name": "Decentralized Finance Fund",
+          "address": "0xada9a6949e871e1b6d0014eadc8182a7dacb0d65"
+        },
+        {
+          "name": "Chainlink Trust",
+          "address": "0xd5f089cbbbc11b0901e1eb1677aaa32a4010e57b"
+        },
+        {
+          "name": "Coinbase Prime Deposit",
+          "address": "0xd940f7877527e1b53ab7e646af1f56757822d20c"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0x03211daae0b65cf396945868d022bb77de22efa2"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xeb3d5ddcdf38b898879c8a76a2e8cc3fd12a52dd"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x99f85310da212afb643c934f37ed512e66bf6de5"
+        },
+        {
+          "name": "Livepeer Trust",
+          "address": "0xe5a42f19aa1da04438d9b455d485e22b6762c5c7"
+        },
+        {
+          "name": "Coinbase Prime Deposit",
+          "address": "0xd9a5bc5d60b953d44aa738501d43657c99b1f0dd"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0x660b4f8b8ac68fd6f6e2caeb19bc5529d4c05bd4"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xd404316d5bb0641853edaae62a92ccb6f2d820bc"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x7879a9a2e67becd33ea97c8597ca249bbee54fac"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x124a443d6a09c1cf5a5238af6a49e2d03a7d5dad"
+        },
+        {
+          "name": "Decentralized Finance Fund",
+          "address": "0x5662139ad1055ff28494dfd8a3afa757e766f711"
+        },
+        {
+          "name": "Chainlink Trust",
+          "address": "0x43e04ae8960c548ea854def81bd63bf623801ed5"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xbf43cbd9b7784a744d5705a2e8365ee96a3120fc"
+        },
+        {
+          "name": "Coinbase Prime Deposit",
+          "address": "0xab33b1d11352db5fb13edcf350c72939658972c3"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x0844e137f4e87ad3f3738d5b39514024146097e0"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0x78c42af600f67483474b1fec5681e9b6938b9b4b"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xf38356f7c5e47926c0417bf2763b5c44a00336b7"
+        },
+        {
+          "name": "Decentralized Finance Fund",
+          "address": "0xbc89f8d4f168595c7d218a456f2af83664fd08da"
+        },
+        {
+          "name": "Coinbase Prime Deposit",
+          "address": "0x5e79f1f410c2ae2904d6b79a1ceb08e856abb235"
+        },
+        {
+          "name": "Decentralized Finance Fund",
+          "address": "0x554eb38cc710b0ed78f8f1ca870295df9a5f07fc"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0x03058fa830e90de326009eb1b6b793b60076d7dd"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x9cc64aabaa3d3859742c7cb22b0ce4b9e4e77875"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x93a654a2813f3ad052929752124b51d68bb9fa8f"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0xeaa76c2c18161a31487c6205eb85671d87d7a0cc"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0x5f07d515b5897af3bedbe42d74d350a41508973e"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x7d0523795e35c67b14b5edce151266a5c0ff2d65"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xff8a34f749b97e19f9821615731be346e65aedd3"
+        },
+        {
+          "name": "Livepeer Trust",
+          "address": "0xca07de3e5341697e934be762f4c07c6396d00bac"
+        },
+        {
+          "name": "Basic Attention Token Trust",
+          "address": "0x9bc431761d47e4b7eb5ca8518c760b53d36302ba"
+        },
+        {
+          "name": "Coinbase Prime Deposit",
+          "address": "0x0d2b7a85b12904ab5332bae47096759edda01e3c"
+        },
+        {
+          "name": "Coinbase Prime Deposit",
+          "address": "0x827a1f2550ab3acb9a0f23238af59954a3fd7354"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x50cde33eb1dbd3624529f2968e4443dd8fbc1811"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x220c575a00a9f62b6aae2ea2a484971c5fa3cdb0"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x7047e704228cef3cff0295ca09da1b5bab3d7402"
+        },
+        {
+          "name": "Digital Large Cap Fund",
+          "address": "0x40515c367b37da87cb8857300fb942a5b150b6b1"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xe6e90d59cb21f34a4268c9e18897c5bafb692c38"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x500140ce79ef3b75fc2dbd9690aa32e9da4296d6"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x58bae5c59f73f764148b127873a211eae1111a1b"
+        },
+        {
+          "name": "Digital Large Cap Fund",
+          "address": "0x23bfacee9712d28595f0592fc905073c0b9e892f"
+        },
+        {
+          "name": "Decentralized Finance Fund",
+          "address": "0x998d357b7bcd578509c967857bd9b2d62331d137"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x02ee13ffd5cf5e6731d4ceab28394074bb185f61"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xc12386613bcbf62be78ee80077a721e8cba3bc12"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x90006e8948045c49b6e6aa50897d8f4f9ad3b091"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xb9786dc15b3e2e4994328834c801266479900328"
+        },
+        {
+          "name": "Digital Large Cap Fund",
+          "address": "0x13d60312166cec41fd4b0dbb42c46cc66b859654"
+        },
+        {
+          "name": "Decentralized Finance Fund",
+          "address": "0x6c59ffc2fc198d350a5dae367f11e124de95154a"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0x9d8b6e761fdead614bd1fbbb9f03d558a526c676"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x8936424b558a95fbdec5938b1dd95a11e40a4532"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x47895e5009fd609f0027ea896bb5c38869082223"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xca2dd8f07407ee31201e03876f65f1f0e69ef103"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xcc2c15a7fec4958c71a5555807dff588d8517dd8"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xb5761aa4d4f88eeab67a90955a15017181975565"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x6a9a05415f78eef19de272e0677f42c954ddecb4"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0x29aa2a311c184df32d1d73d30eb3b54ff31583c8"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xc71a3d3a5a1ecc158384b59ad5e971d2c0a9dbcd"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xdff48a525411d37355d7292c2f5706055507e601"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x24a52ece417147f1a7ad7f11ad572900ab8047b6"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x6e02a9cbca1c9678a58541256ad532ee888ae3aa"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0x327eb8aa24e09be3fb7af5844657870d513687c5"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0x09f928cb05359507866b97451e71d55fbdb43a3c"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xc2b6aabfec71ff4a578b873eb2718a31bc4c4212"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xddd3ee8adc6fba23b5323e667a5a817d33bed8b7"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0xfd58f0bd175d6695c4faaea04a5db85a149bb479"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0xbd46378fab9c17f50fd45c14980155dba9c814c5"
+        },
+        {
+          "name": "Ethereum Mini Trust",
+          "address": "0xd616e186c4db1b46a47b5cbf368c331dd2fb709e"
+        },
+        {
+          "name": "Coinbase Prime Deposit",
+          "address": "0xd20b4ea864053e746664b9dbd6d8333100709760"
+        },
+        {
+          "name": "Smart Contract Platform Ex-Ethereum Fund",
+          "address": "0xaacb6224e5136d5a564276a30e1e9292d1cfdbd3"
+        },
+        {
+          "name": "Decentralized Finance Fund",
+          "address": "0x367fbb0fb1517be55ba57441eee947b0ee585676"
+        },
+        {
+          "name": "Coinbase Prime Deposit",
+          "address": "0x4030219100534ac19e1309c47cb5d4d3dbea2751"
+        },
+        {
+          "name": "Ethereum Trust",
+          "address": "0x3846aed50a2ed5959a4ea897c32c97fc70881561"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Smart Contract Platform Ex-Ethereum Fund",
+          "address": "0x4a71c21c12e91eaf29600cde2486184b42444e2b"
+        },
+        {
+          "name": "Decentralized Finance Fund",
+          "address": "0xddd399fc8f4ad84e4151fdc2fb4be18f09bc87a3"
+        },
+        {
+          "name": "Smart Contract Platform Ex-Ethereum Fund",
+          "address": "0x3b8b1d73905e5411fd723c768e16986318d096d8"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://grayscale.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

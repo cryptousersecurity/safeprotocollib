@@ -1,0 +1,25 @@
+{
+  "name": "Alita Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "AlitaSwap Pool",
+          "address": "0xf7556e0e0d9ec4cd93ffe73a748e43e4635956cc"
+        },
+        {
+          "name": "AlitaSwap Pool",
+          "address": "0x340ea99b13ac757dbdc828990b3b044d2e3d67b8"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.alita.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

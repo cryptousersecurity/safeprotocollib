@@ -1,0 +1,21 @@
+{
+  "name": "NFTX",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Marketplace Zap",
+          "address": "0x0fc584529a2aefa997697fafacba5831fac0c22d"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://nftx.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

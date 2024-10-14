@@ -1,0 +1,21 @@
+{
+  "name": "Adamant Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "HopStrategy",
+          "address": "0x805ccdd2100c6d0ce8fd970c78640c0474d0bb86"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://adamant.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

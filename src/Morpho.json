@@ -1,0 +1,33 @@
+{
+  "name": "Morpho",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "EthereumBundlerV2",
+          "address": "0x4095f064b8d3c3548a3bebfd0bbfd04750e30077"
+        },
+        {
+          "name": "AaveV2 Optimizer",
+          "address": "0x777777c9898d384f785ee44acfe945efdff5f3e0"
+        },
+        {
+          "name": "Morpho Blue",
+          "address": "0xbbbbbbbbbb9cc5e90e3b3af64bdaf62c37eeffcb"
+        },
+        {
+          "name": "Morpho AaveV3-ETH Optimizer",
+          "address": "0x33333aea097c193e66081e930c33020272b33333"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://morpho.xyz",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

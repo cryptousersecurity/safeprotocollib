@@ -1,0 +1,52 @@
+{
+  "name": "OpenOcean",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Exchange V2",
+          "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "OpenOceanExchangeProxy",
+          "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "OpenOceanExchange (Proxy)",
+          "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+        },
+        {
+          "name": "Registry",
+          "address": "0x43c47b76d24ad1f73f5ab12442a016397a5ae9f6"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Exchange V2",
+          "address": "0x6352a56caadc4f1e25cd6c75970fa768a3304e64"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://openocean.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Metavault",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x1c5c63c9806423449594fca9ec8abfc4b1dcdedd"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://metavault.trade/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "name": "Synapse Protocol",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Swap Flash Loan",
+          "address": "0x6223bd82010e2fb69f329933de20897e7a4c225f"
+        },
+        {
+          "name": "Router",
+          "address": "0x7e7a0e201fd38d3adaa9523da6c109a07118c96a"
+        },
+        {
+          "name": "Swap",
+          "address": "0xa9e90579eb086bcda910dd94041ffe041fb4ac89"
+        },
+        {
+          "name": "Bridge",
+          "address": "0xf07d1c752fab503e47fef309bf14fbdd3e867089"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "SynapseCCTP (Proxy)",
+          "address": "0x12715a66773bd9c54534a01abf01d05f6b4bd35e"
+        },
+        {
+          "name": "Stableswap Pool",
+          "address": "0x1116898dda4015ed8ddefb84b6e8bc24528af2d8"
+        },
+        {
+          "name": "SynapseRouter",
+          "address": "0x7e7a0e201fd38d3adaa9523da6c109a07118c96a"
+        },
+        {
+          "name": "Bridge",
+          "address": "0x2796317b0ff8538f253012862c06787adfb8ceb6"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "SynapseCCTP (Proxy)",
+          "address": "0x12715a66773bd9c54534a01abf01d05f6b4bd35e"
+        },
+        {
+          "name": "Mini Chef",
+          "address": "0x3a01521f8e7f012eb37eaaf1cb9490a5d9e18249"
+        },
+        {
+          "name": "Swap Flash Loan",
+          "address": "0xed2a7edd7413021d440b09d654f3b87712abab66"
+        },
+        {
+          "name": "SynapseRouter",
+          "address": "0x7e7a0e201fd38d3adaa9523da6c109a07118c96a"
+        },
+        {
+          "name": "Swap Flash Loan",
+          "address": "0xa196a03653f6cc5ca0282a8bd7ec60e93f620afc"
+        },
+        {
+          "name": "AaveSwapWrapper",
+          "address": "0xdd60483ace9b215a7c019a44be2f22aa9982652e"
+        },
+        {
+          "name": "Bridge",
+          "address": "0xc05e61d0e7a63d27546389b7ad62fdff5a91aace"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Bridge",
+          "address": "0x6f4e8eba4d337f874ab57478acc2cb5bacdc19c9"
+        },
+        {
+          "name": "MiniChef",
+          "address": "0x73186f2cf2493f20836b17b21ae79fc12934e207"
+        },
+        {
+          "name": "Swap Flash Loan",
+          "address": "0x9dd329f5411466d9e0c488ff72519ca9fef0cb40"
+        },
+        {
+          "name": "Swap Flash Loan",
+          "address": "0x0db3fe3b770c95a0b99d1ed6f2627933466c0dd8"
+        },
+        {
+          "name": "SynapseCCTP (Proxy)",
+          "address": "0x12715a66773bd9c54534a01abf01d05f6b4bd35e"
+        },
+        {
+          "name": "SwapEthWrapper",
+          "address": "0x1c3fe783a7c06bfabd124f2708f5cc51fa42e102"
+        },
+        {
+          "name": "SynapseRouter",
+          "address": "0x7e7a0e201fd38d3adaa9523da6c109a07118c96a"
+        },
+        {
+          "name": "Swap Flash Loan",
+          "address": "0xa067668661c84476afcdc6fa5d758c4c01c34352"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Bridge",
+          "address": "0x8f5bbb2bb8c2ee94639e55d5f41de9b4839c1280"
+        },
+        {
+          "name": "SynapseRouter",
+          "address": "0x7e7a0e201fd38d3adaa9523da6c109a07118c96a"
+        },
+        {
+          "name": "Bridge Zap",
+          "address": "0x1c6ae197ff4bf7ba96c66c5fd64cb22450af9cc8"
+        },
+        {
+          "name": "SynapseCCTP (Proxy)",
+          "address": "0x12715a66773bd9c54534a01abf01d05f6b4bd35e"
+        },
+        {
+          "name": "MiniChef",
+          "address": "0x7875af1a6878bda1c129a4e2356a3fd040418be5"
+        },
+        {
+          "name": "Swap Flash Loan",
+          "address": "0x85fcd7dd0a1e1a9fcd5fd886ed522de8221c3ee5"
+        },
+        {
+          "name": "Swap Flash Loan",
+          "address": "0x3f52e42783064beba9c1cfcd2e130d156264ca77"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Mini Chef",
+          "address": "0x8f5bbb2bb8c2ee94639e55d5f41de9b4839c1280"
+        },
+        {
+          "name": "Swap Flash Loan",
+          "address": "0x28ec0b36f0819ecb5005cab836f4ed5a2eca4d13"
+        },
+        {
+          "name": "Bridge",
+          "address": "0xd123f70ae324d34a9e76b67a27bf77593ba8749f"
+        },
+        {
+          "name": "SynapseRouter",
+          "address": "0x7e7a0e201fd38d3adaa9523da6c109a07118c96a"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "MiniChef V2",
+          "address": "0xe8c610fcb63a4974f02da52f0b4523937012aaa0"
+        },
+        {
+          "name": "Swap Flash Loan",
+          "address": "0xf44938b0125a6662f9536281ad2cd6c499f22004"
+        },
+        {
+          "name": "SynapseCCTP (Proxy)",
+          "address": "0x12715a66773bd9c54534a01abf01d05f6b4bd35e"
+        },
+        {
+          "name": "SynapseRouter",
+          "address": "0x7e7a0e201fd38d3adaa9523da6c109a07118c96a"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://synapseprotocol.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

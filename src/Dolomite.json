@@ -1,0 +1,25 @@
+{
+  "name": "Dolomite",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "OdosAggregatorTrader",
+          "address": "0x2cdbb25b4aca98a55f6b1a0f67d9f43455e67f3c"
+        },
+        {
+          "name": "DolomiteMargin",
+          "address": "0x6bd780e7fdf01d77e4d475c821f1e7ae05409072"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://dolomite.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "name": "Connext",
+  "description": null,
+  "chains": [
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Unwrapper",
+          "address": "0x7fe09d217d646a6213e51b237670bc326188cb93"
+        },
+        {
+          "name": "Bridge",
+          "address": "0x8f7492de823025b4cfaab1d34c58963f2af5deda"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Unwrapper",
+          "address": "0x01ede4fdf8cf7ef9942a935305c3145f8daa180a"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Connext Diamond",
+          "address": "0xcd401c10afa37d641d2f594852da94c700e4f2ce"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Unwrapper",
+          "address": "0x429b9eb01362b2799131efcc44319689b662999d"
+        },
+        {
+          "name": "ConnextDiamond",
+          "address": "0xee9dec2712cce65174b561151701bf54b99c24c8"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "ConnextDiamond",
+          "address": "0xa05ef29e9ac8c75c530c2795fa6a800e188de0a9"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Unwrapper",
+          "address": "0x268682b7d9992ae7e2ca4a8bcc9d9655fb06056f"
+        },
+        {
+          "name": "ETH Bridge",
+          "address": "0x7e4490e97c8243d844719f26a0b47fd5a59fdc2e"
+        },
+        {
+          "name": "Bridge",
+          "address": "0x8898b472c54c31894e3b9bb83cea802a5d0e63c6"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "ConnextDiamond",
+          "address": "0x11984dc4465481512eb5b777e44061c158cf2259"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://connext.network",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

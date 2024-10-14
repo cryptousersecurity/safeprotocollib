@@ -1,0 +1,104 @@
+{
+  "name": "Safe",
+  "description": "Safe is an intelligent wallet powered by smart contracts that mandates a collective consensus for transaction approval, ensuring enhanced security measures.",
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "SafeDAO and GnosisDAO Joint Treasury",
+          "address": "0xd28b432f06cb64692379758b88b5fcdfc4f56922"
+        },
+        {
+          "name": "Fundraise",
+          "address": "0xa8ed580ebc589c0f2b375722ed327452ba481ac6"
+        },
+        {
+          "name": "SAFE Vesting Pool",
+          "address": "0x96b71e2551915d98d22c448b040a3bc4801ea4ff"
+        },
+        {
+          "name": "GnosisSafe",
+          "address": "0xd9db270c1b5e3bd161e8c8503c55ceabee709552"
+        },
+        {
+          "name": "Mastercopy 1.1.1",
+          "address": "0x34cfac646f301356faa8b21e94227e3583fe3f5f"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x70608b1809c93ec57160c266a38322144e9a9d28"
+        },
+        {
+          "name": "Safe Ecosystem Airdrop",
+          "address": "0x29067f28306419923bcff96e37f95e0f58abdbbe"
+        },
+        {
+          "name": "SAFE Token",
+          "address": "0x5afe3855358e112b5647b952709e6165e1c1eeee"
+        },
+        {
+          "name": "SAFE Foundation Treasury",
+          "address": "0x1d4f25bc16b68c50b78e1040bc430a8097fd6f45"
+        },
+        {
+          "name": "Multi Send Call Only 1.3.0",
+          "address": "0x40a2accbd92bca938b02010e17a5b8929b49130d"
+        },
+        {
+          "name": "Safe User Airdrop",
+          "address": "0xa0b937d5c8e32a80e3a8ed4227cd020221544ee6"
+        },
+        {
+          "name": "Safe User Airdrop Sep5",
+          "address": "0xc0fde70a65c7569fe919be57492228dee8cdb585"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "GnosisSafeL2",
+          "address": "0x3e5c63644e683549055b9be8653de26e0b4cd36e"
+        },
+        {
+          "name": "MultiSendCallOnly",
+          "address": "0x40a2accbd92bca938b02010e17a5b8929b49130d"
+        },
+        {
+          "name": "Proxy Factory 1.3.0",
+          "address": "0xa6b71e26c5e0845f74c812102ca7114b6a896ab2"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "OpenSea User",
+          "address": "0x6484a2514aee516ddac6f67dd2322f23e0a4a7d6"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Mastercopy 1.1.1",
+          "address": "0x34cfac646f301356faa8b21e94227e3583fe3f5f"
+        },
+        {
+          "name": "Deployer",
+          "address": "0x1aa7451dd11b8cb16ac089ed7fe05efa00100a6a"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://safe.global/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "MagicianMV",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "MBT LP",
+          "address": "0x3425ab3a6a92aed14c665fe8c9c206386540fc14"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://magicianmv.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

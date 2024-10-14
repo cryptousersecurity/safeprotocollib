@@ -1,0 +1,21 @@
+{
+  "name": "Kukis Global",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Lido Node Operator",
+          "address": "0x8845d7f2bbfe82249c3b95e378a6ed039dd953f5"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.kukis-global.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

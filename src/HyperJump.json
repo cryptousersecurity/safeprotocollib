@@ -1,0 +1,21 @@
+{
+  "name": "HyperJump",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Thugswap Street LP",
+          "address": "0xd46e7f33f8788f87d6017074dc4e4d781d3df91e"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.hyperjump.app/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "name": "1inch",
+  "description": "D69  1inch revolutionizes decentralized exchanges by offering a cutting-edge DEX aggregator that empowers users with seamless and adaptable swaps and trades.",
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Aggregation Router V5",
+          "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+        },
+        {
+          "name": "AggregationRouterV6",
+          "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+        },
+        {
+          "name": "Multisig",
+          "address": "0x5e89f8d81c74e311458277ea1be3d3247c7cd7d1"
+        },
+        {
+          "name": "Aggregation Router V4",
+          "address": "0x1111111254fb6c44bac0bed2854e76f90643097d"
+        },
+        {
+          "name": "V3 Pool",
+          "address": "0xfb5edaeb742fc0fa8481abcd28afc9b269448cff"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Aggregation Router V5",
+          "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+        },
+        {
+          "name": "Aggregation Router V4",
+          "address": "0x1111111254fb6c44bac0bed2854e76f90643097d"
+        },
+        {
+          "name": "AggregationRouterV6",
+          "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+        },
+        {
+          "name": "Weth Unwrapper",
+          "address": "0x0eee00137d807a461702e9e0640c599de663e7e4"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "AggregationRouterV6",
+          "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+        },
+        {
+          "name": "Resolver",
+          "address": "0xad3b67bca8935cb510c8d18bd45f0b94f54a968f"
+        },
+        {
+          "name": "Aggregation Router V5",
+          "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "AggregationRouterV6",
+          "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+        },
+        {
+          "name": "Aggregation Router V5",
+          "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Aggregation Router V5",
+          "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+        },
+        {
+          "name": "Resolver",
+          "address": "0xad3b67bca8935cb510c8d18bd45f0b94f54a968f"
+        },
+        {
+          "name": "AggregationRouterV6",
+          "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+        },
+        {
+          "name": "Aggregation Router V4",
+          "address": "0x1111111254fb6c44bac0bed2854e76f90643097d"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "AggregationRouterV5",
+          "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+        },
+        {
+          "name": "AggregationRouterV6",
+          "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Aggregation Router V5",
+          "address": "0x1111111254eeb25477b68fb85ed929f73a960582"
+        },
+        {
+          "name": "Resolver",
+          "address": "0xad3b67bca8935cb510c8d18bd45f0b94f54a968f"
+        },
+        {
+          "name": "AggregationRouterV6",
+          "address": "0x111111125421ca6dc452d289314280a0f8842a65"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://1inch.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

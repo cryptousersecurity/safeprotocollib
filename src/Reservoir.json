@@ -1,0 +1,55 @@
+{
+  "name": "Reservoir",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "SeaportV16Module",
+          "address": "0xd8f24f5f0382e197c1e87ad82b357209383470cf"
+        },
+        {
+          "name": "NFTXModule",
+          "address": "0xfcd5b37fb64c06646c390d0376e8aad9bf5e1163"
+        },
+        {
+          "name": "ReservoirV6_0_0",
+          "address": "0x178a86d36d89c7fdebea90b739605da7b131ff6a"
+        },
+        {
+          "name": "LooksRareV2Module",
+          "address": "0x9561e33b68d7c21e4010f027d751d417127cc5b5"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "SeaportV15Module",
+          "address": "0xc41f114b586659045263fb74079a66e79f352f5a"
+        },
+        {
+          "name": "SeaportV16Module",
+          "address": "0xd8f24f5f0382e197c1e87ad82b357209383470cf"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "SeaportV16Module",
+          "address": "0xd8f24f5f0382e197c1e87ad82b357209383470cf"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://reservoir.tools/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

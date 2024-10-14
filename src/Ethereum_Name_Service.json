@@ -1,0 +1,21 @@
+{
+  "name": "Ethereum Name Service",
+  "description": "Introducing a groundbreaking solution for decentralized naming across various platforms, including wallets, websites, and beyond.",
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x690f0581ececcf8389c223170778cd9d029606f2"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://ens.domains",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

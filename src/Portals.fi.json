@@ -1,0 +1,48 @@
+{
+  "name": "Portals.fi",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "PortalsMulticall",
+          "address": "0x6eae941d74b4541965a46c5caee0f52217eeb913"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "PortalsMulticall",
+          "address": "0xac8a335fb32064b21b123abe8a2247a898a580f6"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "PortalsMulticall",
+          "address": "0x89c30e3af15d210736b2918fbd655c9842fd74f7"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "PortalsMulticall",
+          "address": "0x6eae941d74b4541965a46c5caee0f52217eeb913"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://portals.fi/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

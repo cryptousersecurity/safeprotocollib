@@ -1,0 +1,42 @@
+{
+  "name": "Wault Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0xf7bc741b2086ca344e78225d06224ffdcd86d110"
+        },
+        {
+          "name": "Pool",
+          "address": "0x679b8ab80f298bf802fb294137765c6386d43dca"
+        },
+        {
+          "name": "Pool",
+          "address": "0x8312a29a91d9fac706f4d2adeb1fa4540fad1673"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "WaultSwap LP",
+          "address": "0x4aea71115dab37e79c0005a042d6c3985255f3cb"
+        },
+        {
+          "name": "WaultSwap LP",
+          "address": "0xd6196036cb72bb921e013189cc594fec29453c2e"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://wault.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

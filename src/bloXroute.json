@@ -1,0 +1,21 @@
+{
+  "name": "bloXroute",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "bloxroute-maxprofit.eth",
+          "address": "0xf2f5c73fa04406b1995e397b55c24ab1f3ea726c"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bloxroute.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Silo Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Silo",
+          "address": "0xa8897b4552c075e884bdb8e7b704eb10db29bf0d"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://silo.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

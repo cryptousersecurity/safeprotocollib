@@ -1,0 +1,52 @@
+{
+  "name": "zkLink Nova",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "LineaL1Gateway (Proxy)",
+          "address": "0x803460416c2682ac54fccf03ef77b10a12f2809b"
+        },
+        {
+          "name": "ZkSyncL1Gateway (Proxy)",
+          "address": "0xecd189e0f390826e137496a4e4a23acf76c942ab"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "LineaL2Gateway (Proxy)",
+          "address": "0x7b5780d6df85a7df96a3e1a019639a1dbde937db"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "OptimismL2Gateway (Proxy)",
+          "address": "0xad5d729291c0d6a299e370814ca6ce1c8c25b51c"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "ArbitrumL2Gateway (Proxy)",
+          "address": "0x7bd79ded935b542fb22c74305a4d2a293c18483a"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://zk.link/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

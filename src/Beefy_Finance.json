@@ -1,0 +1,150 @@
+{
+  "name": "Beefy Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Vault V7",
+          "address": "0xac7711f496d77d6a7466411f30df47c44904249a"
+        },
+        {
+          "name": "Vault V7",
+          "address": "0x3765fe3f81dc13a22037eac732686fdbaf2f319b"
+        },
+        {
+          "name": "Vault V7",
+          "address": "0xd10a6d98868122fea0f629bf1468530ed8efb8d8"
+        },
+        {
+          "name": "OpenSea User",
+          "address": "0xfb41cbf2ce16e8f626013a2f465521d27ba9a610"
+        },
+        {
+          "name": "StrategyPassiveManagerUniswap (Proxy)",
+          "address": "0xf6020cd21abd22d9f16ecbbc30b4c87419f8b5ee"
+        },
+        {
+          "name": "BeefyZapRouter",
+          "address": "0x6f19da51d488926c007b9ebaa5968291a2ec6a63"
+        },
+        {
+          "name": "Vault V7",
+          "address": "0x05e07d7ef7f4a1571e74bf6fa131d513bce44f01"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "StrategyHopCamelot",
+          "address": "0x94af6067b6ad214b473382bf094bf27b4424003b"
+        },
+        {
+          "name": "StrategyPassiveManagerUniswap (Proxy)",
+          "address": "0x25952d0306213da375cc1503fa75d41184e1471a"
+        },
+        {
+          "name": "StrategyPassiveManagerPancake (Proxy)",
+          "address": "0xf46640de8a703bda928e275f2d00d8010205cf6e"
+        },
+        {
+          "name": "BeefySwapperTreasury",
+          "address": "0x8ccf8606ccf0aff9937b68e0297967e257eb148b"
+        },
+        {
+          "name": "StrategyHopCamelot",
+          "address": "0x7842bcf0b4ddfa5cddc92b6fa02622388eb9f999"
+        },
+        {
+          "name": "BeefyZapRouter",
+          "address": "0xf49f7bb6f4f50d272a0914a671895c4384696e5a"
+        },
+        {
+          "name": "SimpleSwapper",
+          "address": "0x62fc95fba4b802ac13017aaa65ca62ffce6df0ea"
+        },
+        {
+          "name": "StrategyPassiveManagerUniswap (Proxy)",
+          "address": "0x5d242e6143a85a0ee05211323f3c61b7b989e606"
+        },
+        {
+          "name": "StrategyPassiveManagerUniswap (Proxy)",
+          "address": "0xe80b9b9473d097a43bcf892d0d8d845251d55c52"
+        },
+        {
+          "name": "StrategyCurveConvexL2",
+          "address": "0xc8377df7ea57d614d327e76ad056e4f21ed6b636"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0xc9c61194682a3a5f56bf9cd5b59ee63028ab6041"
+        },
+        {
+          "name": "BeefyZapRouter",
+          "address": "0x5cc9400ffb4da168cf271e912f589462c3a00d1f"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "BeefyZapRouter",
+          "address": "0xe82343a116d2179f197111d92f9b53611b43c01c"
+        },
+        {
+          "name": "Strategy Hop Solidly Uni V3",
+          "address": "0x3116a146dc16ea2d0926c430d07d2a185043236b"
+        },
+        {
+          "name": "AuraSrcSwapper",
+          "address": "0x98cbcd43f28bc0a7bf058191dbe3ad3bd9b49fe6"
+        },
+        {
+          "name": "Strategy Hop Solidly",
+          "address": "0xe83b0bef56fff2fdf369e55a5d9e5123cf7d72b0"
+        },
+        {
+          "name": "Strategy Hop Solidly",
+          "address": "0xfb9b6d7642f3549e04f11770bd2811f494e78f48"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "BeefyZapRouter",
+          "address": "0xe90053b8136f18206fcf4f48e0c3b6aed9b1ad71"
+        },
+        {
+          "name": "StrategyStargatePoly",
+          "address": "0xeafd412214283907c8d20d294228ae26b8a4759b"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "StrategyAaveSupplyOnlyNative",
+          "address": "0x5a712ef5cf210b97ea20e54849409cb527d5f968"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://beefy.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

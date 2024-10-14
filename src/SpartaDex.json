@@ -1,0 +1,25 @@
+{
+  "name": "SpartaDex",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0x5f6b6c3eec0126a4f3c57d68ca491ac95b149556"
+        },
+        {
+          "name": "Pool",
+          "address": "0x2af377fc46be2e14ec770edcd026679b4030afcd"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://spartadex.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

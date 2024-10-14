@@ -1,0 +1,30 @@
+{
+  "name": "Bitstamp",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "WalletSimple (BitGo)",
+          "address": "0x48ec5560bfd59b95859965cce48cc244cfdf6b0c"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x162af7b6e0303bbddc5044b8bece12012fbcbe20"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bitstamp.net",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

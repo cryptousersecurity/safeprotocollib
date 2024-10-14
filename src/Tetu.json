@@ -1,0 +1,21 @@
+{
+  "name": "Tetu",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "MultiSig",
+          "address": "0x4be13bf2b983c31414b358c634bbb61230c332a7"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://tetu.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

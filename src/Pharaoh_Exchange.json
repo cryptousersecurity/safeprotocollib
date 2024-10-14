@@ -1,0 +1,29 @@
+{
+  "name": "Pharaoh Exchange",
+  "description": null,
+  "chains": [
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Volatile Pair - PHAR/WAVAX (vAMM-PHAR/WAVAX)",
+          "address": "0xaaa3f202babcf7d6493afbc0caee03af9c64f984"
+        },
+        {
+          "name": "Pool",
+          "address": "0x66a5de11d1e1f20da825d974453f099c4bb13647"
+        },
+        {
+          "name": "Pool",
+          "address": "0xa71ba3939cd6c50c674866e321bc6bba1c977dd0"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://pharaoh.exchange",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

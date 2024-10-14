@@ -1,0 +1,25 @@
+{
+  "name": "Mantis Swap",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Mantis USDC LP (LP-USDC)",
+          "address": "0xe03aec0d08b3158350a9ab99f6cea7ba9513b889"
+        },
+        {
+          "name": "Mantis USDT LP (LP-USDT)",
+          "address": "0xe8a1ead2f4c454e319b76fa3325b754c47ce1820"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://mantissa.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Just Money",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "JustMoney LP Shares (JMS)",
+          "address": "0xbd6c583724985042046b49d721d70b2e1e53f9df"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://just.money",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

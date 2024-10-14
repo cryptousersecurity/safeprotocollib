@@ -1,0 +1,21 @@
+{
+  "name": "Prysmatic Labs",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x3bf3a9260fe18a1239767ac6f0f0bc7c1e5d1cbc"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://prysmaticlabs.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

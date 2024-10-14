@@ -1,0 +1,96 @@
+{
+  "name": "LiFi",
+  "description": null,
+  "chains": [
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "LiFiDiamond",
+          "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "LiFiDiamond",
+          "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+        },
+        {
+          "name": "Executor",
+          "address": "0x2dfadab8266483bed9fd9a292ce56596a2d1378d"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "LiFiDiamond",
+          "address": "0xde1e598b81620773454588b85d6b5d4eec32573e"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Executor",
+          "address": "0x2dfadab8266483bed9fd9a292ce56596a2d1378d"
+        },
+        {
+          "name": "Diamond",
+          "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "LiFi Diamond",
+          "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "LiFiDiamond",
+          "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+        },
+        {
+          "name": "Executor",
+          "address": "0x2dfadab8266483bed9fd9a292ce56596a2d1378d"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "LiFiDiamond",
+          "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "LiFi Diamond",
+          "address": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://li.fi",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

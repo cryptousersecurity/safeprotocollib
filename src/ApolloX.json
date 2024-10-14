@@ -1,0 +1,21 @@
+{
+  "name": "ApolloX",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Stake Reward Facet",
+          "address": "0x1b6f2d3844c6ae7d56ceb3c3643b9060ba28feb0"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.apollox.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

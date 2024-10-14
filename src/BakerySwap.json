@@ -1,0 +1,25 @@
+{
+  "name": "BakerySwap",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0x9ec271c041a18aa7bef070a1f196eea1d06ab7cb"
+        },
+        {
+          "name": "Pool",
+          "address": "0xa564288e789c297a74ec9bbb1e5f0619c96ca746"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.bakeryswap.org/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

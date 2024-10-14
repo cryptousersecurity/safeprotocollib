@@ -1,0 +1,69 @@
+{
+  "name": "Bitfinex",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "MultiSig",
+          "address": "0xc6cde7c39eb2f0f0095f41570af89efc2c1ea828"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x742d35cc6634c0532925a3b844bc454e4438f44e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x876eabf441b2ee5b5b0554fd502a8e0600950cfa"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x77134cbc06cb00b66f4c7e623d5fdbf6777635ec"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x77134cbc06cb00b66f4c7e623d5fdbf6777635ec"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x77134cbc06cb00b66f4c7e623d5fdbf6777635ec"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x77134cbc06cb00b66f4c7e623d5fdbf6777635ec"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x77134cbc06cb00b66f4c7e623d5fdbf6777635ec"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bitfinex.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

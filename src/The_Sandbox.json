@@ -1,0 +1,21 @@
+{
+  "name": "The Sandbox",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "TheSandboxGame on OpenSea",
+          "address": "0x7a9fe22691c811ea339d9b73150e6911a5343dca"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://sandbox.game",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

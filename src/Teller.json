@@ -1,0 +1,21 @@
+{
+  "name": "Teller",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x95143890162bd671d77ae9b771881a1cb76c29a4"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://teller.org/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

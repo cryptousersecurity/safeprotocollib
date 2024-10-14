@@ -1,0 +1,21 @@
+{
+  "name": "Super Trump",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Super Trump (STRUMP)",
+          "address": "0x7039cd6d7966672f194e8139074c3d5c4e6dcf65"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://supertrumpcoin.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

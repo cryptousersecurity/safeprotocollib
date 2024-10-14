@@ -1,0 +1,21 @@
+{
+  "name": "SongCamp",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x48c1867617db920eb54d8a3aa094837785490770"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://song.camp/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

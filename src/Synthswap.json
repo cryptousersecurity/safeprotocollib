@@ -1,0 +1,21 @@
+{
+  "name": "Synthswap",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "AlgebraPool",
+          "address": "0x1db0d0cb84914d09a92ba11d122bab732ac35fe0"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.synthswap.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

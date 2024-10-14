@@ -1,0 +1,39 @@
+{
+  "name": "Stake.com",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x019d0706d65c4768ec8081ed7ce41f59eef9b86c"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xfa500178de024bf43cfa69b7e636a28ab68f2741"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x974caa59e49682cda0ad2bbe82983419a2ecc400"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.stake.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

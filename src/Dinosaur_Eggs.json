@@ -1,0 +1,25 @@
+{
+  "name": "Dinosaur Eggs",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "DSG LP",
+          "address": "0x5c83373f2da4e19a0bae4bcd3b2ffed3df954d1a"
+        },
+        {
+          "name": "DSG LP",
+          "address": "0x53edacb3592f6b4fe18ce3c0321bca64ceea326d"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://dsgmetaverse.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

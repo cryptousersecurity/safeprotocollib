@@ -1,0 +1,76 @@
+{
+  "name": "BitMart",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x3ab28ecedea6cdb6feed398e93ae8c7b316b1182"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x6d0d19bdddc5ed1dd501430c9621dd37ebd9062d"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x2982bb64bcd07ac3315c32cb2bb7e5e8a2de7d67"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7563758243a262e96880f178aee7817dcf47ab0f"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x5c7bed3cca42e4562877ed88b9aa0f5898ed59b0"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x2982bb64bcd07ac3315c32cb2bb7e5e8a2de7d67"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xe9ee9f2857b559c67dd03576a1c74589a6af6197"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xb4af4d0b9bd38c9f2fec9778e48667912f778f01"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x328130164d0f2b9d7a52edc73b3632e713ff0ec6"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7563758243a262e96880f178aee7817dcf47ab0f"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xeacb50a28630a4c44a884158ee85cbc10d2b3f10"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bitmart.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

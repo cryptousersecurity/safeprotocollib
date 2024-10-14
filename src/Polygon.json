@@ -1,0 +1,54 @@
+{
+  "name": "Polygon",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Airdrop",
+          "address": "0x92c5fda94584ba09bbc281f982d7a47906cae3e8"
+        },
+        {
+          "name": "WMATIC Token",
+          "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "PoS Staking Contract",
+          "address": "0x5e3ef299fddf15eaa0432e6e66473ace8c13d908"
+        },
+        {
+          "name": "Bridge",
+          "address": "0xa0c68c638235ee32657e8f720a23cec1bfc77c77"
+        },
+        {
+          "name": "ERC20 Bridge",
+          "address": "0x40ec5b33f54e0e8a33a975908c5ba1c14e5bbbdf"
+        },
+        {
+          "name": "Plasma Bridge",
+          "address": "0x401f6c983ea34274ec46f84d70b31c151321188b"
+        },
+        {
+          "name": "Ether Bridge",
+          "address": "0x8484ef722627bf18ca5ae6bcf031c23e6e922b30"
+        },
+        {
+          "name": "zkEVM Bridge",
+          "address": "0x2a3dd3eb832af982ec71669e178424b10dca2ede"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://polygon.technology",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

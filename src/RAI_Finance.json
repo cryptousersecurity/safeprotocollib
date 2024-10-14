@@ -1,0 +1,21 @@
+{
+  "name": "RAI Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Soswap Pool",
+          "address": "0x7a092a3dfde3ce31eab3ea76814949eafb44ab07"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://rai.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

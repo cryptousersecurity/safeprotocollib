@@ -1,0 +1,21 @@
+{
+  "name": "SuperRare",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x860a80d33e85e97888f1f0c75c6e5bbd60b48da9"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://superrare.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

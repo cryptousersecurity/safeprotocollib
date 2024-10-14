@@ -1,0 +1,25 @@
+{
+  "name": "Ichi",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0xb40ffcba6fb9cf697abe9f6e91019f4459e0343d"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x359078ea6154d03c21b311bfc83909e152c36000"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://ichi.org/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

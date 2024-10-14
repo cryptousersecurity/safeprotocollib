@@ -1,0 +1,51 @@
+{
+  "name": "Solidly",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "SolidlyV3Pool",
+          "address": "0x7a8d53466144e1f75de2e70ec908e18f771b49fb"
+        },
+        {
+          "name": "SolidlyV3Pool",
+          "address": "0x551a0e3d267bea87048f08cc94cc6035ad99221b"
+        },
+        {
+          "name": "SolidlyV3Pool",
+          "address": "0xf0deaf7ab32fddfd3bd1d47187cc09683bb709f6"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "SolidlyV3Pool",
+          "address": "0xadf56f4966f965d1759ecd3d63028d610e773817"
+        },
+        {
+          "name": "SolidlyV3Pool",
+          "address": "0x46b66c5ed6789c600df7d3665a0390e4b8696c44"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "USDC",
+          "address": "0x831bf48183b999fde45294b14b55199072f0801b"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://solidly.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

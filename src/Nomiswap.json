@@ -1,0 +1,45 @@
+{
+  "name": "Nomiswap",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0xe324aa41eefd912421c601626a6d5f85cc346b6a"
+        },
+        {
+          "name": "Pool",
+          "address": "0x36451a95d5a2f0c25530331f382e4d432caecb17"
+        },
+        {
+          "name": "Pool",
+          "address": "0x5c551ca8f00e09888f0fd57c7f91cb420ad29999"
+        },
+        {
+          "name": "NomiswapRouter",
+          "address": "0xd654953d746f0b114d1f85332dc43446ac79413d"
+        },
+        {
+          "name": "Pool",
+          "address": "0xe2bbf54dc0ccdd0cf6270f2af2f62ff79903bb27"
+        },
+        {
+          "name": "Pool",
+          "address": "0x33edc4c558c4badfe050d79f565632cf910573b6"
+        },
+        {
+          "name": "Pool",
+          "address": "0x13de257cb86a08753df938b6ad30d1a456a863e6"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://nomiswap.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

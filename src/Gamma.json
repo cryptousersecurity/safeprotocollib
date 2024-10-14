@@ -1,0 +1,21 @@
+{
+  "name": "Gamma",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Hypervisor",
+          "address": "0xdab1da56965b1aaabe38774e8b74c3ade8fc439e"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.gamma.xyz/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

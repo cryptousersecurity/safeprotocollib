@@ -1,0 +1,74 @@
+{
+  "name": "Angle Protocol",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "LayerZero Bridge agEUR (LZ-agEUR)",
+          "address": "0x16cd38b1b54e7abf307cb2697e2d9321e843d5aa"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "LayerZero Bridge agEUR (LZ-agEUR)",
+          "address": "0xe9f183fc656656f1f17af1f2b0df79b8ff9ad8ed"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "ANGLE Treasury",
+          "address": "0xe02f8e39b8cfa7d3b62307e46077669010883459"
+        },
+        {
+          "name": "Guardian MultiSig",
+          "address": "0x0c2553e4b9dfa9f83b1a6d3eab96c4baab42d430"
+        },
+        {
+          "name": "Governor MultiSig",
+          "address": "0xdc4e6dfe07efca50a197df15d9200883ef4eb1c8"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "LayerZero Bridge agEUR (LZ-agEUR)",
+          "address": "0x0c1ebbb61374da1a8c57cb6681bf27178360d36f"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "LayerZero Bridge agEUR (LZ-agEUR)",
+          "address": "0x2859a4ebcb58c8dd5cac1419c4f63a071b642b20"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "LayerZero Bridge agUSD (LZ-agUSD)",
+          "address": "0x07c89cc845d046aead377dddc61114aa9d920ac0"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://angle.money",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

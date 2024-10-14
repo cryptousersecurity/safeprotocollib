@@ -1,0 +1,52 @@
+{
+  "name": "Tarot Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Tarot Vault Token (vTAROT)",
+          "address": "0xb556ee2761f5d2887b8f35a7dda367abd20503bf"
+        },
+        {
+          "name": "Tarot (TAROT)",
+          "address": "0xf544251d25f3d243a36b07e7e7962a678f952691"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Tarot (TAROT)",
+          "address": "0x13278cd824d33a7adb9f0a9a84aca7c0d2deebf7"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Tarot (TAROT)",
+          "address": "0x1f514a61bcde34f94bc39731235690ab9da737f7"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Tarot (TAROT)",
+          "address": "0x982e609643794a31a07f5c5b142dd3a9cf0690be"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.tarot.to",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

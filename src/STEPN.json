@@ -1,0 +1,21 @@
+{
+  "name": "STEPN",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "DooarSwap Router",
+          "address": "0x53e0e51b5ed9202110d7ecd637a4581db8b9879f"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://stepn.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

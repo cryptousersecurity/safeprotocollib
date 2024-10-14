@@ -1,0 +1,29 @@
+{
+  "name": "Bitvavo",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xab782bc7d4a2b306825de5a7730034f8f63ee1bc"
+        },
+        {
+          "name": "Cold Wallet",
+          "address": "0xc1082d75e4a4f1e8dd425b1d541904e758a3a3e4"
+        },
+        {
+          "name": "Cold Wallet",
+          "address": "0x8441c326b28098a5a9c8a594989264d3c08a0724"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bitvavo.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

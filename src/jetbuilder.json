@@ -1,0 +1,21 @@
+{
+  "name": "jetbuilder",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "jetbldr.eth",
+          "address": "0x88c6c46ebf353a52bdbab708c23d0c81daa8134a"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://jetbldr.xyz/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

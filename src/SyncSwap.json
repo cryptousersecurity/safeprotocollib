@@ -1,0 +1,21 @@
+{
+  "name": "SyncSwap",
+  "description": null,
+  "chains": [
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "Vault",
+          "address": "0x7160570bb153edd0ea1775ec2b2ac9b65f1ab61b"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://syncswap.xyz",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

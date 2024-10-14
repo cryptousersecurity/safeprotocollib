@@ -1,0 +1,21 @@
+{
+  "name": "Tether",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Tether Treasury",
+          "address": "0x5754284f345afc66a98fbb0a0afe71e0f007b949"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://tether.to/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

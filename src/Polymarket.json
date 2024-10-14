@@ -1,0 +1,25 @@
+{
+  "name": "Polymarket",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Admin",
+          "address": "0xa3ff255535b9990a8c522e6904c0acb3b32a103c"
+        },
+        {
+          "name": "Relayer",
+          "address": "0x31cd1777a93046ede07a5bef370e633469da71c0"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://polymarket.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

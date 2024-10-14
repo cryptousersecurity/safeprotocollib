@@ -1,0 +1,92 @@
+{
+  "name": "Railgun",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Relay",
+          "address": "0xfa7093cdd9ee6932b4eb2c9e1cde7ce00b1fa4b9"
+        },
+        {
+          "name": "Governor Rewards Proxy",
+          "address": "0xa02782ce1bf85f56f8cc7c0e66e61299ac75c86f"
+        },
+        {
+          "name": "Treasury",
+          "address": "0xe8a8b458bcd1ececc6b6b58f80929b29ccecff40"
+        },
+        {
+          "name": "Staking",
+          "address": "0xee6a649aa3766bd117e12c161726b693a1b2ee20"
+        },
+        {
+          "name": "Railgun Token (RAIL)",
+          "address": "0xe76c6c83af64e4c60245d8c7de953df673a7a33d"
+        },
+        {
+          "name": "WETH Helper",
+          "address": "0x4025ee6512dbbda97049bcf5aa5d38c54af6be8a"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Treasury (Proxy)",
+          "address": "0xdca05161ee5b5fa6df170191c88857e70ffb4094"
+        },
+        {
+          "name": "Relay",
+          "address": "0x19b620929f97b7b990801496c3b361ca5def8c71"
+        },
+        {
+          "name": "Governor Rewards Proxy",
+          "address": "0x25f795a8ec8af7904aa403ff2cc7205ce683bf52"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Smart Wallet Proxy",
+          "address": "0xfa7093cdd9ee6932b4eb2c9e1cde7ce00b1fa4b9"
+        },
+        {
+          "name": "Treasury (Proxy)",
+          "address": "0x3b374464a714525498e445ba050b91571937bfc8"
+        },
+        {
+          "name": "Relay Adapt",
+          "address": "0x5ad95c537b002770a39dea342c4bb2b68b1497aa"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Treasury (Proxy)",
+          "address": "0xdca05161ee5b5fa6df170191c88857e70ffb4094"
+        },
+        {
+          "name": "Governor Rewards Proxy",
+          "address": "0xa7a9582c2563a1b923dbff6a8a2fa625ee2fb1f8"
+        },
+        {
+          "name": "Relay",
+          "address": "0x590162bf4b50f6576a459b75309ee21d92178a10"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://railgun.org",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

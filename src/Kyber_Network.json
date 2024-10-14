@@ -1,0 +1,154 @@
+{
+  "name": "Kyber Network",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Kyber Elastic Pool",
+          "address": "0xa40cac1b04d7491bdfb42ccac97dff25e0efb09e"
+        },
+        {
+          "name": "KyberSwap v2 Reinvestment Token (KS2-RT)",
+          "address": "0x61c93621cc0bc8e038d4c8f49e987981cc9ad58d"
+        },
+        {
+          "name": "DMM Pool",
+          "address": "0x3904ac366d348636694cb6720aa1540e76441b1b"
+        },
+        {
+          "name": "Kyber Elastic Pool",
+          "address": "0x742aeea3cdc97efc045aab1d432a8fab5a0bcdc1"
+        },
+        {
+          "name": "DMM Pool",
+          "address": "0xd8b9e9444fcbf26bea4badd6142dd6a962bca86a"
+        },
+        {
+          "name": "KyberSwap v2 Reinvestment Token (KS2-RT)",
+          "address": "0xf5c2dc1468888dcf8ab30db0f706db472352a932"
+        },
+        {
+          "name": "DMM Pool",
+          "address": "0x38766867c0ee0bd530777f5f19b0d0d28d270ab8"
+        },
+        {
+          "name": "Kyber Elastic Pool",
+          "address": "0x96ba6a0b7285ec343f318691e34f50fe0d4358b6"
+        },
+        {
+          "name": "DMM Pool",
+          "address": "0xa1219dbe76eecbf7571fed6b020dd9154396b70e"
+        },
+        {
+          "name": "DMM Pool",
+          "address": "0xaa5ee78cf79c0ed939fcaaf7edf94ced176a2f2b"
+        },
+        {
+          "name": "MetaAggregationRouterV2",
+          "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+        },
+        {
+          "name": "DMM Pool",
+          "address": "0x95d708e9ee04b0136b98579141624d19c89b9d68"
+        },
+        {
+          "name": "KyberSwap LP USDC-miMATIC (KS-LP USDC-miMATIC)",
+          "address": "0x8eed28c5353987b9e679899c2a047434e600dced"
+        },
+        {
+          "name": "Kyber Elastic Pool",
+          "address": "0xd10f0c5c9937dfb93c2942729a2aaa362adb0ccf"
+        },
+        {
+          "name": "DMM Pool",
+          "address": "0x45963db838a070cf7be8e7046fd63e23d376c665"
+        },
+        {
+          "name": "DMM Pool",
+          "address": "0x439e6a13a5ce7fdca2cc03bf31fb631b3f5ef157"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "Elastic Pool",
+          "address": "0x4b21d64cf83e56860f1739452817e4c0fa1d399d"
+        },
+        {
+          "name": "MetaAggregationRouterV2",
+          "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+        },
+        {
+          "name": "Elastic Pool",
+          "address": "0x189de4b78e750e525025cd069148d7ab4dcbc978"
+        },
+        {
+          "name": "Elastic Pool",
+          "address": "0xfbedc4ebeb2951ff96a636c934fce35117847c9d"
+        },
+        {
+          "name": "Pool",
+          "address": "0x6a4d5f8385ff6e7fc4ebf6f726e12a958daa1cba"
+        },
+        {
+          "name": "Elastic Pool",
+          "address": "0xb6e91ba27bb6c3b2adc31884459d3653f9293e33"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "MetaAggregationRouterV2",
+          "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+        },
+        {
+          "name": "DMM ETH-USDT",
+          "address": "0xce9874c42dce7fffbe5e48b026ff1182733266cb"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0xa9b28fd199f17ee1be536074c68668769fd4a1b0"
+        },
+        {
+          "name": "KyberSwap Router V2",
+          "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Meta Aggregation Router",
+          "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "MetaAggregationRouterV2",
+          "address": "0x6131b5fae19ea4f9d964eac0408e4408b66337b5"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://kyber.network",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Own.fund",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x97b5bcfea315d68f8007ca93bf6020a78dd26d49"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://own.fund/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

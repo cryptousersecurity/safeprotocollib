@@ -1,0 +1,42 @@
+{
+  "name": "Jetfuel Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0x877e9c2ce598702fbcff77c7f91b5bfd9bd0200a"
+        },
+        {
+          "name": "Pool",
+          "address": "0xc53ee6446101f2128f887b8c75083e74dca3e973"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0x951e38875a93df95bbd24fe31f409b7933b35bed"
+        },
+        {
+          "name": "Pool",
+          "address": "0x5e58e0ced3a272caeb8ba00f4a4c2805df6be495"
+        },
+        {
+          "name": "Pool",
+          "address": "0x20bf018fddba3b352f3d913fe1c81b846fe0f490"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://jetfuel.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "FantOHM",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Multisig",
+          "address": "0x66a98cfcd5a0dcb4e578089e1d89134a3124f0b1"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://app.fantohm.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

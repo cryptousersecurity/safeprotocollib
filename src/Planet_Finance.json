@@ -1,0 +1,21 @@
+{
+  "name": "Planet Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0x1820e39d1be8bf90fe45b097503613e557f5dfdf"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://app.planet.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

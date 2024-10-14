@@ -1,0 +1,37 @@
+{
+  "name": "Alchemix Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "yDAI V2",
+          "address": "0xa7aa5be408b817a516b40daea7a919664f13f193"
+        },
+        {
+          "name": "alETH Alchemist V2",
+          "address": "0x062bf725dc4cdf947aa79ca2aaccd4f385b13b5c"
+        },
+        {
+          "name": "yUSDC V2",
+          "address": "0x1d28d426e4e20b9d43130c23252b8ed6f9cb388e"
+        },
+        {
+          "name": "WETH Gateway",
+          "address": "0xa22a7ec2d82a471b1dacc4b37345cf428e76d67a"
+        },
+        {
+          "name": "alUSD Alchemist V2",
+          "address": "0x5c6374a2ac4ebc38dea0fc1f8716e5ea1add94dd"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://alchemix.fi/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

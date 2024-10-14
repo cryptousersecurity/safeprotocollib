@@ -1,0 +1,21 @@
+{
+  "name": "Bitrue",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xa813251e163766361adfb9700748397977a54ea0"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bitrue.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

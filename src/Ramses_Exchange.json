@@ -1,0 +1,77 @@
+{
+  "name": "Ramses Exchange",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "V2 Pool",
+          "address": "0x575f1691e6391a2fcf932f9b9dfd6dbfb4792c13"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x2f804c07f0e7637520ed72af22e486da6a82613e"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x9e8a58180dbd369ebe2fc0e8dc671ff9835ce5ab"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xc23f681729ad2e970c2e630cbef67edfab0c37e0"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x30afbcf9458c3131a6d051c621e307e6278e4110"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xabc27aa4e47ce3b5591093de87ab7abeafb3afa0"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xeaa52b3e3233a3683c2d9804f98682feece4ecc9"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xdf63268af25a2a69c07d09a88336cd9424269a1f"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x2760cc828b2e4d04f8ec261a5335426bb22d9291"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x9043825771e9285ee07d07637558a4daf222ab47"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x2d4bfb17db454cf582a74902c91fb09a3883a5cc"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x6ce9bc2d8093d32adde4695a4530b96558388f7e"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x8f0e6d286cee76f8866dfb2595d1c103fd7b13d8"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0xee5f2e39d8abf28e449327bfd44317fc500eb4d8"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x562d29b54d2c57f8620c920415c4dceadd6de2d2"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.ramses.exchange/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

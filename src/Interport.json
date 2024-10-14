@@ -1,0 +1,30 @@
+{
+  "name": "Interport",
+  "description": null,
+  "chains": [
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "ActionExecutor",
+          "address": "0x7b2e3fc7510d1a51b3bef735f985446589219354"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "ActionExecutor",
+          "address": "0x7b2e3fc7510d1a51b3bef735f985446589219354"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://interport.fi",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "name": "KuCoin",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gas Supplier",
+          "address": "0x4316e553902c3eab807663001d089fd6554a4566"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xd91efec7e42f80156d1d9f660a69847188950747"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0x061f7937b7b2bc7596539959804f86538b6368dc"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x45300136662dd4e58fc0df61e6290dffd992b785"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x58edf78281334335effa23101bbe3371b6a36a51"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xaa99fc695eb1bbfb359fbad718c7c6dafc03a839"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x83c41363cbee0081dab75cb841fa24f3db46627e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x41e29c02713929f800419abe5770faa8a5b4dadc"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xf97deb1c0bb4536ff16617d29e5f4b340fe231df"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xf16e9b0d03470827a95cdfd0cb8a8a3b46969b91"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0x0c32131b67a9306a42e5b66f869bc213d40e43f0"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xf8ba3ec49212ca45325a2335a8ab1279770df6c0"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x53f78a071d04224b8e254e243fffc6d9f2f3fa23"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x635308e731a878741bfec299e67f5fd28c7553d9"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xa3f45e619ce3aae2fa5f8244439a66b203b78bcc"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0x245654d7db653ff134ea032f671ef2730333f42c"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xebb8ea128bbdff9a1780a4902a9380022371d466"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x03e6fa590cadcf15a38e86158e9b3d06ff3399ba"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0x00f3e09abe73aec2d6ad7b8820049b60ebc73f94"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x9ac5637d295fea4f51e086c329d791cc157b1c84"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x58a1c909c5ec6cbf9c1df9ab3e9e2301ff707b6b"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x4e75e27e5aa74f0c7a9d4897dc10ef651f3a3995"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://kucoin.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

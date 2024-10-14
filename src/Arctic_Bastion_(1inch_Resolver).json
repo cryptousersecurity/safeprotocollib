@@ -1,0 +1,21 @@
+{
+  "name": "Arctic Bastion (1inch Resolver)",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "1inch Resolver",
+          "address": "0x96805b915a4fc2f5cb8c2324dfe7924cb4f3257d"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": null,
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

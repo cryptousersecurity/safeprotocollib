@@ -1,0 +1,21 @@
+{
+  "name": "Bankless DAO",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Treasury",
+          "address": "0xf26d1bb347a59f6c283c53156519cc1b1abaca51"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bankless.community/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

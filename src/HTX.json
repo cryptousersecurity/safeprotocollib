@@ -1,0 +1,91 @@
+{
+  "name": "HTX",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Recovery",
+          "address": "0x18709e89bd403f470088abdacebe86cc60dda12e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x9a7ffd7f6c42ab805e0edf16c25101964c6326b6"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xa77ff0e1c52f58363a53282624c7baa5fa91687d"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x4fb312915b779b1339388e14b6d079741ca83128"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0x598273ea2cabd9f798564877851788c5e0d5b7b9"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xa03400e098f4421b34a3a44a1b4e571419517687"
+        },
+        {
+          "name": "Recovery Hot Wallet",
+          "address": "0x18709e89bd403f470088abdacebe86cc60dda12e"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xe0b7a39fef902c21bad124b144c62e7f85f5f5fa"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xce7ec11a5f306c6b896526149db1a86c7d1531e2"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xdd3cb5c974601bc3974d908ea4a86020f9999e0c"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x7a8ba143f8866242782e5b3a5ad1410bb6722206"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://huobi.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

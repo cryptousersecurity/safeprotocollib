@@ -1,0 +1,21 @@
+{
+  "name": "Robinhood",
+  "description": "Invest in stocks, options, ETFs, and cryptocurrencies without paying any commissions.",
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Circle Deposit",
+          "address": "0xa58d0bfa77444cc2afb4af4f511b58703a584afc"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://robinhood.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

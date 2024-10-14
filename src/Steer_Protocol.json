@@ -1,0 +1,21 @@
+{
+  "name": "Steer Protocol",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "STEER_UNIV3_VAULT_268 (STEER_UNIV3_VAULT_268)",
+          "address": "0xf7d58a168b7a0bc49649e90cb200fcce40621d87"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://steer.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

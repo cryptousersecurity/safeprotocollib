@@ -1,0 +1,21 @@
+{
+  "name": "BRN Metaverse",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "BRN Token",
+          "address": "0x926ecc7687fcfb296e97a2b4501f41a6f5f8c214"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://brntoken.net/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

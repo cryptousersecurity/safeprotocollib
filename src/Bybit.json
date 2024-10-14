@@ -1,0 +1,99 @@
+{
+  "name": "Bybit",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xbaed383ede0e5d9d72430661f3285daa77e9439f"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xf89d7b9c864f589bbf53a82105107622b35eaa40"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xf89d7b9c864f589bbf53a82105107622b35eaa40"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0xa95b83af96d0b8a90bd507f2bd82ad8f3dbb86bc"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xf89d7b9c864f589bbf53a82105107622b35eaa40"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0xa95b83af96d0b8a90bd507f2bd82ad8f3dbb86bc"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gas Supplier",
+          "address": "0xab97925eb84fe0260779f58b7cb08d77dcb1ee2b"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xb5873e333161e5b45adac57379ec2b15d861178d"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xf89d7b9c864f589bbf53a82105107622b35eaa40"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Gas Supplier",
+          "address": "0xa95b83af96d0b8a90bd507f2bd82ad8f3dbb86bc"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xf89d7b9c864f589bbf53a82105107622b35eaa40"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Gas Supplier",
+          "address": "0xa95b83af96d0b8a90bd507f2bd82ad8f3dbb86bc"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xf89d7b9c864f589bbf53a82105107622b35eaa40"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bybit.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

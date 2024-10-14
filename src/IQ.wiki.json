@@ -1,0 +1,21 @@
+{
+  "name": "IQ.wiki",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x56398b89d53e8731bca8c1b06886cfb14bd6b654"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://iq.wiki/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

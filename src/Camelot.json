@@ -1,0 +1,149 @@
+{
+  "name": "Camelot",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Algebra Pool",
+          "address": "0x0e7ac13617cc1a289b222e4602bdaaa53ea4dc61"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0xcf71459248557807b87cf988f30ae7845f7bd6d5"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0xe51635ae8136abac44906a8f230c2d235e9c195f"
+        },
+        {
+          "name": "Pool",
+          "address": "0x5a0e69ed5dfec9554c00ae2e89062c3e2dbcc218"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0xc86eb7b85807020b4548ee05b54bfc956eebbfcd"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0xdeb89de4bb6ecf5bfed581eb049308b52d9b2da7"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0x293dfd996d5cd72bed712b0eeab96dbe400c0416"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0x22427d20480de289795ca29c3adddb57a568e285"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0xb1026b8e7276e7ac75410f1fcbbe21796e8f7526"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0xd42ef780e9b290aa071c08b8e766f29a53a7f982"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0xac07ed4cbdda2cb17f9aeca2919c825dcb2882b9"
+        },
+        {
+          "name": "Pool",
+          "address": "0xa1cb647629aa2dec7a7971d749b4154d4c69bec6"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0x9b6ff025aee245d314c09f57b72f0de6e231c3a6"
+        },
+        {
+          "name": "Pool",
+          "address": "0xb8e9718f4c9be237595cd9575c173fda10bfa209"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0x44cc8b40b1483e62e59ef937441ba6aa8e584a77"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0xfae2ae0a9f87fd35b5b0e24b47bac796a7eefea1"
+        },
+        {
+          "name": "Pool",
+          "address": "0x84652bb2539513baf36e225c930fdd8eaa63ce27"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0xd845f7d4f4deb9ff5bcf09d140ef13718f6f6c71"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0x521aa84ab3fcc4c05cabac24dc3682339887b126"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0xaa45265a94c93802be9511e426933239117e658f"
+        },
+        {
+          "name": "Pool",
+          "address": "0x49bb23dfae944059c2403bcc255c5a9c0f851a8d"
+        },
+        {
+          "name": "Pool",
+          "address": "0xe28881d63f4f0577d4f75ea04f3a3e75feffc491"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0xa17afcab059f3c6751f5b64347b5a503c3291868"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0x7cccba38e2d959fe135e79aebb57ccb27b128358"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0x60451b6ac55e3c5f0f3aee31519670ecc62dc28f"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0x25a9ea8b6698782ecd3707bb7626e606c46d75dd"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0x224cbc20a8ac043bac4734200e6c247ab1ab6055"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0x4ec1b98e4d9cec83fab164d713ac434094c3f044"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0x1818ff61ba19c06a554c803ed98b603d5b7d1b43"
+        },
+        {
+          "name": "Camelot staking position NFT (spNFT)",
+          "address": "0x9ffc53ce956bf040c4465b73b3cfc04569edaef1"
+        },
+        {
+          "name": "Pool",
+          "address": "0x705c0cdce3892578c2935fa0c5de8262413b2524"
+        },
+        {
+          "name": "Pool",
+          "address": "0xa6c5c7d189fa4eb5af8ba34e63dcdd3a635d433f"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0x1106db7165a8d4a8559b441ecdee14a5d5070dbc"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://camelot.exchange",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

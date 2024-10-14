@@ -1,0 +1,21 @@
+{
+  "name": "ClayStack",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "ERC1967Proxy",
+          "address": "0x349405b80c8bafd74da9d4308f3c7b60b4bf10e5"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://claystack.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

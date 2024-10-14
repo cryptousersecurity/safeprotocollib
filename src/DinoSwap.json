@@ -1,0 +1,21 @@
+{
+  "name": "DinoSwap",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "V2 Pool",
+          "address": "0xc961ac0404f95141573dae224525ae936bd3bf64"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://dinoswap.exchange/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

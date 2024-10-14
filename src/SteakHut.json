@@ -1,0 +1,21 @@
+{
+  "name": "SteakHut",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "STEAK (STEAK)",
+          "address": "0xddbfbd5dc3ba0feb96cb513b689966b2176d4c09"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.steakhut.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

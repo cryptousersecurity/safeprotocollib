@@ -1,0 +1,21 @@
+{
+  "name": "Symbiosis Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "MetaRouter",
+          "address": "0x44487a445a7595446309464a82244b4bd4e325d5"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://symbiosis.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

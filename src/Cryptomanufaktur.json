@@ -1,0 +1,21 @@
+{
+  "name": "Cryptomanufaktur",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Lido Node Operator",
+          "address": "0x59ecf48345a221e0731e785ed79ed40d0a94e2a5"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.cryptomanufaktur.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

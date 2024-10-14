@@ -1,0 +1,21 @@
+{
+  "name": "BingX",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x406c22b8740ae955b04fd11c2061e053807e2a69"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bingx.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

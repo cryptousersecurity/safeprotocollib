@@ -1,0 +1,21 @@
+{
+  "name": "PolyZap",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0xcaf7834cab11e00123d3510abbbcb912b39ab456"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://polyzap.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

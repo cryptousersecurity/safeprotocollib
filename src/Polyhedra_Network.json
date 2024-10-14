@@ -1,0 +1,38 @@
+{
+  "name": "Polyhedra Network",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "LayerZeroHandle (Proxy)",
+          "address": "0xeef82994c305b960300f9b49c01fe869d216f53a"
+        },
+        {
+          "name": "LayerZeroHandle (Proxy)",
+          "address": "0xd62a4b3b0234869ed76c809df83bc88d7d8bad8d"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "LayerZeroHandle (Proxy)",
+          "address": "0x6f1d5f49895eb6aed2690ac15703f5298edb7691"
+        },
+        {
+          "name": "LayerZeroHandle (Proxy)",
+          "address": "0xd871a30daabf56cd9157fc06efca48c5a4f61520"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://polyhedra.network/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

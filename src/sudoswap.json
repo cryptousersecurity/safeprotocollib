@@ -1,0 +1,29 @@
+{
+  "name": "sudoswap",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "LSSVMPairEnumerableETH (Proxy)",
+          "address": "0x7637e26c4c64749be27f6a1d2264ec15bb62abac"
+        },
+        {
+          "name": "LSSVMPairEnumerableETH (Proxy)",
+          "address": "0x14b63577f5e4be695e565675ebd40eb9c3384464"
+        },
+        {
+          "name": "LSSVMPairEnumerableETH (Proxy)",
+          "address": "0x129fa2fdec474584be39593ff760234bfad343ee"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://sudoswap.xyz/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

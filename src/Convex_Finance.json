@@ -1,0 +1,47 @@
+{
+  "name": "Convex Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "crvUSD/USDC Convex Deposit (cvxcrvUSDC)",
+          "address": "0xbfee9f3e015adc754066424aed535313dc764116"
+        },
+        {
+          "name": "crvUSD/USDC.e Convex Deposit (cvxcrvUSDC.e)",
+          "address": "0x8b147513754871e80867f2cb0f04240d838b37b0"
+        },
+        {
+          "name": "Overnight max stable yield Convex Deposit (cvxUSD++)",
+          "address": "0x25844114856617f739e3f175db0edc46e00e1847"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "VoterProxy",
+          "address": "0x989aeb4d175e16225e39e87d0d97a3360524ad80"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "BaseRewardPool",
+          "address": "0x16aa741b46180bdcb83fafb65965b0a94d5a918c"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.convexfinance.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

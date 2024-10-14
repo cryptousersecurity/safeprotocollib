@@ -1,0 +1,21 @@
+{
+  "name": "Extra Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "EXTRAoftProxy",
+          "address": "0x0c9d44f5a573f6cfc9e8264a5ca72a1184616ef4"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://extrafi.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

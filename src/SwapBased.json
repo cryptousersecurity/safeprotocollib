@@ -1,0 +1,29 @@
+{
+  "name": "SwapBased",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "PancakeV3Pool",
+          "address": "0x8d4b74fe1dfa2789caa367f670eb4ac202107635"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x5554419ccd0293d9383901f461c7c3e0c66e925f"
+        },
+        {
+          "name": "V2 Pool",
+          "address": "0x18d7eeb9b63664c06251dd8141ec1d0c14f0c012"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://swapbased.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

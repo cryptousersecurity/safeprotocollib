@@ -1,0 +1,21 @@
+{
+  "name": "HMX",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Compounder (Proxy)",
+          "address": "0x8e5d083ba7a46f13afccc27bfb7da372e9dfef22"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://hmx.org",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

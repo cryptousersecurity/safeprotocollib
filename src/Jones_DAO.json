@@ -1,0 +1,21 @@
+{
+  "name": "Jones DAO",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0xfa82f1ba00b0697227e2ad6c668abb4c50ca0b1f"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.jonesdao.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

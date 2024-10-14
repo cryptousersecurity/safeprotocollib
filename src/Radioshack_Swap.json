@@ -1,0 +1,21 @@
+{
+  "name": "Radioshack Swap",
+  "description": null,
+  "chains": [
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0xcc27087a5a6e508c7a4af50d566cfc3bb31dd34a"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.radioshack.org/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

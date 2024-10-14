@@ -1,0 +1,21 @@
+{
+  "name": "Yomi Games",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Seed Funding",
+          "address": "0x17d76b55efc331e83b48fe034420b47f6af8e6a8"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://yomigames.gg",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

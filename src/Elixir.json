@@ -1,0 +1,21 @@
+{
+  "name": "Elixir",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Deployer",
+          "address": "0x00000000f51340906f767c6999fe512b1275955c"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.elixir.xyz/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

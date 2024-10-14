@@ -1,0 +1,21 @@
+{
+  "name": "unshETH",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x1b0aedcd95ea7e93291c1f13365e4bd7660bba92"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://unsheth.xyz/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

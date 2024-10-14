@@ -1,0 +1,21 @@
+{
+  "name": "Vyper",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x70ccbe10f980d80b7ebaab7d2e3a73e87d67b775"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://vyperlang.org",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

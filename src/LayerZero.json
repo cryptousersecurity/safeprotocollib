@@ -1,0 +1,308 @@
+{
+  "name": "LayerZero",
+  "description": "LayerZero is a cutting-edge protocol that facilitates seamless cross-communication on the blockchain.",
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "OptimizedTransparentUpgradeableProxy",
+          "address": "0xcd3f213ad101472e1713c72b1697e727c803885b"
+        },
+        {
+          "name": "Relayer v2",
+          "address": "0x75dc8e5f50c8221a82ca6af64af811caa983b65f"
+        },
+        {
+          "name": "EndpointV2",
+          "address": "0x1a44076050125825900e736c501f859c50fe728c"
+        },
+        {
+          "name": "Endpoint",
+          "address": "0x3c2269811836af69497e5f486a85d7316753cf62"
+        },
+        {
+          "name": "Token Bridge",
+          "address": "0x488863d609f3a673875a914fbee7508a1de45ec6"
+        },
+        {
+          "name": "OriginalTokenBridge",
+          "address": "0x52e75d318cfb31f9a2edfa2dfee26b161255b233"
+        },
+        {
+          "name": "Executor",
+          "address": "0xe93685f3bba03016f02bd1828badd6195988d950"
+        },
+        {
+          "name": "UltraLightNodeV2",
+          "address": "0x4d73adb72bc3dd368966edd0f0b2148401a178e2"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "OFTWrapper",
+          "address": "0x86355f02119bdbc28ed6a4d5e0ca327ca7730fff"
+        },
+        {
+          "name": "SendUln302",
+          "address": "0x975bcd720be66659e3eb3c0e4f1866a3020e493a"
+        },
+        {
+          "name": "LayerZero (ZRO)",
+          "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+        },
+        {
+          "name": "Aptos Token Bridge",
+          "address": "0x1bacc2205312534375c8d1801c27d28370656cff"
+        },
+        {
+          "name": "Relayer",
+          "address": "0x177d36dbe2271a4ddb2ad8304d82628eb921d790"
+        },
+        {
+          "name": "Endpoint",
+          "address": "0x3c2269811836af69497e5f486a85d7316753cf62"
+        },
+        {
+          "name": "Ultra Light Node V2",
+          "address": "0x4d73adb72bc3dd368966edd0f0b2148401a178e2"
+        },
+        {
+          "name": "Airdrop Claim",
+          "address": "0xb09f16f625b363875e39ada56c03682088471523"
+        },
+        {
+          "name": "Airdrop",
+          "address": "0xd6b6a6701303b5ea36fa0edf7389b562d8f894db"
+        },
+        {
+          "name": "EndpointV2",
+          "address": "0x1a44076050125825900e736c501f859c50fe728c"
+        },
+        {
+          "name": "Executor",
+          "address": "0xe93685f3bba03016f02bd1828badd6195988d950"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "Executor",
+          "address": "0xe93685f3bba03016f02bd1828badd6195988d950"
+        },
+        {
+          "name": "EndpointV2",
+          "address": "0x1a44076050125825900e736c501f859c50fe728c"
+        },
+        {
+          "name": "Endpoint",
+          "address": "0xb6319cc6c8c27a8f5daf0dd3df91ea35c4720dd7"
+        },
+        {
+          "name": "OptimizedTransparentUpgradeableProxy",
+          "address": "0xa658742d33ebd2ce2f0bdff73515aa797fd161d9"
+        },
+        {
+          "name": "UltraLightNodeV2",
+          "address": "0x38de71124f7a447a01d67945a51edce9ff491251"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Ultra Light Node V2",
+          "address": "0x4d73adb72bc3dd368966edd0f0b2148401a178e2"
+        },
+        {
+          "name": "Executor",
+          "address": "0xe93685f3bba03016f02bd1828badd6195988d950"
+        },
+        {
+          "name": "LayerZero (ZRO)",
+          "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+        },
+        {
+          "name": "Token Bridge",
+          "address": "0xa5972eee0c9b5bbb89a5b16d1d65f94c9ef25166"
+        },
+        {
+          "name": "EndpointV2",
+          "address": "0x1a44076050125825900e736c501f859c50fe728c"
+        },
+        {
+          "name": "Endpoint",
+          "address": "0x3c2269811836af69497e5f486a85d7316753cf62"
+        },
+        {
+          "name": "OptimizedTransparentUpgradeableProxy",
+          "address": "0xcd2e3622d483c7dc855f72e5eafadcd577ac78b4"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "OriginalTokenBridge",
+          "address": "0x52e75d318cfb31f9a2edfa2dfee26b161255b233"
+        },
+        {
+          "name": "OFTWrapper",
+          "address": "0x86355f02119bdbc28ed6a4d5e0ca327ca7730fff"
+        },
+        {
+          "name": "Token Bridge",
+          "address": "0x2762409baa1804d94d8c0bcff8400b78bf915d5b"
+        },
+        {
+          "name": "EndpointV2",
+          "address": "0x1a44076050125825900e736c501f859c50fe728c"
+        },
+        {
+          "name": "Endpoint",
+          "address": "0x3c2269811836af69497e5f486a85d7316753cf62"
+        },
+        {
+          "name": "UltraLightNodeV2",
+          "address": "0x4d73adb72bc3dd368966edd0f0b2148401a178e2"
+        },
+        {
+          "name": "Executor",
+          "address": "0xe93685f3bba03016f02bd1828badd6195988d950"
+        },
+        {
+          "name": "Relayer v2",
+          "address": "0xa27a2ca24dd28ce14fb5f5844b59851f03dcf182"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "OFTWrapper",
+          "address": "0x36d4686e19c052787d7f24e6913cebc025714895"
+        },
+        {
+          "name": "UltraLightNodeV2",
+          "address": "0x38de71124f7a447a01d67945a51edce9ff491251"
+        },
+        {
+          "name": "LayerZero (ZRO)",
+          "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+        },
+        {
+          "name": "EndpointV2",
+          "address": "0x1a44076050125825900e736c501f859c50fe728c"
+        },
+        {
+          "name": "Executor",
+          "address": "0xe93685f3bba03016f02bd1828badd6195988d950"
+        },
+        {
+          "name": "OptimizedTransparentUpgradeableProxy",
+          "address": "0xcb566e3b6934fa77258d68ea18e931fa75e1aaaa"
+        },
+        {
+          "name": "Endpoint",
+          "address": "0xb6319cc6c8c27a8f5daf0dd3df91ea35c4720dd7"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "UltraLightNodeV2",
+          "address": "0x4d73adb72bc3dd368966edd0f0b2148401a178e2"
+        },
+        {
+          "name": "Executor",
+          "address": "0xe93685f3bba03016f02bd1828badd6195988d950"
+        },
+        {
+          "name": "OFTWrapper",
+          "address": "0x86355f02119bdbc28ed6a4d5e0ca327ca7730fff"
+        },
+        {
+          "name": "Relayer v2",
+          "address": "0x81e792e5a9003cc1c8bf5569a00f34b65d75b017"
+        },
+        {
+          "name": "LayerZero (ZRO)",
+          "address": "0x6985884c4392d348587b19cb9eaaf157f13271cd"
+        },
+        {
+          "name": "Endpoint",
+          "address": "0x3c2269811836af69497e5f486a85d7316753cf62"
+        },
+        {
+          "name": "EndpointV2",
+          "address": "0x1a44076050125825900e736c501f859c50fe728c"
+        },
+        {
+          "name": "Token Bridge",
+          "address": "0x86bb63148d17d445ed5398ef26aa05bf76dd5b59"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Ethereum Endpoint",
+          "address": "0x66a71dcef29a0ffbdbe3c6a460a3b5bc225cd675"
+        },
+        {
+          "name": "EndpointV2",
+          "address": "0x1a44076050125825900e736c501f859c50fe728c"
+        },
+        {
+          "name": "OFTWrapper",
+          "address": "0x86355f02119bdbc28ed6a4d5e0ca327ca7730fff"
+        },
+        {
+          "name": "OptimizedTransparentUpgradeableProxy",
+          "address": "0x173272739bd7aa6e4e214714048a9fe699453059"
+        },
+        {
+          "name": "SendUln302",
+          "address": "0xbb2ea70c9e858123480642cf96acbcce1372dce1"
+        },
+        {
+          "name": "OriginalTokenBridge",
+          "address": "0x52e75d318cfb31f9a2edfa2dfee26b161255b233"
+        },
+        {
+          "name": "UltraLightNodeV2",
+          "address": "0x4d73adb72bc3dd368966edd0f0b2148401a178e2"
+        },
+        {
+          "name": "Executor",
+          "address": "0xe93685f3bba03016f02bd1828badd6195988d950"
+        },
+        {
+          "name": "Relayer v2",
+          "address": "0x902f09715b6303d4173037652fa7377e5b98089e"
+        },
+        {
+          "name": "Token Bridge",
+          "address": "0x50002cdfe7ccb0c41f519c6eb0653158d11cd907"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://layerzero.network/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

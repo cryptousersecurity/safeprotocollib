@@ -1,0 +1,25 @@
+{
+  "name": "SquadSwap",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0x543deb0a7cd4c3f2e61ee0e17ac580d63fed4066"
+        },
+        {
+          "name": "Pool",
+          "address": "0x25d0b3632c16d3b46657ecf044d22ac0839e3d89"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://squadswap.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

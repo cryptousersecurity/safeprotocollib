@@ -1,0 +1,85 @@
+{
+  "name": "Pangolin",
+  "description": null,
+  "chains": [
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0x239aae4aabb5d60941d7dffaeafe8e063c63ab25"
+        },
+        {
+          "name": "Pool",
+          "address": "0x142abd25b0586a8a4a67127d020d4f97f0f12021"
+        },
+        {
+          "name": "Pool",
+          "address": "0x9d86243ae7008ec1f9cce83c49d76f7a557b80cf"
+        },
+        {
+          "name": "Pool",
+          "address": "0x4e9a38f05c38106c1cf5c145df24959ec50ff70d"
+        },
+        {
+          "name": "Pool",
+          "address": "0x0e0100ab771e9288e0aa97e11557e6654c3a9665"
+        },
+        {
+          "name": "Pool",
+          "address": "0xd7538cabbf8605bde1f4901b47b8d42c61de0367"
+        },
+        {
+          "name": "Pool",
+          "address": "0xb8f66a8b3a1640492e3d45a26256c8ef4b934fe6"
+        },
+        {
+          "name": "Pool",
+          "address": "0xe28984e1ee8d431346d32bec9ec800efb643eef4"
+        },
+        {
+          "name": "Pool",
+          "address": "0xe3ba3d5e3f98eeff5e9eddd5bd20e476202770da"
+        },
+        {
+          "name": "Pool",
+          "address": "0x1938ce0e14dd71caab96f52df3f49b1d1daf8861"
+        },
+        {
+          "name": "Pool",
+          "address": "0xba09679ab223c6bdaf44d45ba2d7279959289ab0"
+        },
+        {
+          "name": "Pool",
+          "address": "0xd3c14566bba068ec07f8cc768ec65614f71d49dc"
+        },
+        {
+          "name": "Pool",
+          "address": "0x5764b8d8039c6e32f1e5d8de8da05ddf974ef5d3"
+        },
+        {
+          "name": "Pool",
+          "address": "0xe1f75e2e74ba938abd6c3be18ccc5c7f71925c4b"
+        },
+        {
+          "name": "Pool",
+          "address": "0xbd918ed441767fe7924e99f6a0e0b568ac1970d9"
+        },
+        {
+          "name": "Pool",
+          "address": "0x4a2cb99e8d91f82cf10fb97d43745a1f23e47caa"
+        },
+        {
+          "name": "Pool",
+          "address": "0xd2f01cd87a43962fd93c21e07c1a420714cc94c9"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.pangolin.exchange",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,712 @@
+{
+  "name": "Curve.fi",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Aave Pool",
+          "address": "0x445fe580ef8d70ff569ab36e80c647af338db351"
+        },
+        {
+          "name": "Vyper_contract",
+          "address": "0x3d8eadb739d1ef95dd53d718e4810721837c69c1"
+        },
+        {
+          "name": "Vyper_contract",
+          "address": "0x1d8b86e3d88cdb2d34688e87e72f388cb541b7c8"
+        },
+        {
+          "name": "CurveRouterSidechainTricryptoMeta v1.0",
+          "address": "0xf0d4c12a5768d806021f80a262b4d39d26c58b8d"
+        },
+        {
+          "name": "Zap Depositor",
+          "address": "0x5ab5c56b9db92ba45a0b46a207286cd83c15c939"
+        },
+        {
+          "name": "renBTC Pool",
+          "address": "0xc2d95eef97ec6c17551d45e77b590dc1f9117c67"
+        },
+        {
+          "name": "ATriCrypto Zap",
+          "address": "0x3fcd5de6a9fc8a99995c406c77dda3ed7e406f81"
+        },
+        {
+          "name": "Vyper_contract",
+          "address": "0x92215849c439e1f8612b6646060b4e3e5ef822cc"
+        },
+        {
+          "name": "CurveRouterSidechainTricryptoMeta v1.1",
+          "address": "0x0dcded3545d565ba3b19e683431381007245d983"
+        },
+        {
+          "name": "CurveDeposit&amp;StakeZap",
+          "address": "0x37c5ab57af7100bdc9b668d766e193ccbf6614fd"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0xa70af99bff6b168327f9d1480e29173e757c7904"
+        },
+        {
+          "name": "Stable Swap",
+          "address": "0xad326c253a84e9805559b73a08724e11e49ca651"
+        },
+        {
+          "name": "Vyper_contract",
+          "address": "0x2a3f0d76e32b2395ca8d0c441c1346326410abfe"
+        },
+        {
+          "name": "Child Liquidity Gauge Factory",
+          "address": "0xabc000d88f23bb45525e447528dbf656a9d55bf5"
+        },
+        {
+          "name": "Vyper_contract",
+          "address": "0xc7c939a474cb10eb837894d1ed1a77c61b268fa7"
+        },
+        {
+          "name": "ATriCrypto Pool",
+          "address": "0x751b1e21756bdbc307cbcc5085c042a0e9aaef36"
+        },
+        {
+          "name": "Stable Swap",
+          "address": "0x2ffbce9099cbed86984286a54e5932414af4b717"
+        },
+        {
+          "name": "Vyper_contract",
+          "address": "0x7bbc0e92505b485aeb3e82e828cb505daf1e50c6"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "ATriCrypto Zap",
+          "address": "0x58e57ca18b7a47112b877e31929798cd3d703b0f"
+        },
+        {
+          "name": "Aave Pool",
+          "address": "0x7f90122bf0700f9e7e1f688fe926940e8839f353"
+        },
+        {
+          "name": "Pool",
+          "address": "0x3a43a5851a3e3e0e25a3c1089670269786be1577"
+        },
+        {
+          "name": "Registry Exchange",
+          "address": "0xbff334f8d5912ac5c4f2c590a2396d1c5d990123"
+        },
+        {
+          "name": "Plain Pool",
+          "address": "0xd7bb79aee866672419999a0496d99c54741d67b5"
+        },
+        {
+          "name": "ATriCrypto Pool",
+          "address": "0xb755b949c126c04e0348dd881a5cf55d424742b2"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "DAI/USDC/USDT Pool",
+          "address": "0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7"
+        },
+        {
+          "name": "ETH-stETH StableSwap",
+          "address": "0xdc24316b9ae028f1497c275eb9192a3ea0f67022"
+        },
+        {
+          "name": "Voting Escrow",
+          "address": "0x5f3b5dfeb7b28cdbd7faba78963ee202a494e2a2"
+        },
+        {
+          "name": "stETH Liquidity Gauge",
+          "address": "0x182b723a58739a9c974cfdb385ceadb237453c28"
+        },
+        {
+          "name": "Curve.fi sdai-usdm Gauge Deposit (sdai-usdm-gauge)",
+          "address": "0xcf5136c67fa8a375babbdf13c0307ef994b5681d"
+        },
+        {
+          "name": "Fee Distributor",
+          "address": "0xa464e6dcda8ac41e03616f95f4bc98a13b8922dc"
+        },
+        {
+          "name": "y Swap",
+          "address": "0x45f783cce6b7ff23b2ab2d70e416cdb7d6055f51"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x02950460e2b9529d0e00284a5fa2d7bdf3fa4d72"
+        },
+        {
+          "name": "BUSD Swap",
+          "address": "0x79a8c46dea5ada233abaffd40f3a0a2b1e5a4f27"
+        },
+        {
+          "name": "Pool",
+          "address": "0xed279fdd11ca84beef15af5d39bb4d4bee23f0ca"
+        },
+        {
+          "name": "Curve.fi crvCRVUSDTBTCWSTETH Gauge Deposit (crvCRVUSDTBTCWSTETH-gauge)",
+          "address": "0x60d3d7ebbc44dc810a743703184f062d00e6db7e"
+        },
+        {
+          "name": "Optimism Bridge Wrapper",
+          "address": "0x9e7f8d6e87ec1c783d01fcc90ebf6ec766b0036c"
+        },
+        {
+          "name": "pyUSD/crvUSD (PYcrvUSD)",
+          "address": "0x625e92624bc2d88619accc1788365a69767f6200"
+        },
+        {
+          "name": "pBTC MetaPool",
+          "address": "0x7f55dde206dbad629c080068923b36fe9d6bdbef"
+        },
+        {
+          "name": "TriRSR (crvRSReUSDETH+)",
+          "address": "0xdb6925ea42897ca786a045b252d95aa7370f44b4"
+        },
+        {
+          "name": "Metapool",
+          "address": "0x971add32ea87f10bd192671630be3be8a11b8623"
+        },
+        {
+          "name": "STG-USDC Factory Pool Contract",
+          "address": "0x3211c6cbef1429da3d0d58494938299c92ad5860"
+        },
+        {
+          "name": "pufETH/wstETH (pufETHwstE)",
+          "address": "0xeeda34a377dd0ca676b9511ee1324974fa8d980d"
+        },
+        {
+          "name": "Metapool",
+          "address": "0xb9446c4ef5ebe66268da6700d26f96273de3d571"
+        },
+        {
+          "name": "crvUSD/GUSD (crvUSDGUSD-f)",
+          "address": "0xecdd0ce505da71cd9de855cd6804ba1e8c7bdb07"
+        },
+        {
+          "name": "crvUSD Controller",
+          "address": "0x100daa78fc509db39ef7d04de0c1abd299f4c6ce"
+        },
+        {
+          "name": "Swap Router",
+          "address": "0x99a58482bd75cbab83b27ec03ca68ff489b5788f"
+        },
+        {
+          "name": "crvUSDUSDT-f Pool",
+          "address": "0x390f3595bca2df7d23783dfd126427cceb997bf4"
+        },
+        {
+          "name": "Vyper_contract",
+          "address": "0x6bfe880ed1d639bf80167b93cc9c56a39c1ba2dc"
+        },
+        {
+          "name": "CurveStableSwapMetaNG",
+          "address": "0xef484de8c07b6e2d732a92b5f78e81b38f99f95e"
+        },
+        {
+          "name": "Pool",
+          "address": "0x98638facf9a3865cd033f36548713183f6996122"
+        },
+        {
+          "name": "TriSILO (crvUSDETHSILO)",
+          "address": "0x86bf09acb47ab31686be413d614e9ded3666a1d3"
+        },
+        {
+          "name": "crvUSD/DOLA (crvUSDDOLA-f)",
+          "address": "0x8272e1a3dbef607c04aa6e5bd3a1a134c8ac063b"
+        },
+        {
+          "name": "Metapool",
+          "address": "0xb657b895b265c38c53fff00166cf7f6a3c70587d"
+        },
+        {
+          "name": "thUSD (thUSD3CRV)",
+          "address": "0x91553bad9fbc8bd69ff5d5678cbf7d514d00de0b"
+        },
+        {
+          "name": "LLAMMA - crvUSD AMM",
+          "address": "0x37417b2238aa52d0dd2d6252d989e728e8f706e4"
+        },
+        {
+          "name": "TricryptoUSDT (crvUSDTWBTCWETH)",
+          "address": "0xf5f5b97624542d72a9e06f04804bf81baa15e2b4"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0xb92b054b9cc33685e7f8c3f85177c4b6dc061391"
+        },
+        {
+          "name": "TriDBR (crvDBRINV)",
+          "address": "0xc7de47b9ca2fc753d6a2f167d8b3e19c6d18b19a"
+        },
+        {
+          "name": "Vyper_contract",
+          "address": "0x838af967537350d2c44abb8c010e49e32673ab94"
+        },
+        {
+          "name": "Vyper_contract",
+          "address": "0x14756a5ed229265f86990e749285bdd39fe0334f"
+        },
+        {
+          "name": "Pool Owner",
+          "address": "0xecb456ea5365865ebab8a2661b0c503410e9b347"
+        },
+        {
+          "name": "Pool",
+          "address": "0x618788357d0ebd8a37e763adab3bc575d54c2c7d"
+        },
+        {
+          "name": "Bean (BEAN3CRV-f)",
+          "address": "0xc9c32cd16bf7efb85ff14e0c8603cc90f6f2ee49"
+        },
+        {
+          "name": "MUSD Pool",
+          "address": "0x8474ddbe98f5aa3179b3b3f5942d724afcdec9f6"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0xf36a4ba50c603204c3fc6d2da8b78a7b69cbc67d"
+        },
+        {
+          "name": "Vyper_contract",
+          "address": "0xbec570d92afb7ffc553bdd9d4b4638121000b10d"
+        },
+        {
+          "name": "FRAX-USDC",
+          "address": "0xdcef968d416a41cdac0ed8702fac8128a64241a2"
+        },
+        {
+          "name": "Vyper_contract",
+          "address": "0x47d5e1679fe5f0d9f0a657c6715924e33ce05093"
+        },
+        {
+          "name": "Metapool",
+          "address": "0xfbb481a443382416357fa81f16db5a725dc6cec8"
+        },
+        {
+          "name": "crvUSD/USDP (crvUSDUSDP-f)",
+          "address": "0xca978a0528116dda3cba9acd3e68bc6191ca53d0"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x2fd6965730bef5c7e928342ad6e7d4819d08f8c4"
+        },
+        {
+          "name": "LDO-WETH",
+          "address": "0x9409280dc1e6d33ab7a8c6ec03e5763fb61772b5"
+        },
+        {
+          "name": "ezpz ETH (ezpzETH)",
+          "address": "0x8c65cec3847ad99bdc02621bdbc89f2ace56934b"
+        },
+        {
+          "name": "CRV Vesting Escrow",
+          "address": "0x8042f41594617a2b139f5f39ef6dc33b56be2871"
+        },
+        {
+          "name": "Metapool",
+          "address": "0xf9078fb962a7d13f55d40d49c8aa6472abd1a5a6"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0xa5588f7cdf560811710a2d82d3c9c99769db1dcb"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x57064f49ad7123c92560882a45518374ad982e85"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0xf55b0f6f2da5ffddb104b58a60f2862745960442"
+        },
+        {
+          "name": "LLAMMA - crvUSD AMM",
+          "address": "0x1681195c176239ac5e72d9aebacf5b2492e0c4ee"
+        },
+        {
+          "name": "CurveRouter v1.1",
+          "address": "0x16c6521dff6bab339122a0fe25a9116693265353"
+        },
+        {
+          "name": "sUSD v2 Swap",
+          "address": "0xa5407eae9ba41422680e2e00537571bcc53efbfd"
+        },
+        {
+          "name": "Vyper_contract",
+          "address": "0x941eb6f616114e4ecaa85377945ea306002612fe"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x2cf99a343e4ecf49623e82f2ec6a9b62e16ff3fe"
+        },
+        {
+          "name": "Vyper_contract",
+          "address": "0xc15f285679a1ef2d25f53d4cbd0265e1d02f2a92"
+        },
+        {
+          "name": "crvUSD Controller",
+          "address": "0xa920de414ea4ab66b97da1bfe9e6eca7d4219635"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x85de3add465a219ee25e04d22c39ab027cf5c12e"
+        },
+        {
+          "name": "Pool",
+          "address": "0xb576491f1e6e5e62f1d8f26062ee822b40b0e0d4"
+        },
+        {
+          "name": "TriCRV (crvUSDETHCRV)",
+          "address": "0x4ebdf703948ddcea3b11f675b4d1fba9d2414a14"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x167478921b907422f8e88b43c4af2b8bea278d3a"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x8c24b3213fd851db80245fccc42c40b94ac9a745"
+        },
+        {
+          "name": "TricryptoUSDC (crvUSDCWBTCWETH)",
+          "address": "0x7f86bf177dd4f3494b841a37e810a34dd56c829b"
+        },
+        {
+          "name": "crvUSD/USDC (crvUSDUSDC-f)",
+          "address": "0x4dece678ceceb27446b35c672dc7d61f30bad69e"
+        },
+        {
+          "name": "weETH/WETH-ng (weeth-ng)",
+          "address": "0xdb74dfdd3bb46be8ce6c33dc9d82777bcfc3ded5"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0xf8db2accdef8e7a26b0e65c3980adc8ce11671a4"
+        },
+        {
+          "name": "Frax/fxUSD (fxUSDFrax)",
+          "address": "0x1ee81c56e42ec34039d993d12410d437ddea341e"
+        },
+        {
+          "name": "TricryptoINV (crvUSDCWETHINV)",
+          "address": "0x5426178799ee0a0181a89b4f57efddfab49941ec"
+        },
+        {
+          "name": "Metapool",
+          "address": "0xe7a3b38c39f97e977723bd1239c3470702568e7b"
+        },
+        {
+          "name": "sBTC Swap",
+          "address": "0x7fc77b5c7614e1533320ea6ddc2eb61fa00a9714"
+        },
+        {
+          "name": "CurveStableSwapMetaNG",
+          "address": "0xc83b79c07ece44b8b99ffa0e235c00add9124f9e"
+        },
+        {
+          "name": "LLAMMA - crvUSD AMM",
+          "address": "0xafca625321df8d6a068bdd8f1585d489d2acf11b"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x14100f81e33c33ecc7cdac70181fb45b6e78569f"
+        },
+        {
+          "name": "frxETH/WETH (frxeth-ng-f)",
+          "address": "0x9c3b46c0ceb5b9e304fcd6d88fc50f7dd24b31bc"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x637213593e31bc25f49d37c74b43a89eb1743d73"
+        },
+        {
+          "name": "MetaPool Factory",
+          "address": "0x0959158b6040d32d04c301a72cbfd6b39e21c9ae"
+        },
+        {
+          "name": "GUSD Pool",
+          "address": "0x4f062658eaaf2c1ccf8c8e36d6824cdf41167956"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0xeac874aed7761460dd4c89778ba6db7d320911a8"
+        },
+        {
+          "name": "wETH/pufETH (wETHpufETH)",
+          "address": "0x39f5b252de249790faed0c2f05abead56d2088e1"
+        },
+        {
+          "name": "Metapool",
+          "address": "0x59ab5a5b5d617e478a2479b0cad80da7e2831492"
+        },
+        {
+          "name": "crvUSD Controller",
+          "address": "0x4e59541306910ad6dc1dac0ac9dfb29bd9f15c67"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x1d08e7adc263cfc70b1babe6dc5bb339c16eec52"
+        },
+        {
+          "name": "bBTC Metapool",
+          "address": "0x071c661b4deefb59e2a3ddb20db036821eee8f4b"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x5f6c431ac417f0f430b84a666a563fabe681da94"
+        },
+        {
+          "name": "Pool",
+          "address": "0x828b154032950c8ff7cf8085d841723db2696056"
+        },
+        {
+          "name": "USDT-WBTC-WETH (tricrypto2)",
+          "address": "0xd51a44d3fae010294c616388b506acda1bfaae46"
+        },
+        {
+          "name": "USDK Pool",
+          "address": "0x3e01dd8a5e1fb3481f0f589056b428fc308af0fb"
+        },
+        {
+          "name": "FRXETH StableSwap",
+          "address": "0xa1f8a6807c402e4a15ef4eba36528a3fed24e577"
+        },
+        {
+          "name": "Pool",
+          "address": "0x06cb22615ba53e60d67bf6c341a0fd5e718e1655"
+        },
+        {
+          "name": "Pool",
+          "address": "0xaa5a67c256e27a5d80712c51971408db3370927d"
+        },
+        {
+          "name": "tBTC/WBTC (2BTC-f)",
+          "address": "0xb7ecb2aa52aa64a717180e030241bc75cd946726"
+        },
+        {
+          "name": "TUSD3CRV-f StableSwap",
+          "address": "0xecd5e75afb02efa118af914515d6521aabd189f1"
+        },
+        {
+          "name": "Pool",
+          "address": "0x322135dd9cbae8afa84727d9ae1434b5b3eba44b"
+        },
+        {
+          "name": "Pool",
+          "address": "0x5a6a4d54456819380173272a5e8e9b9904bdf41b"
+        },
+        {
+          "name": "LLAMMA - crvUSD AMM",
+          "address": "0xe0438eb3703bf871e31ce639bd351109c88666ea"
+        },
+        {
+          "name": "TryLSD (TryLSD)",
+          "address": "0x2570f1bd5d2735314fc102eb12fc1afe9e6e7193"
+        },
+        {
+          "name": "Metapool",
+          "address": "0xe57180685e3348589e9521aa53af0bcd497e884d"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x383e6b4437b59fff47b619cba855ca29342a8559"
+        },
+        {
+          "name": "MetaPool Factory",
+          "address": "0xb9fc157394af804a3578134a6585c0dc9cc990d4"
+        },
+        {
+          "name": "Vyper_contract",
+          "address": "0x7fb53345f1b21ab5d9510adb38f7d3590be6364b"
+        },
+        {
+          "name": "FRAX3CRV-f Pool",
+          "address": "0xd632f22692fac7611d2aa1c0d552930d43caed3b"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x95f425c7d730eb7673fca272c2c305f48ed546c3"
+        },
+        {
+          "name": "VST+FRAX (VSTFRAX-f)",
+          "address": "0x59bf0545fca0e5ad48e13da269facd2e8c886ba4"
+        },
+        {
+          "name": "Curve.fi 3c-crvUSD Gauge Deposit (3c-crvUSD-gauge)",
+          "address": "0x23194e30e54d713c6954ebcd2d5bdcd0171ee2c4"
+        },
+        {
+          "name": "Curve.fi crvUSDARBCRV Gauge Deposit (crvUSDARBCRV-gauge)",
+          "address": "0xb08fef57bfcc5f7bf0ef69c0c090849d497c8f8a"
+        },
+        {
+          "name": "TriRSR (ETH+eUSDRS)",
+          "address": "0x45b47fe1bed067de6b4b89e0285e6b571a64c57c"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x4bd135524897333bec344e50ddd85126554e58b4"
+        },
+        {
+          "name": "2BTC (2BTC-f)",
+          "address": "0x755d6688ad74661add2fb29212ef9153d40fca46"
+        },
+        {
+          "name": "2BTC-ng (2BTC-ng)",
+          "address": "0x186cf879186986a20aadfb7ead50e3c20cb26cec"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0xec090cf6dd891d2d014bea6edada6e05e025d93d"
+        },
+        {
+          "name": "Curve.fi usdc-usdm Gauge Deposit (usdc-usdm-gauge)",
+          "address": "0xbdbb71914ddb650f96449b54d2ca15132be56aca"
+        },
+        {
+          "name": "CurveTricryptoOptimizedWETH",
+          "address": "0x7142ccf2c2092fe82b05ef5659252c92413369b5"
+        },
+        {
+          "name": "ETH-wstETH StableSwap",
+          "address": "0x6eb2dc694eb516b16dc9fbc678c60052bbdd7d80"
+        },
+        {
+          "name": "CurveDeposit&amp;StakeZap",
+          "address": "0x37c5ab57af7100bdc9b668d766e193ccbf6614fd"
+        },
+        {
+          "name": "Curve.fi 2CRV RewardGauge Deposit (2CRV-gauge)",
+          "address": "0xbf7e49483881c76487b0989cd7d9a8239b20ca41"
+        },
+        {
+          "name": "Lacerta POOL (crvUSD/L)",
+          "address": "0x2860c962d9742ce51e1ec207b795d8d7df9a3ad8"
+        },
+        {
+          "name": "2Pool",
+          "address": "0x7f90122bf0700f9e7e1f688fe926940e8839f353"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x2fe7ae43591e534c256a1594d326e5779e302ff4"
+        },
+        {
+          "name": "Tricrypto Pool",
+          "address": "0x960ea3e3c7fb317332d990873d354e18d7645590"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x3adf984c937fa6846e5a24e0a68521bdaf767ce1"
+        },
+        {
+          "name": "FRAXBP (FRAXBP-f)",
+          "address": "0xc9b8a3fdecb9d5b218d02555a8baf332e5b740d5"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x4070c044abc8d9d22447dfe4b032405970878d06"
+        },
+        {
+          "name": "CRV/vsdCRV/asdCRV v2.1 (vasdcrvv2)",
+          "address": "0x5c959d2c1a49b637fb988c40d663265f8bf6d289"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x1c34204fcfe5314dcf53be2671c02c35db58b4e3"
+        },
+        {
+          "name": "axlUSDCFRAXBP (axlFRAX3CRV-f)",
+          "address": "0x741aea6c7707b39bd950da945f84d6b8ba455d48"
+        },
+        {
+          "name": "Curve.fi crvUSDC.e Gauge Deposit (crvUSDC.e-gauge)",
+          "address": "0x7ae49935b8bc11023e5b04d86a44055f999fca31"
+        },
+        {
+          "name": "CurveTricryptoOptimizedWETH",
+          "address": "0x845c8bc94610807fcbab5dd2bc7ac9dabaff3c55"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x73af1150f265419ef8a5db41908b700c32d49135"
+        },
+        {
+          "name": "frxETH/WETH (frxETHWETH-f)",
+          "address": "0x1deb3b1ca6afca0ff9c5ce9301950dc98ac0d523"
+        },
+        {
+          "name": "Lumi Finance USD (LUAUSD3CRV-f)",
+          "address": "0xd2239b95890018a8f52ffd17d7f94c3a82f05389"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x1446999b0b0e4f7ada6ee73f2ae12a2cfdc5d9e7"
+        },
+        {
+          "name": "CurveTricryptoOptimizedWETH",
+          "address": "0x82670f35306253222f8a165869b28c64739ac62e"
+        },
+        {
+          "name": "ezETH/WETH (ezETH)",
+          "address": "0x2b6cc4d44e5ce846f45ce7742e91e628155a4aba"
+        },
+        {
+          "name": "Curve.fi crvUSDC Gauge Deposit (crvUSDC-gauge)",
+          "address": "0xb12600d06753df7c706225c901e6c1346a654d0b"
+        },
+        {
+          "name": "Curve.fi USD++ Gauge Deposit (USD++-gauge)",
+          "address": "0xd68089d9daa2da7888b7ef54158480e09ecc3580"
+        },
+        {
+          "name": "Pool",
+          "address": "0x30df229cefa463e991e29d42db0bae2e122b2ac7"
+        },
+        {
+          "name": "CurveTricryptoOptimizedWETH",
+          "address": "0x96aaf8f6a2e3f45aaf548b753a0e004211e0ad63"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x67d11005af05bb1e9fdb1cfc261c23de3e1055a1"
+        },
+        {
+          "name": "CurveStableSwapNG",
+          "address": "0x93a416206b4ae3204cfe539edfee6bc05a62963e"
+        },
+        {
+          "name": "KNOX/eUSD (KNOXeUSD)",
+          "address": "0x86ea1191a219989d2da3a85c949a12a92f8ed3db"
+        },
+        {
+          "name": "CurveRouterSidechain v1.0",
+          "address": "0xf0d4c12a5768d806021f80a262b4d39d26c58b8d"
+        },
+        {
+          "name": "Curve.fi KNOXeUSD Gauge Deposit (KNOXeUSD-gauge)",
+          "address": "0x8d4fc7ccb459722fdc675bfbe6fa52540bb70a4b"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://curve.fi",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

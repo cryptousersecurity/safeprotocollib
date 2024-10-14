@@ -1,0 +1,21 @@
+{
+  "name": "Elk Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0x4ded9b993d2bcf960f6774b32dcb53e58b6453ae"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://elk.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

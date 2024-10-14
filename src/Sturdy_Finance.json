@@ -1,0 +1,37 @@
+{
+  "name": "Sturdy Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Sturdy crvUSD/yean curve USDC-crvUSD LP silo (yscrvUSD)",
+          "address": "0x6311ff24fb15310ed3d2180d3d0507a21a8e5227"
+        },
+        {
+          "name": "Sturdy crvUSD/yean curve USDT-crvUSD LP silo (yscrvUSD)",
+          "address": "0x26fe402a57d52c8a323bb6e09f06489c8216ac88"
+        },
+        {
+          "name": "Sturdy crvUSD/yean curve mkUSD-crvUSD LP silo (yscrvUSD)",
+          "address": "0x200723063111f9f8f1d44c0f30afadf0c0b1a04b"
+        },
+        {
+          "name": "Sturdy ETH/Sommelier Turbo stETH silo (ysWETH)",
+          "address": "0x0dd49c449c788285f50b529145d6e6e76f02fd8f"
+        },
+        {
+          "name": "Sturdy ETH/Sommelier Real Yield ETH silo (ysWETH)",
+          "address": "0x4e72fcb2517ed90a3976dd8f50a387811ac4d883"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://sturdy.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

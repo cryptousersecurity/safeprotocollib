@@ -1,0 +1,38 @@
+{
+  "name": "Ethena",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "USDeOFTAdapter",
+          "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
+        },
+        {
+          "name": "sUSDe Payout MultiSig",
+          "address": "0x71e4f98e8f20c88112489de3dded4489802a3a87"
+        },
+        {
+          "name": "EthenaLPStaking",
+          "address": "0x8707f238936c12c309bfc2b9959c35828acfc512"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "USDeOFT",
+          "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.ethena.fi/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

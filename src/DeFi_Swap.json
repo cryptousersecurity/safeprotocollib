@@ -1,0 +1,21 @@
+{
+  "name": "DeFi Swap",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "CRO-USDT",
+          "address": "0x4087d0e6e513f260de87408bee9334a5742cfdf4"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://defiswap.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

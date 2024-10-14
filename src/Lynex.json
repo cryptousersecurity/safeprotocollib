@@ -1,0 +1,37 @@
+{
+  "name": "Lynex",
+  "description": null,
+  "chains": [
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "Algebra Pool",
+          "address": "0x057819bbc15121c923620c27303b2ed58b87cf86"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0xd20a91f1d2b6ed56e9798a72112447e0abe34109"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0x6e9ad0b8a41e2c148e7b0385d3ecbfdb8a216a9b"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0x8611456f845293edd3f5788277f00f7c05ccc291"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0xd4e533ff076c08ead9b1a4441f97ea9ec29d00e9"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.lynex.fi",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ViciNFT",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "LzBridgeableTokenTunnel (Proxy)",
+          "address": "0xf0d742e9de57d7cfded71a8f8d7cbe374e32b052"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://vicicoin.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

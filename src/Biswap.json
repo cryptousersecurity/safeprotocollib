@@ -1,0 +1,89 @@
+{
+  "name": "Biswap",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "V3 Router",
+          "address": "0xa6fa4115f9c6b3aca9454df84b43deb7fe389019"
+        },
+        {
+          "name": "Pool",
+          "address": "0x1483767e665b3591677fd49f724bf7430c18bf83"
+        },
+        {
+          "name": "Pool",
+          "address": "0x857f601df3eac2f25e25dbd2b33d94bcd6f47d1c"
+        },
+        {
+          "name": "Pool",
+          "address": "0x1ef315fa08e0e1b116d97e3dfe0af292ed8b7f02"
+        },
+        {
+          "name": "Pool",
+          "address": "0x262c1d63e6ac0444f96cff61ec7b9a850fab6de4"
+        },
+        {
+          "name": "Pool",
+          "address": "0xde5e03bc7014d65af8f9fe8f11fdb5b5b9116f7b"
+        },
+        {
+          "name": "Pool",
+          "address": "0xfbbd096a99e95d6808b918a5c0863ed9989ebd41"
+        },
+        {
+          "name": "Pool",
+          "address": "0x715e0dcdc2f9e14381ecefeb899284acaca92daa"
+        },
+        {
+          "name": "Pool",
+          "address": "0x5bf6941f029424674bb93a43b79fc46bf4a67c21"
+        },
+        {
+          "name": "Pool",
+          "address": "0x0f36e44f6056881ecad0f22d5da5586431c583a7"
+        },
+        {
+          "name": "Pool",
+          "address": "0x2b30c317cedfb554ec525f85e79538d59970beb0"
+        },
+        {
+          "name": "Pool",
+          "address": "0x46492b26639df0cda9b2769429845cb991591e0a"
+        },
+        {
+          "name": "Pool",
+          "address": "0xca7172132824954667aad12600450097d04d7b29"
+        },
+        {
+          "name": "Pool",
+          "address": "0x3f25b1ad0337fac6fd723982e38765128a8c7478"
+        },
+        {
+          "name": "Pool",
+          "address": "0xda8ceb724a06819c0a5cdb4304ea0cb27f8304cf"
+        },
+        {
+          "name": "WBNB-BUSD",
+          "address": "0xacaac9311b0096e04dfe96b6d87dec867d3883dc"
+        },
+        {
+          "name": "Pool",
+          "address": "0x3530f7d8d55c93d778e17cbd30bf9eb07b884f35"
+        },
+        {
+          "name": "Pool",
+          "address": "0x284f871d6f2d4fe070f1e18c355ef2825e676aa2"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://biswap.org/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

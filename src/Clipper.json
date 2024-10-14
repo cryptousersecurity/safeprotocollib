@@ -1,0 +1,21 @@
+{
+  "name": "Clipper",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Clipper LP Token (ClipperLP)",
+          "address": "0x655edce464cc797526600a462a8154650eee4b77"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://clipper.exchange/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

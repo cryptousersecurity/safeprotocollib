@@ -1,0 +1,503 @@
+{
+  "name": "Trader Joe",
+  "description": null,
+  "chains": [
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0x1901011a39b11271578a1283d620373abed66faa"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0xd9fa522f5bc6cfa40211944f2c8da785773ad99d"
+        },
+        {
+          "name": "Pool",
+          "address": "0x4dc5291cdc7ad03342994e35d0ccc76de065a566"
+        },
+        {
+          "name": "Pool",
+          "address": "0x76a551fc28029639ab017742c224159a786f544f"
+        },
+        {
+          "name": "Pool",
+          "address": "0xa98b855003b3fe4709c0174dc186aa0155ece3e4"
+        },
+        {
+          "name": "Pool",
+          "address": "0xfe64b906b7ec35f02c49d09e4165cd823e5cb26c"
+        },
+        {
+          "name": "Pool",
+          "address": "0x199fb78019a08af2cb6a078409d0c8233eba8a0c"
+        },
+        {
+          "name": "Router",
+          "address": "0x60ae616a2155ee3d9a68541ba4544862310933d4"
+        },
+        {
+          "name": "Pool",
+          "address": "0x6f3a0c89f611ef5dc9d96650324ac633d02265d3"
+        },
+        {
+          "name": "LBRouter",
+          "address": "0xb4315e873dbcf96ffd0acd8ea43f689d8c20fb30"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0xd446eb1660f766d533beceef890df7a69d26f7d1"
+        },
+        {
+          "name": "Pool",
+          "address": "0x516f0909ce0153076f1dd301ee149e4397ccb282"
+        },
+        {
+          "name": "Pool",
+          "address": "0x13dd08cd226c11da0939d0d94a807a8f1a3ee8ab"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0x6dbcf39c6686a4088a224a18f63f92fe6535f7a8"
+        },
+        {
+          "name": "Pool",
+          "address": "0x95189f25b4609120f72783e883640216e92732da"
+        },
+        {
+          "name": "Pool",
+          "address": "0xecd6d33555183bc82264dbc8bebd77a1f02e421e"
+        },
+        {
+          "name": "Pool",
+          "address": "0x60b881fa346e52590b1aa11d94a6d9047702c44e"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0xb9b9377084a92a6b1d65341712761a641c86d95d"
+        },
+        {
+          "name": "Pool",
+          "address": "0xded83f814452ecb978639724a91e92b91d8ecc89"
+        },
+        {
+          "name": "Pool",
+          "address": "0x2d38bde22e044ea59688ca7cdd4f0b5307cc519a"
+        },
+        {
+          "name": "Liquidity Book Pool",
+          "address": "0xc01961ede437bf0cc41d064b1a3f6f0ea6aa2a40"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0x87eb2f90d7d0034571f343fb7429ae22c1bd9f72"
+        },
+        {
+          "name": "Pool",
+          "address": "0x330f77bda60d8dab14d2bb4f6248251443722009"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0x9a0a97d8005d9f783a054aa5cd8878bb0ccf414d"
+        },
+        {
+          "name": "Pool",
+          "address": "0x03a5888726667fff1e753fc06b51dd1245e7371a"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0xff5c35cdc9d9226e20c06ebf8c4eb36c5b6442c4"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0x7c13d4c3e9dfa683e7a5792a9ff20cb5fd22b0c0"
+        },
+        {
+          "name": "Pool",
+          "address": "0xe5e9d67e93ad363a50cabcb9e931279251bbefd0"
+        },
+        {
+          "name": "Pool",
+          "address": "0x55538291dbeedbcb2fc95270a2425127cf575549"
+        },
+        {
+          "name": "WAVAX-USDT.e",
+          "address": "0xed8cbd9f0ce3c6986b22002f03c6475ceb7a6256"
+        },
+        {
+          "name": "Pool",
+          "address": "0x0b2777b0c55aeaaeb56e86b6eefa6cc2cfa00e07"
+        },
+        {
+          "name": "Pool",
+          "address": "0x1a95f00ac4826d9a8fa6eb9f9900c39513f6b1ca"
+        },
+        {
+          "name": "Pool",
+          "address": "0x7d5df7addefcffa189307745919b5898d343ff6c"
+        },
+        {
+          "name": "Pool",
+          "address": "0x813902a6722ee55e141de2ea8dbae64896f7a44b"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0xeeab99a3a086084f3d740214c64d7ba03acb8bcb"
+        },
+        {
+          "name": "Pool",
+          "address": "0x962007c6d22b5d28ef916f21c8798d4d7f22f479"
+        },
+        {
+          "name": "Pool",
+          "address": "0x74b651eff97871ea99fcc14423e611d85eb0ea93"
+        },
+        {
+          "name": "Pool",
+          "address": "0xf6dbe9bed1ec619e9fcea0153d98dcf80118a33b"
+        },
+        {
+          "name": "USDC-WAVAX",
+          "address": "0xf4003f4efbe8691b60249e6afbd307abe7758adb"
+        },
+        {
+          "name": "Strategy (Proxy)",
+          "address": "0x0ddba20fa3b247fb3381cde1a1fae35c032e33fc"
+        },
+        {
+          "name": "Automated Pool Token - Oracle Vault #0 (APT)",
+          "address": "0x32833a12ed3fd5120429fb01564c98ce3c60fc1d"
+        },
+        {
+          "name": "Pool",
+          "address": "0xa1aeb013a997a7e0e3b7679d4ed49b1df09b694b"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0xe6c7e4142b0cb24f2bfa7b9a50911375f8ee8db9"
+        },
+        {
+          "name": "Pool",
+          "address": "0x08db8eafeea89476bfc51b07613f430748ff350a"
+        },
+        {
+          "name": "Pool",
+          "address": "0x1d07ab9cca358ecb5c669b7fba6bd3900df741a5"
+        },
+        {
+          "name": "Pool",
+          "address": "0xbb4646a764358ee93c2a9c4a147d5aded527ab73"
+        },
+        {
+          "name": "Pool",
+          "address": "0x15ab2dae41ab3edfc470dee83e322c82a200fe08"
+        },
+        {
+          "name": "Liquidity Book Pool",
+          "address": "0x855ee438445075f25c18a125ba6607543052a194"
+        },
+        {
+          "name": "Pool",
+          "address": "0x7bf98bd74e19ad8eb5e14076140ee0103f8f872b"
+        },
+        {
+          "name": "Pool",
+          "address": "0x2774516897ac629ad3ed9dcac7e375dda78412b9"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0x9f8973fb86b35c307324ec31fd81cf565e2f4a63"
+        },
+        {
+          "name": "Pool",
+          "address": "0x454e67025631c065d3cfad6d71e6892f74487a15"
+        },
+        {
+          "name": "Liquidity Book Pool",
+          "address": "0x18332988456c4bd9aba6698ec748b331516f5a14"
+        },
+        {
+          "name": "USDC.e-WAVAX",
+          "address": "0xa389f9430876455c36478deea9769b7ca4e3ddb1"
+        },
+        {
+          "name": "Pool",
+          "address": "0x1273227c0d368a65eb7942fa02ef68dbda466a26"
+        },
+        {
+          "name": "Pool",
+          "address": "0x1f30395bc5d883ada83dec81c1a41b8608106dee"
+        },
+        {
+          "name": "Strategy (Proxy)",
+          "address": "0x8efa72ced215b58fa767b42ff84faff054c1dcb7"
+        },
+        {
+          "name": "Pool",
+          "address": "0x7012ae2b092f12be1820acd5f1aed5d73e3116e6"
+        },
+        {
+          "name": "Pool",
+          "address": "0xf261ebd3e99deaee37f4e1e15d7c05c9476e6d4e"
+        },
+        {
+          "name": "Pool",
+          "address": "0xfacb3892f9a8d55eb50fdeee00f2b3fa8a85ded5"
+        },
+        {
+          "name": "Pool",
+          "address": "0x96bbdb6811d47b1199d444d507de623a905d63f3"
+        },
+        {
+          "name": "Pool",
+          "address": "0xa8cbcc4dacbbb1623bb5b6e1f601ced8088c930e"
+        },
+        {
+          "name": "Pool",
+          "address": "0xb674f93952f02f2538214d4572aa47f262e990ff"
+        },
+        {
+          "name": "sJOE Staking",
+          "address": "0x1a731b2299e22fbac282e7094eda41046343cb51"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0xe2b11d3002a2e49f1005e212e860f3b3ec73f985"
+        },
+        {
+          "name": "Pool",
+          "address": "0x4514c70a27a2e6035859d477b86c4e21b6209bf6"
+        },
+        {
+          "name": "MIM-WAVAX",
+          "address": "0x781655d802670bba3c89aebaaea59d3182fd755d"
+        },
+        {
+          "name": "Pool",
+          "address": "0x67926d973cd8ee876ad210faaf7dffa99e414acf"
+        },
+        {
+          "name": "Pool",
+          "address": "0x3bc40d4307cd946157447cd55d70ee7495ba6140"
+        },
+        {
+          "name": "Pool",
+          "address": "0x30556acc64b7b8f37ae4ce8325dd279847f09926"
+        },
+        {
+          "name": "JoeTokenProxyOFT",
+          "address": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07"
+        },
+        {
+          "name": "Pool",
+          "address": "0xcba7547a075bc50843c29e59554c807726ef7268"
+        },
+        {
+          "name": "Pool",
+          "address": "0xc48d93844b5fe60283425f6124ba3a741441a3c3"
+        },
+        {
+          "name": "Pool",
+          "address": "0xbc274bee31f55575fcca3cfb0d349479cc06857b"
+        },
+        {
+          "name": "Pool",
+          "address": "0x7ef8e0af1a2be468aa54d31f50d50eb6a039da0e"
+        },
+        {
+          "name": "Pool",
+          "address": "0x3776fd6c524ca4bef0e9aa02a9951c0645958a5d"
+        },
+        {
+          "name": "Pool",
+          "address": "0x893bc02af842b8f21679fa4db1cf10c8a3bdbaeb"
+        },
+        {
+          "name": "Pool",
+          "address": "0xb9775b9efefaefa014f159ae43058c954116aa31"
+        },
+        {
+          "name": "Pool",
+          "address": "0x1643de2efb8e35374d796297a9f95f64c082a8ce"
+        },
+        {
+          "name": "Pool",
+          "address": "0x2fd81391e30805cc7f2ec827013ce86dc591b806"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0x9b2cc8e6a2bbb56d6be4682891a91b0e48633c72"
+        },
+        {
+          "name": "Pool",
+          "address": "0xe11e871d312cc9bae9eb24c7bdc2031f8453bf44"
+        },
+        {
+          "name": "Pool",
+          "address": "0xfe15c2695f1f920da45c30aae47d11de51007af9"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0x2f1da4bafd5f2508ec2e2e425036063a374993b6"
+        },
+        {
+          "name": "Pool",
+          "address": "0x5c29561eca17a60caaecfdbb087b5a7ea6b976a3"
+        },
+        {
+          "name": "Pool",
+          "address": "0x71ddeb079b4deded2eb6651420c816620a1d3cfd"
+        },
+        {
+          "name": "Pool",
+          "address": "0xd5a37dc5c9a396a03dd1136fc76a1a02b1c88ffa"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0x96b7c8b54353a8b4fd981e1386715c37e068e1e7"
+        },
+        {
+          "name": "Pool",
+          "address": "0x41ab86eecbd110a82ca602d032a461f453066f1e"
+        },
+        {
+          "name": "Pool",
+          "address": "0x2f54994a8c8bb63cc8d2f7116a09e89a32ca5a9e"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0x4224f6f4c9280509724db2dbac314621e4465c29"
+        },
+        {
+          "name": "Pool",
+          "address": "0x5b9faf0fea95df4d4cb894ef920704daff656f3e"
+        },
+        {
+          "name": "Pool",
+          "address": "0x72c3438cf1c915ecf5d9f17a6ed346b273d5bf71"
+        },
+        {
+          "name": "Pool",
+          "address": "0xb605111323c92ac8166821cea1fe64c529771b9a"
+        },
+        {
+          "name": "Pool",
+          "address": "0xdb87ba23c60e5fe6514f352a30b1170494045221"
+        },
+        {
+          "name": "Pool",
+          "address": "0x87dee1cc9ffd464b79e058ba20387c1984aed86a"
+        },
+        {
+          "name": "Pool",
+          "address": "0xc45893e0ee426a643e54829ee8c697995e5980ed"
+        },
+        {
+          "name": "Pool",
+          "address": "0x035d10e2ae3406fdd145d59d63ff2aa57870e189"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0x6362592e1d84d7bc356c5d81fa0cdc116b9b419b"
+        },
+        {
+          "name": "Pool",
+          "address": "0x75b0e4220f0055944c8b2fb154443be2f95deedd"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0x69f1216cb2905bf0852f74624d5fa7b5fc4da710"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0xb16a6da01ee97959462c227757c43194c6c53f26"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0x0be4ac7da6cd4bad60d96fbc6d091e1098afa358"
+        },
+        {
+          "name": "LBRouter",
+          "address": "0xb4315e873dbcf96ffd0acd8ea43f689d8c20fb30"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0xd387c40a72703b38a5181573724bcaf2ce6038a5"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0x81df678a41a5baade2a13b58accb95a43328400a"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0xfc43aaf89a71acaa644842ee4219e8eb77657427"
+        },
+        {
+          "name": "JOE Token",
+          "address": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0xcfa09b20c85933b197e8901226ad0d6daca7f114"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0xe2b32e6dd706af1ae7e6ea71d0477b5adaf9c9d1"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0xb57ead49ed94ead81bc8d20eeb90e9758bd88b33"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0x500173f418137090dad96421811147b63b448a0f"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0x0242dd3b2e792cdbd399cc6195951bc202aee97b"
+        },
+        {
+          "name": "Pool",
+          "address": "0x6e30744f4878b5f8510fd18c8e2662192a675939"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0xde568fd89b3349a766f45d5ab2a7c0510f476a80"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0x4b9bfed1dd4e6780454b2b02213788f31ffba74a"
+        },
+        {
+          "name": "Liquidity Book Pool v2.1",
+          "address": "0x94d53be52706a155d27440c4a2434bea772a6f7c"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "LBRouter",
+          "address": "0xb4315e873dbcf96ffd0acd8ea43f689d8c20fb30"
+        },
+        {
+          "name": "JoeToken (JOE)",
+          "address": "0x371c7ec6d8039ff7933a2aa28eb827ffe1f52f07"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://traderjoexyz.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

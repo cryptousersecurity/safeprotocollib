@@ -1,0 +1,25 @@
+{
+  "name": "Gemini",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x5f65f7b609678448494de4c87521cdf6cef1e932"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xd24400ae8bfebb18ca49be86258a3c749cf46853"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://gemini.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

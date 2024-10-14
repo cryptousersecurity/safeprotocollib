@@ -1,0 +1,21 @@
+{
+  "name": "Blockscape",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Lido Finance Node Operator",
+          "address": "0x5f74a2db08d717c94457c550af54548c4241ace9"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://blockscape.network",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

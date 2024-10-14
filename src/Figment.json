@@ -1,0 +1,21 @@
+{
+  "name": "Figment",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Lido Node Operator",
+          "address": "0xfe78617ec612ac67bcc9cc145d376400f15a82cb"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://figment.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

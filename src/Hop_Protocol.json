@@ -1,0 +1,274 @@
+{
+  "name": "Hop Protocol",
+  "description": null,
+  "chains": [
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "ETH Rewards",
+          "address": "0x95d6a95becfd98a7032ed0c7d950ff6e0fa8d697"
+        },
+        {
+          "name": "USDC Liquidity Pool",
+          "address": "0x3c0ffaca566fccfd9cc95139fef6cba143795963"
+        },
+        {
+          "name": "DAI Rewards",
+          "address": "0x392b9780cfd362bd6951edfa9ebc31e68748b190"
+        },
+        {
+          "name": "L2 AMM Wrapper",
+          "address": "0x7d269d3e0d61a05a0ba976b7dbf8805bf844af3f"
+        },
+        {
+          "name": "USDT Rewards",
+          "address": "0xaeb1b49921e0d2d96fcdbe0d486190b2907b3e0b"
+        },
+        {
+          "name": "DAI Wrapper",
+          "address": "0xb3c68a491608952cb1257fc9909a537a0173b63b"
+        },
+        {
+          "name": "USDT Liquidity Pool",
+          "address": "0xec4b41af04cf917b54aeb6df58c0f8d78895b5ef"
+        },
+        {
+          "name": "USDC Rewards",
+          "address": "0xf587b9309c603feedf0445af4d3b21300989e93a"
+        },
+        {
+          "name": "L2 AMM Wrapper",
+          "address": "0x86ca30bef97fb651b8d866d45503684b90cb3312"
+        },
+        {
+          "name": "HOP Bonder",
+          "address": "0x881296edcb252080bd476c464ceb521d08df7631"
+        },
+        {
+          "name": "L2 Saddle Swap",
+          "address": "0xaa30d6bba6285d0585722e2440ff89e23ef68864"
+        },
+        {
+          "name": "Swap",
+          "address": "0xf181ed90d6cfac84b8073fdea6d34aa744b41810"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "L2 Saddle Swap",
+          "address": "0x652d27c0f72771ce5c76fd400edd61b406ac6d97"
+        },
+        {
+          "name": "L2 USDT Saddle Swap",
+          "address": "0x18f7402b673ba6fb5ea4b95768aabb8aad7ef18a"
+        },
+        {
+          "name": "StakingRewards",
+          "address": "0x4e9840f3c1ff368a10731d15c11516b9fe7e1898"
+        },
+        {
+          "name": "ETH AMM Wrapper",
+          "address": "0x33ceb27b39d2bb7d2e61f7564d3df29344020417"
+        },
+        {
+          "name": "L2 USDT AMM Wrapper",
+          "address": "0xcb0a4177e0a60247c0ad18be87f8edff6dd30283"
+        },
+        {
+          "name": "MerkleRewards",
+          "address": "0xb3c18710fe030a75a3a981a1abac0db984e51853"
+        },
+        {
+          "name": "Swap",
+          "address": "0xffe42d3ba79ee5ee74a999cad0c60ef1153f0b82"
+        },
+        {
+          "name": "Reward Contract USDT",
+          "address": "0x9dd8685463285ad5a94d2c128bda3c5e8a6173c8"
+        },
+        {
+          "name": "L2 DAI Saddle Swap",
+          "address": "0xa5a33ab9063395a90ccbea2d86a62eccf27b5742"
+        },
+        {
+          "name": "L2 USDC Saddle Swap",
+          "address": "0x10541b07d8ad2647dc6cd67abd4c03575dade261"
+        },
+        {
+          "name": "L2_AmmWrapper",
+          "address": "0x16e08c02e4b78b0a5b3a917ff5feaedd349a5a95"
+        },
+        {
+          "name": "L2 DAI AMM Wrapper",
+          "address": "0xe7f40bf16ab09f4a6906ac2caa4094ad2da48cc2"
+        },
+        {
+          "name": "L2_HopCCTPImplementation",
+          "address": "0x6504bfcab789c35325ca4329f1f41fac340bf982"
+        },
+        {
+          "name": "Swap",
+          "address": "0x0ded0d521ac7b0d312871d18ea4fde79f03ee7ca"
+        },
+        {
+          "name": "Reward Contract ETH",
+          "address": "0x755569159598f3702bdd7dff6233a317c156d3dd"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "L2_HopCCTPImplementation",
+          "address": "0xe7f40bf16ab09f4a6906ac2caa4094ad2da48cc2"
+        },
+        {
+          "name": "Swap",
+          "address": "0x0ce6c85cf43553de10fc56ceca0aef6ff0dd444d"
+        },
+        {
+          "name": "StakingRewards",
+          "address": "0x12e59c59d282d2c00f3166915bed6dc2f5e2b5c7"
+        },
+        {
+          "name": "L2_AmmWrapper",
+          "address": "0x10541b07d8ad2647dc6cd67abd4c03575dade261"
+        },
+        {
+          "name": "HOP Bonder",
+          "address": "0x881296edcb252080bd476c464ceb521d08df7631"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "ETH Bonder",
+          "address": "0x710bda329b2a6224e4b44833de30f38e7f81d564"
+        },
+        {
+          "name": "Matic Bonder",
+          "address": "0xd8781ca9163e9f132a4d8392332e64115688013a"
+        },
+        {
+          "name": "USDT Bridge",
+          "address": "0x3e4a3a4796d16c0cd582c382691998f7c06420b6"
+        },
+        {
+          "name": "Hop (HOP)",
+          "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc"
+        },
+        {
+          "name": "MATIC Bridge",
+          "address": "0x22b1cbb8d98a01a3b71d034bb899775a76eb1cc2"
+        },
+        {
+          "name": "DAI Bridge",
+          "address": "0x3d4cc8a61c7528fd86c55cfe061a78dcba48edd1"
+        },
+        {
+          "name": "L1_HOP_Bridge",
+          "address": "0x914f986a44acb623a277d6bd17368171fcbe4273"
+        },
+        {
+          "name": "L1_ERC20_Bridge",
+          "address": "0x87269b23e73305117d0404557badc459ced0dbec"
+        },
+        {
+          "name": "L1_HopCCTPImplementation",
+          "address": "0x7e77461ca2a9d82d26fd5e0da2243bf72ea45747"
+        },
+        {
+          "name": "Ethereum Bridge",
+          "address": "0xb8901acb165ed027e32754e0ffe830802919727f"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "Swap",
+          "address": "0x2935173357c010f8b56c8719a44f9fbdda90f67c"
+        },
+        {
+          "name": "L2 AMM Wrapper",
+          "address": "0xc8a4fb931e8d77df8497790381ca7d228e68a41b"
+        },
+        {
+          "name": "L2 Linea Bridge",
+          "address": "0xcbb852a6274e03fa00fb4895de0463f66df27a11"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Ethereum Bridge",
+          "address": "0xc315239cfb05f1e130e7e28e603cea4c014c57f0"
+        },
+        {
+          "name": "DAI Liquidity Pool",
+          "address": "0x25fb92e505f752f730cad0bd4fa17ece4a384266"
+        },
+        {
+          "name": "HOP Bonder",
+          "address": "0x881296edcb252080bd476c464ceb521d08df7631"
+        },
+        {
+          "name": "ETH Liquidity Pool",
+          "address": "0x266e2dc3c4c59e42aa07afee5b09e964cffe6778"
+        },
+        {
+          "name": "USDC Liquidity Pool",
+          "address": "0x5c32143c8b198f392d01f8446b754c181224ac26"
+        },
+        {
+          "name": "ETH Rewards Contract 2",
+          "address": "0xaa7b3a4a084e6461d486e53a03cf45004f0963b7"
+        },
+        {
+          "name": "MATIC Liquidity Pool",
+          "address": "0x3d4cc8a61c7528fd86c55cfe061a78dcba48edd1"
+        },
+        {
+          "name": "USDT Liquidity Pool",
+          "address": "0xb2f7d27b21a69a033f85c42d5eb079043baadc81"
+        },
+        {
+          "name": "MATIC Wrapper",
+          "address": "0x884d1aa15f9957e1aeaa86a82a72e49bc2bfcbe3"
+        },
+        {
+          "name": "L2_HopCCTPImplementation",
+          "address": "0x1cd391bd1d915d189de162f0f1963c07e60e4cd6"
+        },
+        {
+          "name": "DAI Wrapper",
+          "address": "0x28529fec439cff6d7d1d5917e956dee62cd3be5c"
+        },
+        {
+          "name": "USDC Wrapper",
+          "address": "0x76b22b8c1079a44f1211d867d68b1eda76a635a7"
+        },
+        {
+          "name": "USDT Wrapper",
+          "address": "0x8741ba6225a6bf91f9d73531a98a89807857a2b3"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://hop.exchange/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

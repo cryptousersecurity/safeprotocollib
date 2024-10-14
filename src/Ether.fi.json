@@ -1,0 +1,157 @@
+{
+  "name": "Ether.fi",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Deployer",
+          "address": "0x9eac7114d1a1eabc4732a886795cfd9e6e35843f"
+        },
+        {
+          "name": "MerkleDistributorWithDeadline",
+          "address": "0x1baa2146e5b258a2cc516166a095dbc22caacfe6"
+        },
+        {
+          "name": "EtherfiL1SyncPoolETH (Proxy)",
+          "address": "0xd789870bea40d056a4d26055d0befcc8755da146"
+        },
+        {
+          "name": "EtherFiOFTAdapter",
+          "address": "0xfe7fe01f8b9a76803af3750144c2715d9bcf7d0d"
+        },
+        {
+          "name": "Ether.Fi Liquid USD (liquidUSD)",
+          "address": "0x08c6f91e2b681faf5e17227f2a44c307b3c1364c"
+        },
+        {
+          "name": "Treasury",
+          "address": "0x6329004e903b7f420245e7af3f355186f2432466"
+        },
+        {
+          "name": "StakingManager (Proxy)",
+          "address": "0x25e821b7197b146f7713c3b89b6a4d83516b912d"
+        },
+        {
+          "name": "AtomicSolverV3",
+          "address": "0x989468982b08aefa46e37cd0086142a86fa466d7"
+        },
+        {
+          "name": "LiquidityPool (Proxy)",
+          "address": "0x308861a430be4cce5502d0a12724771fc6daf216"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x5f0e7a424d306e9e310be4f5bb347216e473ae55"
+        },
+        {
+          "name": "ether.fi governance token (ETHFI)",
+          "address": "0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb"
+        },
+        {
+          "name": "Withdraw Request NFT (WithdrawRequestNFT)",
+          "address": "0x7d5706f6ef3f89b3951e23e557cdfbc3239d4e2c"
+        },
+        {
+          "name": "Treasury",
+          "address": "0x7a6a41f353b3002751d94118aa7f4935da39bb53"
+        },
+        {
+          "name": "Early Adopter Program",
+          "address": "0x7623e9dc0da6ff821ddb9ebaba794054e078f8c4"
+        },
+        {
+          "name": "Liquifier (Proxy)",
+          "address": "0x9ffdf407cde9a93c47611799da23924af3ef764f"
+        },
+        {
+          "name": "Deployer",
+          "address": "0x0463e60c7ce10e57911ab7bd1667eaa21de3e79b"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0xe4439b1d150ab2febd72d699954c7b4dde2b66e2"
+        },
+        {
+          "name": "Deployer",
+          "address": "0x2322ba43eff1542b6a7baed35e66099ea0d12bd1"
+        },
+        {
+          "name": "AuctionManager (Proxy)",
+          "address": "0x00c452affee3a17d9cecc1bcd2b8d5c7635c4cb9"
+        },
+        {
+          "name": "Ether.Fi Liquid ETH (liquidETH)",
+          "address": "0xf0bb20865277abd641a307ece5ee04e79073416c"
+        },
+        {
+          "name": "Super Symbiotic LRT (weETHs)",
+          "address": "0x917cee801a67f933f2e6b33fc0cd1ed2d5909d88"
+        },
+        {
+          "name": "EtherFi wrapped ETH (weETH)",
+          "address": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee"
+        },
+        {
+          "name": "MembershipManager (Proxy)",
+          "address": "0x3d320286e014c3e1ce99af6d6b00f0c1d63e3000"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "troglobyte.eth",
+          "address": "0x0463e60c7ce10e57911ab7bd1667eaa21de3e79b"
+        },
+        {
+          "name": "Deployer",
+          "address": "0x9eac7114d1a1eabc4732a886795cfd9e6e35843f"
+        },
+        {
+          "name": "Ether.Fi Liquid ETH (liquidETH)",
+          "address": "0xf0bb20865277abd641a307ece5ee04e79073416c"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Wrapped eETH (weETH.base)",
+          "address": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a"
+        },
+        {
+          "name": "Deployer",
+          "address": "0x2322ba43eff1542b6a7baed35e66099ea0d12bd1"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Deployer",
+          "address": "0x2322ba43eff1542b6a7baed35e66099ea0d12bd1"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Wrapped eETH (weETH.bnb)",
+          "address": "0x04c0599ae5a44757c0af6f9ec3b93da8976c150a"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://ether.fi/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

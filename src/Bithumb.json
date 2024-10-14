@@ -1,0 +1,842 @@
+{
+  "name": "Bithumb",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x1c4b11943e73c3f4bbcfbf7d21886b087711e784"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xf96b24301c4633ab54ae2541229aadfa59232874"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xfa88deb799a65c95e07313252e6006025dbca7af"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x27fe65c7890841ff9943208516f66fe244a8a3eb"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xcc68fa9f3ddefc3f86307389d3efb146651cc03f"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xc0140cfc3988101a7c1ac769af92fb1ffca80f58"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x533f512b72903529c5618969881fa4025a3267bd"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x885e84b7d671475dc3b5f90c5ea9ff2e9a035540"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xfb78298aa93de3faa448e78f6b979f22818bdf36"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x043d628312768154dcef0b9e8422b2dd794d91e8"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xcac918aa18872e4b5f6aaf01bf8364103f32065b"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xfc2bf3c4460e8317fd381121c5918a54db93d415"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xcc1c96eeba39bf28eb2315d8ff2f4fa34ebac79e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x15318858240824d4f8bf1d94c69701f03f50e6ca"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xe34fdb42c94c47e9f4447bb9ce49ff8700e8410c"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x302a8e7b6181ec9478929e1bbf91e84e4099f26f"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x70cc1eee4bb9fcbb050c797cc9fd65d1ec1dfa22"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xf6f8aae5e5c3b2dd2366a7c597d2bd01a830619b"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x70acd57a925516e0c77fadc51280d9df4de0276e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xcf4a54d124d6e4a7f347d5603493c874d6f0a255"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xab575dda1001e709e24a2e8ba08b0752342f0831"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x5801016b0f9a269c4afd51a467413f832093ac54"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x20c9ca0edc13f4e28a469ca7fb7b1f76da058b0a"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x70c97b7aa0100776aef41ca1a34645a8c3529f29"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x54d1774631980b22c85f13bfaf2f45291b22cbf9"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x62012c72b9d525a704e164f541140762087a635c"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x96b1392f2e9e6849b8598d51f0861ade4fda2885"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x06b93279249ec9c4e3d36f6e38d74a2744e618af"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x0a2cbec00f420af69d8216de28bb450e002752ac"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xbb834748dd0fffc927fef223195703d39b862eb8"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x32b018a53440e4d372cadec0cb04a4378f9fffa4"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x0a235516b0294d2d07ca430789a7d8ac9963c169"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x51d34060fc9c650e1c3e580865d4d1f086e84322"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x6755a91bf2f0f5cd711b97c433b737a0d8b4f069"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xc148363d1dfabfa0f13e726682bad8b48b25eaec"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x234836caf53b3a3b507aa608f9f304bac50c8d0e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x2d9d0faabc2a37fbc553bb024f71d47e76e1ada2"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xc658d76f73378fbb9ddcf01d9d89b68c75432610"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xeb8ee0503e0301720eb7616e0897f8ecdf751fc3"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x1e72e2a0665cd5db0b59397d242633b6e9834506"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xa88bb1ad86b48e6e75eaeaa4ae23ff52b8377eda"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x2226f424ff9e018a126e40d4e390da6f6c69742c"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x128519584bec3b6b0c63dfa3975c9a7eb6fea5e4"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x51a9024f1642e5ce2307343c4fe660d8c40912ef"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x86cc605368bd7924953625359f4bff3bd38fcf63"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x93d91b9dfd3e14bdf4eb3358081519918d3bc39e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x9bbf705816aae29cd89840b308a8a1c21efbd8d6"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xa36a9867fb26c9650b1ddda645b827f80fd7a9d1"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x0eefa291a97993750c3285e111484bea50b3d5b8"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x80db079359286b770d6d1082f3b93fe9d169dcdc"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x3f2d3d57895dc6c66fe7d8bb46a10f155e6b8c65"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x1d7531339edb15f1d36020e515f63363c5d63abf"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x44846f7117c600029cc4f7955b3d99440c2eab7c"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x6fc48de8f167456b7aa27dd4ecfabba329ea623d"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x0016c0d0343e8f2c3a7b6a51606b84b1545ec606"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0x03599a2429871e6be1b154fb9c24691f9d301865"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xc46a350812adfcc13d53bb0d565e5e01ddbfe734"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x27f65d44476700701bb89a9484c3fcfb968f123f"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x96c8910891a1ab9a85e3d4880d03abd003d05af5"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xfd45b404d60154f8ed8a9326b57fe561fc7fb46c"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x23731b08a78c9b3579bdd3ddf39e1a73462ee1b1"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xc32d11a7994529cf86e8f9d6e13b05954a0d5746"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x61d5030c5723ab7ca54cbfb60be38de920a75f7f"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xbf801f7e8626564ec6dd0e5da4fbda58bc332e9c"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x999eff5a6e4584c6b73b207b012cf964385c8ec2"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x88a005be4f9ae732095a7b1b242af29868ac0d19"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x50b469999db025cf798f525434ddf62ee459be03"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x545c72c89d2432d52652c823edb395dc415bbd8d"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x968631826bd243adbbe1777718e120b106379377"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x0b85c59db5b41e9afd5a6a5b6838ae2da8149d50"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x5f99e419e477dcecf580e6fc375674fa555beac8"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x8dc7e2ff2c648ee0c29b5e9e0de8ef28728c1edd"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x0eec9ba7a7b670509d883625065452e7bf3d08b1"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x6ad16ae71f68814073e2bcb68780ac0337c40fd3"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x305158a59d745b0c3ce2851e609e980faadf02b0"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xc914c42a626b9f8f6a4cd830c4129131894f9a58"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x32db867f6a98238b9b53e66b6644e7dd47cfc76d"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x46b730ff07fd26f4eccae41704ad8cc2203c15a9"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x0c4ed2551f687d785866ebe7ed73bc2f4dd7c88e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x55c252754079e2c366f66db8422c4379d89b02de"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x8fecfef12757cad3327ead1746bc63db3f08b33e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xf0550eb95352a577e275413693570e07c48158e5"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xb949d59693a5ef5e7deb76dbdefb77b4677787f0"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x1e2944c9ceef52c656979700440beec67f9a8bca"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xc70c1a16957cffe10f2ad3170b4a40d8426f7abe"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xd23d02f05f789fdb12b501f01cd5b202caa1cd7d"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x176906f0bee543e5ef287436827d04be134fc722"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x51644e8986f7caab071ae8b955d7e6a85eda86b6"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x43c2e4aa90fdef8b763f581235c6a138355af8e3"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x590e864677c58fbe8f73f88d57e77f8683cb5eff"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x776b155406e8dcb0e1fe2265ce081b427ee7d7cc"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x3a44d5263a0c6dcc33537c014304cc9f1c511146"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xc93115d7f25bbb8a4cf964743337d3769af9ac84"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x2cf451e6856d9b8f04ff57b9100da5ae4923a6ce"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xf7004a0e04fee539e089194f7fd94b6a89d5c40e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x1c5be36c8102a500011ec682e35cc8ad801faf8a"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x9f85c654e7819546afda3df2ed3c5e8c423b31c0"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xe4c0ad5d3d45a336e507a47a9e09bf9c770ab93b"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x3cb6e6d75b81098428c89109c39e6c69f50843b0"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xc149e565e07bf023e0b687be019fe61deccbf81a"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x441814f5c48903c26656a2ff6766ad6a211ae031"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xbfdadd7d55feeffb5a43617bd837a9e8092f5eac"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xab0a0f5d7ca3bcb3d5c5ed4b79d80c82c92a2de1"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x9ea35359eb7dd7af0fe13f150c57de917af432db"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xa82bdc6e840d2512db19ed1d55d8cbe82cbe993b"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xf0b1ecfee4bce443931ad9ba4121ccadbd85a0bc"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x1d81692ce94bca6242650e0fc714ce3b18484c9d"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x28d3220ebd66ac526f6e72a3412f29a7eed753b0"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xca32d3637af9f06a816fd9f45bcac79b5c2f61ed"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7b6054d691857f28afc33accc2d7565af44c25f0"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xfc75eb837179e658f9be417fdaa560d5f6032b49"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xf9514c6787de3a014d3a48fccc7d2d3436fabda9"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x2220e4cf9259b593fd9df160058c2af3454245e1"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xfb780791c6d9e460a8eda76142459188264e62da"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xc671b05671a7cd3080c6ceae79d284bdde0ef271"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x5e70712e0661783a8db72c9a94e57f042f7716dc"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x5df3908f360a40d91b73e3e0a7f30b52c2c8411e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x70797fdfa56c1017219ea815a57cb34e0f75c44c"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x488c0ebe90120f0a6ae9d69d3629d3165c77c0f9"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x0f863d0bbc760d7ef8d47c43639c13fc4b0f2e04"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xfec5364e5a43251bc2eb30519c6e44ee5bd143cc"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x16eb215495fd695b595b2416433d7df1c4da04ec"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xee7462c20647c9d77a98a802264ed8313824e9d3"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xdbb53a6ef7afe05b7b009624fd6101333367372f"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7344bc430113271c36ae2bfd48780b7b16d600be"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xd26da7c5ffacb326a24e19cfe1e5a7d05ebed868"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x979d08767aee8bce351be64cfec646bf92293674"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x2ba094d1a26d39edfb404d5c55801a845f385fdd"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7446ffe91d1f3cba51e949e8f238f4bacfbc05ae"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7d96d2488402ded8e8f66b3f251b68258fcd42c3"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x1f8bb0933147a92f6526e8e27d10b99dfa869280"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x942a6a136f84d491134b9e03a35dafa701d7ea21"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x50260de69a417e8e5400ac186c19d7d69be8f705"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xd2a08d02b1b7b93a7d039764ff0e31f5f67b1f9b"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xb13135da9aa4d4bb1ab7be6f57a0fb68cdffbbbc"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x6eb80a5583c76dd1b131a912a593fc74ce9629b8"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x6ac124e2b4b7402b2483331cabaebf8392064784"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x4e90cf836ccfe215b4793dea9b19ecfc0b3fc615"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xac8b63891325b295ded1debb3c38a2d3e1aa7012"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xcda35f9119f83ca5a1de30288158b7ad2ee26f8e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xa05cddbdfba1d47c8d28b510bcdc986553970841"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x348f4ed4f3b6ab5d0472d571f3cec2ff6f013720"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x4a49700676ca4649c2c2631f771198fcb3abb438"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x62cdf0e5e5f0fc3abb124f25ad41c9bf84fec4cf"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x5b567d1426d74afdf001c4cb7bcabaee31b8f6d7"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x80fc4c7ac05acb0c2b05866f43ce929a356ed49e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x322bf705ebebcdf1fc79ce59e07954e339b0152c"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x3f59b1c55d8974d30fe56068333630008a5edfbc"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x29b3f20da51d077780fe49082ec916bcd54b652a"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x1ba101c513302b3a8e2a26836585a5f79ded432e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x24d114a75f70ff98eb29739a4503955462b36470"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x431730b984520e480d2d7dfc4b056ea575d34c77"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x4b23ac90267d84a6516f2130e7dcc34209084fb0"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7be7fa04a13248466ccbae7792b343d38f654071"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xdd775be2e6f504ab8b93801963cf2cfcaee4fe11"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xc1ff7cea93d2324a76e1cb19c98d5e0a3a2b6b3f"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xcaf5239e43a3a4c9fced854f4805cf1592b3f8f0"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x21a2edb31ba0dcfc15275599f67f661cdde2e236"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x771a2da83236a230c15ce3eb07be4de7164e3cff"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x0bd4475fbc4309f27a49b323625126ffefd70029"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x27dbb7461811a78a581611d8875878c5789427ae"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x1f4724cd1a8c0720c390a2120b3bf5d204fc2d37"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x688e7a9302c6f2b605b48066324c1cf1b48ad440"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xc7172c7f8c140db4a5576850108101b8a4e99560"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x1b1318c3ec104799de21e4ce2284c3de52a1e452"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x36014fbe13fed6dbb2e24b85c0c2fa9d6b7863a4"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xc0f79fb1fb2f288d0b2df25362b366f12ae6c7f2"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xdf62c06444a100b27ff067a7c965712a2368187f"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x0893d06b0f37f654ea469e5bad2efea7c6d581cf"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x8d93a6a9d33c194305adcc92abef7d055fcf4445"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x205ba210b80de3b3cedf1243d4718f92cb674d01"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xfa5cfd595154d0d8d6b73c030d1a23ad8a865dc7"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x1b51fd0c0da45320e0cbb38b46d3f5e5d1aae18e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xf60e748aa03db7e382ef5df9de912f1f88e97a37"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xaac4094437bf8798b60998973a8a7f03ec56f574"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x7c9d74289d0d222b705700adf93a0960cb5059b6"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xb3ad70bcf6fd0c8ca85abee95eb5ea6ee5c51cbc"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xb99b2ad71489d282871df3ca731d7a1479ab58d6"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0x786c396a54ff16556fc431c9bb193b305f57dc07"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x005741858c3c3581f60ce9818946bd40d9d31dda"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xb2c7b58f028babb6e1ac5bcffb019a105ec3ad3a"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x498de8fdec826321293ff0d3fc1a47752686d00c"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xafe46d4c4fe9648bcfb7bd87d1d5e53adf805221"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x8c50d1b37a3975daccc0b4afea63f5d34a659781"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x3f477449d3dc7dd4871001eb8b04979f7aebc171"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x88015feb5643704a710181535d3af6fc5c6e9560"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x10ae0151796151990e8da442d52be582502d56d6"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x66649a7862d05d97bfc07ee4dccc223d5116cb65"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xd7ec6481a8722c9a06a6da1b2d024f4aa46d6a95"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x52c80bd8bd2828af81a26922d842ef2b9a6229c9"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x4375c83f270df97e24a1055bc0306a3591d74626"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x19eefd5611c4a5abf7a79c49228d43b6c1c0c269"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xaf1d3ed13a11126d638e15512419abb1fa1f8294"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xe22434cca7f03cb4d3d26029e1df16487e83fca1"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xfcd1513edea4f6f8ccae7f0cbc54978bdf0478db"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x28a645aca864d3e03a5a0fc62b98e86d2a4f4f62"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x258893b48f73fe54332db24c56aaff6ae99ed5ea"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0xa5dab3c7a3821f6440a10d634e766bfd2750e54e"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x89f96dbf45692d65ec7833d2b69e15bac7f3cdd3"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x3ffe8df98a9c8e80b7e5d2bbfcd82c41168aa058"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://bithumb.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

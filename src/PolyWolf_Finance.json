@@ -1,0 +1,21 @@
+{
+  "name": "PolyWolf Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Wolf LPs (WOLF-LP)",
+          "address": "0x13c5cb6762eb5dc01c515cf85a2d8d74fc21a18d"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "http://polywolf.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

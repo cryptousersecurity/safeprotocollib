@@ -1,0 +1,29 @@
+{
+  "name": "Swell Network",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "SY swETH (SY-swETH)",
+          "address": "0xaa68ca9c69a4ff22203ce189ce4448d7401875e8"
+        },
+        {
+          "name": "SimpleStakingERC20",
+          "address": "0x38d43a6cb8da0e855a42fb6b0733a0498531d774"
+        },
+        {
+          "name": "Zap",
+          "address": "0xbd9fc4fdb07e46a69349101e862e82aa002ade0d"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.swellnetwork.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

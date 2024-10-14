@@ -1,0 +1,21 @@
+{
+  "name": "Lydia Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0x590673007ff2839818cb1155926758e5f969d821"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.lydia.finance",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "CheeseSwap.app",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0x89d20dcda1dc49f47bcda00c3b84fe30ac3d127b"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://cheeseswap.app/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

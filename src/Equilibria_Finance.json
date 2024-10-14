@@ -1,0 +1,51 @@
+{
+  "name": "Equilibria Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "PendleProxySidechain",
+          "address": "0x64627901dadb46ed7f275fd4fc87d086cff1e6e3"
+        },
+        {
+          "name": "EqbZap (Proxy)",
+          "address": "0xc7517f481cc0a645e63f870830a4b2e580421e32"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "EqbZap (Proxy)",
+          "address": "0x4f1cdf43f5e407abd569878976960d4d0a3d3452"
+        },
+        {
+          "name": "PendleProxyMainchain",
+          "address": "0x64627901dadb46ed7f275fd4fc87d086cff1e6e3"
+        },
+        {
+          "name": "SY ePendle (SY-ePendle)",
+          "address": "0x887bdd18d042a85b9c702698efe71e1c38d5c868"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "PendleProxySidechain",
+          "address": "0x4d32c8ff2facc771ec7efc70d6a8468bc30c26bf"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://equilibria.fi",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

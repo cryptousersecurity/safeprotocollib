@@ -1,0 +1,37 @@
+{
+  "name": "Thena.fi",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "VolatileV1 AMM - USDT/WBNB (vAMM-USDT/WBNB)",
+          "address": "0x6be6a437a1172e6c220246ecb3a92a45af9f0cbc"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0xc9fd6de6e25de1b0e18b1e7eeb19b3d391614ff5"
+        },
+        {
+          "name": "Algebra Pool",
+          "address": "0x1b9a1120a17617d8ec4dc80b921a9a1c50caef7d"
+        },
+        {
+          "name": "Router V2",
+          "address": "0xd4ae6eca985340dd434d38f470accce4dc78d109"
+        },
+        {
+          "name": "VolatileV1 AMM - WBNB/BUSD (vAMM-WBNB/BUSD)",
+          "address": "0x483653bcf3a10d9a1c334ce16a19471a614f4385"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.thena.fi/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

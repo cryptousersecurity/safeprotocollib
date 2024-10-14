@@ -1,0 +1,21 @@
+{
+  "name": "penguinbuild",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "penguinbuild.eth",
+          "address": "0xf15689636571dba322b48e9ec9ba6cfb3df818e1"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://penguinbuild.org/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

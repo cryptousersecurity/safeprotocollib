@@ -1,0 +1,33 @@
+{
+  "name": "BurgerSwap",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "BURGER",
+          "address": "0x7ac55ac530f2c29659573bde0700c6758d69e677"
+        },
+        {
+          "name": "BTCB-BURGER",
+          "address": "0x54ca570ffe6fb3d031aab5b62ee04f173e0be718"
+        },
+        {
+          "name": "SHLIAPA-BURGER",
+          "address": "0xb5279929d532f96a1deced0dc3e73f6b74dae7d3"
+        },
+        {
+          "name": "USDT-BURGER",
+          "address": "0x034772cdcd90f5baabb2da325a879d6aa6840f6e"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://burgerswap.org/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

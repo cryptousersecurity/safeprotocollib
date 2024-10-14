@@ -1,0 +1,21 @@
+{
+  "name": "OasisDEX",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Exchange",
+          "address": "0xb5eb8cb6ced6b6f8e13bcd502fb489db4a726c7b"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://oasisdex.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

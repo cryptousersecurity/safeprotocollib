@@ -1,0 +1,223 @@
+{
+  "name": "Binance",
+  "description": "This project stands as the unrivaled titan of the crypto realm, reigning supreme as the foremost cryptocurrency exchange globally, boasting unparalleled daily trading volumes.",
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "WBNB Token",
+          "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0x9430801ebaf509ad49202aabc5f5bc6fd8a3daf8"
+        },
+        {
+          "name": "Withdrawal Hot Wallet",
+          "address": "0xe2fc31f816a9b94326492132018c3aecc4a93ae1"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x161ba15a5f335c9f06bb5bbb0a9ce14076fbb645"
+        },
+        {
+          "name": "Withdrawal Hot Wallet",
+          "address": "0x29bdfbf7d27462a2d115748ace2bd71a2646946c"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x515b72ed8a97f42c568d6a143232775018f133c8"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x3c783c21a0383057d128bae431894a5c19f9cf06"
+        },
+        {
+          "name": "Withdrawal Hot Wallet",
+          "address": "0xa180fe01b906a1be37be6c534a3300785b20d947"
+        },
+        {
+          "name": "Withdrawal Hot Wallet",
+          "address": "0x1fbe2acee135d991592f167ac371f3dd893a508b"
+        },
+        {
+          "name": "Withdrawal Hot Wallet",
+          "address": "0x73f5ebe90f27b46ea12e5795d16c4b408b19cc6f"
+        },
+        {
+          "name": "Beacon ETH Token",
+          "address": "0x250632378e573c6be1ac2f97fcdf00515d0aa91b"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xbd612a3f30dca67bf60a39fd0d35e39b7ab80774"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x8894e0a0c962cb723c1976a4421c95949be2d4e3"
+        },
+        {
+          "name": "Withdrawal Hot Wallet",
+          "address": "0xeb2d2f1b8c558a40207669291fda468e50c8a0bb"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x01c952174c24e1210d26961d456a77a39e1f0bb0"
+        },
+        {
+          "name": "Withdrawal Hot Wallet",
+          "address": "0xdccf3b77da55107280bd850ea519df3705d1a75a"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x082489a616ab4d46d1947ee3f912e080815b08da"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x290275e3db66394c52272398959845170e4dcb88"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xe7804c37c13166ff0b37f5ae0bb07a3aebb6e245"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x505e71695e9bc45943c58adec1650577bca68fd9"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x4976a4a02f38326660d17bf34b431dc6e2eb2327"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0x9430801ebaf509ad49202aabc5f5bc6fd8a3daf8"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x28c6c06298d514db089934071355e5743bf21d60"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x9696f59e4d72e237be84ffd425dcad154bf96976"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x56eddb7aa87536c09ccc2793473599fd21a8b17f"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xdfd5293d8e347dfe59e90efd55b2956a1343963d"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x21a31ee1afc51d94c2efccaa2092ad1028285549"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0x9f8c163cba728e99993abe7495f06c0a3c8ac8b9"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x6d8be5cdf0d7dee1f04e25fd70b001ae3b907824"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xcddc5d0ebeb71a08fff26909aa6c0d4e256b4fe1"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x3bce63c6c9abf7a47f52c9a3a7950867700b0158"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xaba2d404c5c41da5964453a368aff2604ae80a14"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x978b21a854dbefcd6d51dfd269875d158046240b"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0x9430801ebaf509ad49202aabc5f5bc6fd8a3daf8"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xb38e8c17e38363af6ebdcb3dae12e0243582891d"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x3931dab967c3e2dbb492fe12460a66d0fe4cc857"
+        },
+        {
+          "name": "Cold Wallet",
+          "address": "0xf977814e90da44bfa03b6295a0616a897441acec"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x1b5b4e441f5a22bfd91b7772c780463f66a74b35"
+        },
+        {
+          "name": "Gas Supplier",
+          "address": "0x9430801ebaf509ad49202aabc5f5bc6fd8a3daf8"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0xf92402bb795fd7cd08fb83839689db79099c8c9c"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x25681ab599b4e2ceea31f8b498052c53fc2d74db"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Gas Supplier",
+          "address": "0x9430801ebaf509ad49202aabc5f5bc6fd8a3daf8"
+        },
+        {
+          "name": "Hot Wallet",
+          "address": "0x3304e22ddaa22bcdc5fca2269b418046ae7b566a"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Hot Wallet",
+          "address": "0xacd03d601e5bb1b275bb94076ff46ed9d753435a"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://binance.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Iron Bank",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Iron Bank CHF (iCHF)",
+          "address": "0x1b3e95e8ecf7a7cab6c4de1b344f94865abd12d5"
+        },
+        {
+          "name": "Iron Bank EURO Token (IBEUR)",
+          "address": "0x96e61422b6a9ba0e068b6c5add4ffabc6a4aae27"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://app.ib.xyz/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Cult DAO",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Treausry Proxy",
+          "address": "0x55ac81186e1a8454c79ad78c615c43f54f87403b"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://cultdao.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

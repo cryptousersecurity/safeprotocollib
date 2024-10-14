@@ -1,0 +1,25 @@
+{
+  "name": "Franklin Templeton",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "EZET Ethereum ETF",
+          "address": "0x21818666ea7218fa2579146ccffb05c113fcd132"
+        },
+        {
+          "name": "EZET Ethereum ETF Inflow (Coinbase Prime Deposit)",
+          "address": "0xf892c7b77d50b8ed19a33fd28e24151600478731"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.franklintempleton.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "name": "Zapper",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Sushiswap Zap In",
+          "address": "0x5abfbe56553a5d794330eaccf556ca1d2a55647c"
+        },
+        {
+          "name": "Ethereum to Polygon Bridge",
+          "address": "0xe34b087bf3c99e664316a15b01e5295eb3512760"
+        },
+        {
+          "name": "Uniswap V2 Zap In",
+          "address": "0x80c5e6908368cb9db503ba968d7ec5a565bfb389"
+        },
+        {
+          "name": "Uniswap V2 Zap In 2",
+          "address": "0x6d9893fa101cd2b1f8d1a12de3189ff7b80fdc10"
+        },
+        {
+          "name": "Old Uniswap Zap Out V2",
+          "address": "0xcfa897e2c4e0a64eaa9ca41f607820a09134353a"
+        },
+        {
+          "name": "DeFiZap",
+          "address": "0xbbbfc46566e5f0302cef913af8c8f423070ce6a1"
+        },
+        {
+          "name": "Olympus Zap",
+          "address": "0x12c085210a498369720f68c3020a60edf1542e4a"
+        },
+        {
+          "name": "zapperdeployer.eth",
+          "address": "0x19327c8fc14585b075b98583613f5e46488e4c7f"
+        },
+        {
+          "name": "Olympus_V2_Zap_In",
+          "address": "0x6f5cc3edea92ab52b75bad50bcf4c6daa781b87e"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "OpenSea User",
+          "address": "0xbbbfc46566e5f0302cef913af8c8f423070ce6a1"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "zapperdeployer.eth",
+          "address": "0x19327c8fc14585b075b98583613f5e46488e4c7f"
+        },
+        {
+          "name": "Pancakeswap_ZapIn_V3_1",
+          "address": "0x25d9fa3da06422ec5306a85545f0f30646d30ecd"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "zapperdeployer.eth",
+          "address": "0x19327c8fc14585b075b98583613f5e46488e4c7f"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "Quickswap Zap In",
+          "address": "0xf231be40d73a9e73d859955344a4ff74f448df34"
+        },
+        {
+          "name": "Aave Zap In",
+          "address": "0x8dfdea6a4818d2aa7463edb9a8841cb0c04255af"
+        },
+        {
+          "name": "zapperdeployer.eth",
+          "address": "0x19327c8fc14585b075b98583613f5e46488e4c7f"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://zapper.xyz/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

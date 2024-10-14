@@ -1,0 +1,45 @@
+{
+  "name": "LooksRare",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Aggregator Fee Sharing Uniswap V3",
+          "address": "0x3ab16af1315dc6c95f83cbf522fecf98d00fd9ba"
+        },
+        {
+          "name": "TokenDistributor",
+          "address": "0x465a790b428268196865a3ae2648481ad7e0d3b1"
+        },
+        {
+          "name": "Wrapped LooksRare Token (wLOOKS)",
+          "address": "0xe7bac7d798d66d353b9e50ebfc6859950fe13ce4"
+        },
+        {
+          "name": "Exchange V2",
+          "address": "0x0000000000e655fae4d56241588680f86e3b2377"
+        },
+        {
+          "name": "Staking",
+          "address": "0x2a70e7f51f6cd40c3e9956aa964137668cbfadc5"
+        },
+        {
+          "name": "OpenSea User",
+          "address": "0x9eab2223d84060e212354bfa620bf687b6e9ae20"
+        },
+        {
+          "name": "Fee Sharing",
+          "address": "0xbcd7254a1d759efa08ec7c3291b2e85c5dcc12ce"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://looksrare.org/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

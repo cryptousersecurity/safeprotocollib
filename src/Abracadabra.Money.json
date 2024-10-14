@@ -1,0 +1,78 @@
+{
+  "name": "Abracadabra.Money",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "TokenLevSwapper",
+          "address": "0x4b4c275a5bbbb68a4dcc99c7c47be3ec04108940"
+        },
+        {
+          "name": "LzIndirectOFTV2",
+          "address": "0x957a8af7894e76e16db17c2a913496a4e60b7090"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Treasury",
+          "address": "0xdf2c270f610dc35d8ffda5b453e74db5471e126b"
+        },
+        {
+          "name": "Multisig",
+          "address": "0x5f0dee98360d8200b20812e174d139a1a633edd2"
+        },
+        {
+          "name": "LzProxyOFTV2",
+          "address": "0x439a5f0f5e8d149dda9a0ca367d4a8e4d6f83c10"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "LzIndirectOFTV2",
+          "address": "0xb3a66127ccb143bfb01d3aecd3ce9d17381b130d"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "LzIndirectOFTV2",
+          "address": "0x4035957323fc05ad9704230e3dc1e7663091d262"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "LzIndirectOFTV2",
+          "address": "0x48686c24697fe9042531b64d792304e514e74339"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "LzIndirectOFTV2",
+          "address": "0xca0d86afc25c57a6d2acdf331cabd4c9cee05533"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://abracadabra.money/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

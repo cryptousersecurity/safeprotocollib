@@ -1,0 +1,25 @@
+{
+  "name": "PantherSwap",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Pool",
+          "address": "0x542b077f6a06b488a31b8c8b31e456f2b3984989"
+        },
+        {
+          "name": "Pool",
+          "address": "0x6af4c4433474b2f8ba385ad62b23299c82846783"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://pantherswap.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

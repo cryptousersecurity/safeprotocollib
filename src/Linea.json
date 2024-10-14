@@ -1,0 +1,38 @@
+{
+  "name": "Linea",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "L1 Message Service",
+          "address": "0xd19d4b5d358258f05d7b411e21a1460d11b0876f"
+        },
+        {
+          "name": "TokenBridge (Proxy)",
+          "address": "0x051f1d88f0af5763fb888ec4378b4d8b29ea3319"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "Token Bridge (Proxy)",
+          "address": "0x353012dc4a9a6cf55c941badc267f82004a8ceb9"
+        },
+        {
+          "name": "L2 Message Service",
+          "address": "0x508ca82df566dcd1b0de8296e70a96332cd644ec"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://linea.build/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

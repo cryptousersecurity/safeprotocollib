@@ -1,0 +1,21 @@
+{
+  "name": "Matrix Chain",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "NewVoteContract",
+          "address": "0x28ded18e44e160caa85799e17906291378d65b02"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://matrixchain.space/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

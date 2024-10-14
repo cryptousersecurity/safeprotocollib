@@ -1,0 +1,39 @@
+{
+  "name": "Element NFT Marketplace",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "ElementExSwapV2",
+          "address": "0x66950320086664429c69735318724ae24ec0d835"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "ElementExSwapV2",
+          "address": "0xb4e7b8946fa2b35912cc0581772cccd69a33000c"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "ElementExSwapV2",
+          "address": "0x25956fd0a5fe281d921b1bb3499fc8d5efea6201"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://element.market",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

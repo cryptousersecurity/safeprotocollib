@@ -1,0 +1,21 @@
+{
+  "name": "Dopex",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "DopexV2PositionManager",
+          "address": "0xe4ba6740af4c666325d49b3112e4758371386adc"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.dopex.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

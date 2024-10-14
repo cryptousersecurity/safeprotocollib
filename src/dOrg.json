@@ -1,0 +1,21 @@
+{
+  "name": "dOrg",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x8c3fa50473065f1d90f186ca8ba1aa76aee409bb"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://dorg.tech",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Paragons DAO",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "NFT Treasury",
+          "address": "0x12267aefd8bb461817df348ce16c933e76c1aa0d"
+        },
+        {
+          "name": "Treasury",
+          "address": "0xc977cbadd359ae06b236d9581e37fd5a03e54b84"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://paragonsdao.com/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

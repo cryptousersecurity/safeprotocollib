@@ -1,0 +1,21 @@
+{
+  "name": "ConsenSys",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Oracle DAO Rewards",
+          "address": "0x5bc5ec5130f66f13d5c21ac6811a7e624ed3c7c6"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://consensys.net",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

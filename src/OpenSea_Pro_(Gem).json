@@ -1,0 +1,21 @@
+{
+  "name": "OpenSea Pro (Gem)",
+  "description": null,
+  "chains": [
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "Deployer",
+          "address": "0xf653580a71a96f0f8896f73c7008b47603f568c9"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": null,
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

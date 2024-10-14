@@ -1,0 +1,64 @@
+{
+  "name": "Magpie Protocol",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "SmartPendleConvert (Proxy)",
+          "address": "0xa9dd725ba2eaacdb7a30d17597b7d8c3fd2f80ed"
+        },
+        {
+          "name": "SY mPendle (SY-mPendle)",
+          "address": "0x5c4110ed760470f79e469a901bd6fb45a65be0f4"
+        },
+        {
+          "name": "Diamond",
+          "address": "0xba7bac71a8ee550d89b827fe6d67bc3dca07b104"
+        },
+        {
+          "name": "MLRTCCIPBridge (Proxy)",
+          "address": "0x42c614415cfb8c71bb28314f6d2a21d91c68f588"
+        },
+        {
+          "name": "PendleStakingSideChain (Proxy)",
+          "address": "0x6db96bbeb081d2a85e0954c252f2c1dc108b3f81"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "Penpie Token (PNP)",
+          "address": "0x5012c90f14d190607662ca8344120812aaa2639d"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Diamond",
+          "address": "0xba7bac71a8ee550d89b827fe6d67bc3dca07b104"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "PendleStaking (Proxy)",
+          "address": "0x6e799758cee75dae3d84e09d40dc416ecf713652"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.magpiexyz.io/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

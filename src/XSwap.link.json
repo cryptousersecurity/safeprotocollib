@@ -1,0 +1,66 @@
+{
+  "name": "XSwap.link",
+  "description": null,
+  "chains": [
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "ERC1967Proxy",
+          "address": "0xe1c14b9f065dead2e89ee35382f8bd42bdb87a04"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "ERC1967Proxy",
+          "address": "0xe1c14b9f065dead2e89ee35382f8bd42bdb87a04"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "ERC1967Proxy",
+          "address": "0xe1c14b9f065dead2e89ee35382f8bd42bdb87a04"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "ERC1967Proxy",
+          "address": "0xe1c14b9f065dead2e89ee35382f8bd42bdb87a04"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "ERC1967Proxy",
+          "address": "0xe1c14b9f065dead2e89ee35382f8bd42bdb87a04"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "ERC1967Proxy",
+          "address": "0xe1c14b9f065dead2e89ee35382f8bd42bdb87a04"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://xswap.link/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

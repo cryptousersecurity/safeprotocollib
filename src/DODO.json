@@ -1,0 +1,347 @@
+{
+  "name": "DODO",
+  "description": null,
+  "chains": [
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "DVM",
+          "address": "0xe79198b423b8c656e20f1a2a1c632023c2bff829"
+        },
+        {
+          "name": "DODOFeeRouteProxy",
+          "address": "0x03e89fc55a5ad0531576e5a502c4ca52c8bf391b"
+        },
+        {
+          "name": "DODOFeeRouteProxy",
+          "address": "0x2144bf2003bfd9aa0950716333fbb5b7a1caeda4"
+        },
+        {
+          "name": "KyberAdapter",
+          "address": "0x1f076a800005c758a505e759720eb6737136e893"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "DPPAdvanced",
+          "address": "0x4b543e89351faa242cb0172b2da0cdb52db699b4"
+        },
+        {
+          "name": "USDT-USDC",
+          "address": "0x813fddeccd0401c4fa73b092b074802440544e52"
+        },
+        {
+          "name": "DODOFeeRouteProxy",
+          "address": "0x39e3e49c99834c9573c9fc7ff5a4b226cd7b0e63"
+        },
+        {
+          "name": "UniV3Adapter",
+          "address": "0x6e7c5a418dd1395068e539514b8c4dc398a12e9e"
+        },
+        {
+          "name": "BalancerV2Adapter",
+          "address": "0x26a0225e27227fa6b5ead5b029532ec599c0a02e"
+        },
+        {
+          "name": "Vending Machine",
+          "address": "0xb5774aa87048d370a245bfa346d06776883b41d1"
+        },
+        {
+          "name": "Advanced Private Pool",
+          "address": "0x3d9d58cf6b1dd8be3033ce8865f155fac16186cc"
+        },
+        {
+          "name": "Vending Machine",
+          "address": "0xabd5be6d160ff8e810d79ffa5abfbc67554034fd"
+        },
+        {
+          "name": "Private Pool",
+          "address": "0x5283e7ef568d0d48a0f283906dff02b06b749dba"
+        },
+        {
+          "name": "Multisig",
+          "address": "0x3cd6d7f5ff977bf8069548ea1f9441b061162b42"
+        },
+        {
+          "name": "Vending Machine",
+          "address": "0x6f732dd081624eb66f72fe6cd815ff0c631f0f84"
+        },
+        {
+          "name": "Vending Machine",
+          "address": "0x9fe43f87a27c86c766772804c60982dcae1425a8"
+        },
+        {
+          "name": "DPPAdvanced",
+          "address": "0x1093ced81987bf532c2b7907b2a8525cd0c17295"
+        },
+        {
+          "name": "Vending Machine",
+          "address": "0x7d55d4891c7c56417e64a91c6e7c9ddfab33c277"
+        },
+        {
+          "name": "ERC20V3 Factory",
+          "address": "0x5258db198f6e39889bfca6016786af562ab8be91"
+        },
+        {
+          "name": "DVM",
+          "address": "0x581c7db44f2616781c86c331d31c1f09db87a746"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "USDT-USDC",
+          "address": "0xc9f93163c99695c6526b799ebca2207fdf7d61ad"
+        },
+        {
+          "name": "DLP_888f9645 (DLP)",
+          "address": "0x888f9645b3ce29e92fc5bd79130009f0f64f2149"
+        },
+        {
+          "name": "DLP_8a326ab6 (DLP)",
+          "address": "0x8a326ab6ba2f19db9a17b13d473c974b04ff7b7f"
+        },
+        {
+          "name": "DLP_24060dd5 (DLP)",
+          "address": "0x24060dd55ddb1a1482d15334e24b25cbf35de265"
+        },
+        {
+          "name": "DLP_51cbcf0c (DLP)",
+          "address": "0x51cbcf0c045f7ee77dc20c9951f6eaafe872bb6f"
+        },
+        {
+          "name": "DLP_5c89043c (DLP)",
+          "address": "0x5c89043c59371de560f7a38f450fcf164cc97187"
+        },
+        {
+          "name": "DLP_ee11e505 (DLP)",
+          "address": "0xee11e5054edcf65e1ab57d76950751662e8ab011"
+        },
+        {
+          "name": "DLP_f591e5a6 (DLP)",
+          "address": "0xf591e5a6a81d7327327179e76a24e7d546dc7131"
+        },
+        {
+          "name": "DLP_2a539fdd (DLP)",
+          "address": "0x2a539fddbc229f946760f8a9021eabf33592ac5a"
+        },
+        {
+          "name": "V2 Proxy",
+          "address": "0xa356867fdcea8e71aeaf87805808803806231fdc"
+        },
+        {
+          "name": "DLP_a66c671a (DLP)",
+          "address": "0xa66c671a32f663864cd27db3344663869c930a19"
+        },
+        {
+          "name": "DLP_68ab13e3 (DLP)",
+          "address": "0x68ab13e336d11c8f0b8fe654034b2141398888b4"
+        },
+        {
+          "name": "DLP_dcca10fc (DLP)",
+          "address": "0xdcca10fc6a9db06c25830c2114d2a61adf5e82e4"
+        },
+        {
+          "name": "DLP_1b02816e (DLP)",
+          "address": "0x1b02816edfa991adece0a461bf30d62bff3c9f67"
+        },
+        {
+          "name": "DAI-USDT",
+          "address": "0x3058ef90929cb8180174d74c507176cca6835d73"
+        },
+        {
+          "name": "DLP_8917ef39 (DLP)",
+          "address": "0x8917ef39de7f17b4745c64205f6beb0b0602024f"
+        },
+        {
+          "name": "DODOFeeRouteProxy",
+          "address": "0x50f9bde1c76bba997a5d6e7fefff695ec8536194"
+        },
+        {
+          "name": "DLP_427d84df (DLP)",
+          "address": "0x427d84dfbb484e0f7d984819d795aa21c5e5e760"
+        },
+        {
+          "name": "UniV3Adapter",
+          "address": "0x9393a68e904b1f52a081cdfcf02ec56d842bf239"
+        },
+        {
+          "name": "DLP_01f9be56 (DLP)",
+          "address": "0x01f9be56ac624455e69b939e91b4e0e4ba8201af"
+        },
+        {
+          "name": "DODOV1Adapter",
+          "address": "0x91e1c84ba8786b1fae2570202f0126c0b88f6ec7"
+        },
+        {
+          "name": "BalancerV2Adapter",
+          "address": "0x6f5d8a4479855bf0222ee8f7c1dfffdd113f7ca7"
+        },
+        {
+          "name": "DLP_712e119e (DLP)",
+          "address": "0x712e119e35c5bd2778ba12363656156e3017c6dd"
+        },
+        {
+          "name": "DLP_983dfba1 (DLP)",
+          "address": "0x983dfba1c0724786598af0e63a9a6f94aabd24a1"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0x95c4f5b83aa70810d4f142d58e5f7242bd891cb0"
+        },
+        {
+          "name": "DLP_084b1bc6 (DLP)",
+          "address": "0x084b1bc67799bea7f6209b87a902aaaddb36fb6e"
+        },
+        {
+          "name": "DLP_fc3c957f (DLP)",
+          "address": "0xfc3c957f8252728b2a7ce10349ff0825a17c3e6f"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "USDT-USDC Pair V1",
+          "address": "0xe4b2dfc82977dd2dce7e8d37895a6a8f50cbb4fb"
+        },
+        {
+          "name": "DODOV1Proxy",
+          "address": "0x49186e32fed50fd6b5604a2618c7b0b03cd41414"
+        },
+        {
+          "name": "Multisig Wallet",
+          "address": "0x01d3e7271c278aa3aa56eeba6a109b2c200679fa"
+        },
+        {
+          "name": "GSP_094e917e (GLP)",
+          "address": "0x094e917e846d9d194c858e2d8ac994fcb2f4ea5c"
+        },
+        {
+          "name": "WBTC-USDC Pair V1",
+          "address": "0xb42a054d950dafd872808b3c839fbb7afb86e14c"
+        },
+        {
+          "name": "DLP_65e17c52 (DLP)",
+          "address": "0x65e17c52128396443d4a9a61eacf0970f05f8a20"
+        },
+        {
+          "name": "V2 Proxy",
+          "address": "0x88cbf433471a0cd8240d2a12354362988b4593e5"
+        },
+        {
+          "name": "DODO V1 Adapter",
+          "address": "0xd5a7e197bace1f3b26e2760321d6ce06ad07281a"
+        },
+        {
+          "name": "DODOFeeRouteProxy",
+          "address": "0xe05dd51e4eb5636f4f0e8e7fbe82ea31a2ecef16"
+        },
+        {
+          "name": "GSP",
+          "address": "0x94ee274848804fec9424b70850c6cc2f67440640"
+        },
+        {
+          "name": "WETH-USDC Pair V1",
+          "address": "0xfe176a2b1e1f67250d2903b8d25f56c0dabcd6b2"
+        },
+        {
+          "name": "BalancerV2Adapter",
+          "address": "0x2f1de0c1a5d72e33907bbb5027599e14ca1d9d73"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "DODOFeeRouteProxy",
+          "address": "0x0656fd85364d03b103ceeda192fb2d3906a6ac15"
+        },
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0xcaa42f09af66a8bae3a7445a7f63dad97c11638b"
+        },
+        {
+          "name": "DPP",
+          "address": "0x6098a5638d8d7e9ed2f952d35b2b67c34ec6b476"
+        },
+        {
+          "name": "Proxy V2",
+          "address": "0x8f8dd7db1bda5ed3da8c9daf3bfa471c12d58486"
+        },
+        {
+          "name": "DLP_d5f05644 (DLP)",
+          "address": "0xd5f05644ef5d0a36ca8c8b5177ffbd09ec63f92f"
+        },
+        {
+          "name": "DODO",
+          "address": "0xbe60d4c4250438344bec816ec2dec99925deb4c7"
+        },
+        {
+          "name": "PancakeV3Adapter",
+          "address": "0x801357436a63a484718f14c0c25ac2300601a1c2"
+        },
+        {
+          "name": "ImpossibleAdapter",
+          "address": "0xd98946d8e79120c73ce16bb2deb4ced21f0e69d5"
+        },
+        {
+          "name": "DODO",
+          "address": "0x6064dbd0ff10bfed5a797807042e9f63f18cfe10"
+        },
+        {
+          "name": "DLP",
+          "address": "0xd534fae679f7f02364d177e9d44f1d15963c0dd7"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "DPPAdvanced",
+          "address": "0x2939df25c6818c5b5bbd35a3f29daccc52e81b34"
+        },
+        {
+          "name": "DPPAdvanced",
+          "address": "0x1ccc652b6a104b7e3adf7ff030b892e37097c111"
+        }
+      ]
+    },
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "DODOV2Proxy02",
+          "address": "0x4cad0052524648a7fa2cfe279997b00239295f33"
+        },
+        {
+          "name": "DODOFeeRouteProxy",
+          "address": "0x987bfbe33c9cf18caa665b792db66339a9c16d32"
+        },
+        {
+          "name": "UniV3Adapter",
+          "address": "0x24549fc74b3076a962624a26370ed556c467f74c"
+        },
+        {
+          "name": "SushiV3Adapter",
+          "address": "0xac716e87b0853c0712674e8e3a8435a489f276b4"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://dodoex.io",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

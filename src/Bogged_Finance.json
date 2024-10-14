@@ -1,0 +1,21 @@
+{
+  "name": "Bogged Finance",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "BoggedFinanceProxy",
+          "address": "0xb099ed146fad4d0daa31e3810591fc0554af62bb"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.bogged.finance/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

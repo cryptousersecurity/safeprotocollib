@@ -1,0 +1,21 @@
+{
+  "name": "Alameda Research",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "FTX Bankruptcy Estate",
+          "address": "0xf02e86d9e0efd57ad034faf52201b79917fe0713"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://alameda-research.com",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

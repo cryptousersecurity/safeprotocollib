@@ -1,0 +1,96 @@
+{
+  "name": "Axelar Network",
+  "description": null,
+  "chains": [
+    {
+      "name": "base",
+      "contracts": [
+        {
+          "name": "Deployer",
+          "address": "0xa57adce1d2fe72949e4308867d894cd7e7de0ef2"
+        },
+        {
+          "name": "AxelarGasService (Proxy)",
+          "address": "0x2d5d7d31f671f86c782533cc367f14109a082712"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "AxelarGasService (Proxy)",
+          "address": "0x2d5d7d31f671f86c782533cc367f14109a082712"
+        }
+      ]
+    },
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "Gateway",
+          "address": "0x4f4495243837681061c4743b74b3eedf548d56a5"
+        },
+        {
+          "name": "Relayer 5",
+          "address": "0xd36aac0c9676e984d72823fb662ce94d3ab5e551"
+        },
+        {
+          "name": "AxelarGasService (Proxy)",
+          "address": "0x2d5d7d31f671f86c782533cc367f14109a082712"
+        }
+      ]
+    },
+    {
+      "name": "polygon",
+      "contracts": [
+        {
+          "name": "AxelarGasService (Proxy)",
+          "address": "0x2d5d7d31f671f86c782533cc367f14109a082712"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "AxelarGasService (Proxy)",
+          "address": "0x2d5d7d31f671f86c782533cc367f14109a082712"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "AxelarGasService (Proxy)",
+          "address": "0x2d5d7d31f671f86c782533cc367f14109a082712"
+        }
+      ]
+    },
+    {
+      "name": "linea",
+      "contracts": [
+        {
+          "name": "AxelarGasServiceProxy",
+          "address": "0x2d5d7d31f671f86c782533cc367f14109a082712"
+        }
+      ]
+    },
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "AxelarGasService (Proxy)",
+          "address": "0x2d5d7d31f671f86c782533cc367f14109a082712"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://axelar.network/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

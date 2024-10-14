@@ -1,0 +1,25 @@
+{
+  "name": "Symbiotic",
+  "description": null,
+  "chains": [
+    {
+      "name": "ethereum",
+      "contracts": [
+        {
+          "name": "DefaultCollateral_Wrapped liquid staked Ether 2.0 (DC_wstETH)",
+          "address": "0xc329400492c6ff2438472d4651ad17389fcb843a"
+        },
+        {
+          "name": "DefaultCollateral_Coinbase Wrapped Staked ETH (DC_cbETH)",
+          "address": "0xb26ff591f44b04e78de18f43b46f8b70c6676984"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://symbiotic.fi",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Treasure DAO",
+  "description": null,
+  "chains": [
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "Gnosis Safe Proxy",
+          "address": "0xdb6ab450178babcf0e467c1f3b436050d907e233"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://treasure.lol/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

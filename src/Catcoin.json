@@ -1,0 +1,21 @@
+{
+  "name": "Catcoin",
+  "description": null,
+  "chains": [
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "CATS Token",
+          "address": "0x2f0c6e147974bfbf7da557b88643d74c324053a2"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://www.catcoincrypto.me/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}

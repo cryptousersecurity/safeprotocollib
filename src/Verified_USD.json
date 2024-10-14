@@ -1,0 +1,48 @@
+{
+  "name": "Verified USD",
+  "description": null,
+  "chains": [
+    {
+      "name": "avalanche",
+      "contracts": [
+        {
+          "name": "MessagingV1",
+          "address": "0x35e8d1da73e927fa6e9b01892de0cab468f647df"
+        }
+      ]
+    },
+    {
+      "name": "bsc",
+      "contracts": [
+        {
+          "name": "MessagingV1",
+          "address": "0x35e8d1da73e927fa6e9b01892de0cab468f647df"
+        }
+      ]
+    },
+    {
+      "name": "arbitrum",
+      "contracts": [
+        {
+          "name": "MessagingV1",
+          "address": "0x35e8d1da73e927fa6e9b01892de0cab468f647df"
+        }
+      ]
+    },
+    {
+      "name": "optimism",
+      "contracts": [
+        {
+          "name": "MessagingV1",
+          "address": "0xe5fed5b0f777f3244d8523f7fc41ef61147cdf4c"
+        }
+      ]
+    }
+  ],
+  "extra": {
+    "website": "https://usdv.money/",
+    "github": "",
+    "securityAudits": [],
+    "tags": []
+  }
+}
